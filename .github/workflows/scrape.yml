@@ -23,7 +23,7 @@ jobs:
         -H 'DNT: 1' -H 'Connection: keep-alive' \
         -H 'Referer: https://www.argentina.gob.ar/' \
         -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' \
-        -H 'Sec-Fetch-Site: cross-site' -H 'Sec-GPC: 1' -H 'TE: trailers'
+        -H 'Sec-Fetch-Site: cross-site' -H 'Sec-GPC: 1' -H 'TE: trailers' \
         --compressed | jq . > estado-rutas.json
     - name: Commit & push if changed
       run: |-
