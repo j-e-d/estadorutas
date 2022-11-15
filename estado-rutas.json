@@ -1,5 +1,5 @@
 {
-  "range": "'Hoja 1'!A1:Z1012",
+  "range": "'Hoja 1'!A1:Z1011",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -3404,15 +3404,6 @@
       "Pavimento Flexible",
       "NORMAL - Circular con precaución",
       "TRANSFERENCIA DE ADMINISTRACION Y CONSERVACION A LA DPV",
-      "15 de Noviembre de 2022, 06:00  am"
-    ],
-    [
-      "Misiones",
-      "S/N",
-      "<",
-      "Pavimento Flexible",
-      "NORMAL",
-      "Transitar con Precaución.-",
       "15 de Noviembre de 2022, 06:00  am"
     ],
     [
