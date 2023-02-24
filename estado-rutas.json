@@ -12,8 +12,8 @@
           "quota_location": "global",
           "quota_limit": "ReadRequestsPerMinutePerProject",
           "service": "sheets.googleapis.com",
-          "quota_limit_value": "300",
           "quota_metric": "sheets.googleapis.com/read_requests",
+          "quota_limit_value": "300",
           "consumer": "projects/942723613373"
         }
       },
