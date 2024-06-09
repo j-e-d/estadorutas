@@ -9,12 +9,12 @@
         "reason": "RATE_LIMIT_EXCEEDED",
         "domain": "googleapis.com",
         "metadata": {
+          "consumer": "projects/942723613373",
+          "service": "sheets.googleapis.com",
           "quota_location": "global",
-          "quota_limit_value": "300",
           "quota_metric": "sheets.googleapis.com/read_requests",
           "quota_limit": "ReadRequestsPerMinutePerProject",
-          "consumer": "projects/942723613373",
-          "service": "sheets.googleapis.com"
+          "quota_limit_value": "300"
         }
       },
       {
