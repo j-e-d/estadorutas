@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Get data
       run: |-
-        curl 'https://sheets.googleapis.com/v4/spreadsheets/17AqjqeNvM4nG6cOUsUFKFaKXMiNmztYfzHIxeM9FcXk/values/Hoja%201?alt=json&key=AIzaSyCq2wEEKL9-6RmX-TkW23qJsrmnFHFf5tY' \
+        curl 'https://sheets.googleapis.com/v4/spreadsheets/17AqjqeNvM4nG6cOUsUFKFaKXMiNmztYfzHIxeM9FcXk/values/tablavisible?key=AIzaSyCq2wEEKL9-6RmX-TkW23qJsrmnFHFf5tY&alt=json' \
         -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0' \
         -H 'Accept: application/json, text/javascript, */*; q=0.01' \
         -H 'Accept-Language: en,en-US;q=0.8,en-GB;q=0.5,es-ES;q=0.3' \
