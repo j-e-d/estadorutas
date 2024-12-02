@@ -5895,7 +5895,7 @@
       "PAVIMENTO",
       "41,00",
       "",
-      "",
+      "Transitable con precaucion por sectores con baches y animales suetos.",
       "2/12/2024 08:00"
     ],
     [
@@ -5906,7 +5906,7 @@
       "PAVIMENTO",
       "77,40",
       "",
-      "Transitable normal. Precaución animales sueltos",
+      "Transitable con precaucion por sectores con baches y animales suetos.",
       "2/12/2024 08:00"
     ],
     [
@@ -5917,7 +5917,7 @@
       "PAVIMENTO",
       "144,00",
       "",
-      "Transitable con precaución personal vial realiza tareas de perfilado de banquina ",
+      "Transitable con precaución por trabajos de perfilado en banquina. Reducir la velocidad y respetar las indicaciones del personal vial.",
       "2/12/2024 08:00"
     ],
     [
