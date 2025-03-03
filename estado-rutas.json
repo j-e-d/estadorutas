@@ -1110,7 +1110,7 @@
       "PAVIMENTO",
       "62,87",
       "",
-      "Circulación habilitada para todo tipo de vehículos con precaución entre Puerto Madryn y Trelew. El incendio de campos entre ambas ciudades continúa, pero se alejó de la ruta, por lo que se solicita respetar a las fuerzas de seguridad presentes, ya que circulan vehículos de emergencia. Calzada húmeda. Lloviznas.",
+      "Calzada normal. Banquinas normal. Desvíos habilitados. Ceniza en el ambiente. Transitar con precaución.",
       "28/2/2025 09:00"
     ],
     [
@@ -1121,7 +1121,7 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando en mantenimiento de banquinas y corte de pasto entre Trelew y Uzcudun. Viento. Lloviznas. Transitar con precaución.",
+      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando en mantenimiento de banquinas y corte de pasto entre Trelew y Uzcudun. Viento. Transitar con precaución.",
       "28/2/2025 09:00"
     ],
     [
@@ -5154,11 +5154,11 @@
       "Salta",
       "51",
       "Campo Quijano - San Antonio De Los Cobres",
-      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "134,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/18/a-las-nubes-rn-51\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
-      "Tránsito interrumpido por material en calzada desde Maury hasta Gobernador Solá",
+      "Tránsito con precaución por presencia de equiposviales en la zona de Maury",
       "3/3/2025 09:00"
     ],
     [
@@ -5170,7 +5170,7 @@
       "143,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/20/Sico\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Circular con precaución. Paso de Sico: HABILITADO, horario de funcionamiento 8:00 a 18:00 hs. SOLO transporte de carga. ",
-      "3/3/2025 09:00"
+      "3/3/2025 11:00"
     ],
     [
       "Salta",
