@@ -340,8 +340,8 @@
       "PAVIMENTO",
       "8.00",
       "",
-      "Intransitable por presencia de agua en calzada",
-      "7/3/2025 17:00"
+      "Transitable con precaución",
+      "7/3/2025 20:00"
     ],
     [
       "Buenos Aires",
@@ -351,8 +351,8 @@
       "PAVIMENTO",
       "16.00",
       "",
-      "Intransitable por presencia de agua en calzada",
-      "7/3/2025 17:00"
+      "Transitable con precaución",
+      "7/3/2025 20:00"
     ],
     [
       "Buenos Aires",
@@ -362,8 +362,8 @@
       "PAVIMENTO",
       "45.00",
       "",
-      "Intransitable por presencia de agua en calzada",
-      "7/3/2025 17:00"
+      "Transitable con precaución",
+      "7/3/2025 20:00"
     ],
     [
       "Buenos Aires",
@@ -373,8 +373,8 @@
       "PAVIMENTO",
       "58.00",
       "",
-      "Intransitable por presencia de agua en calzada",
-      "7/3/2025 17:00"
+      "Transitable con precaución",
+      "7/3/2025 20:00"
     ],
     [
       "Buenos Aires",
@@ -384,8 +384,8 @@
       "PAVIMENTO",
       "65.00",
       "",
-      "Intransitable por presencia de agua en calzada",
-      "7/3/2025 17:00"
+      "Transitable con precaución",
+      "7/3/2025 20:00"
     ],
     [
       "Buenos Aires",
@@ -3079,7 +3079,7 @@
       "PAVIMENTO",
       "45,70",
       "",
-      "Precaución y transitar a velocidad baja entre km 150 a 157 que unen el límite con Río Negro y la Ruta Provincial N°20 (Colonia El Sauzal) por calzada en mal estado.  Ruta Provincial N°20: obra finalizada. Transitable en óptimas condiciones.",
+      "Precaución y transitar a velocidad baja entre km 150 a 157 que unen el límite con Río Negro y la Ruta Provincial N°20 (Colonia El Sauzal) por calzada en mal estado.",
       "7/3/2025 07:15"
     ],
     [
@@ -3185,34 +3185,34 @@
       "La Pampa",
       "154",
       "Cotita Emp. RN 35 - Emp. RP 28",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "36,30",
       "",
-      "",
-      "7/3/2025 07:15"
+      "Por agua sobre la calzada",
+      "7/3/2025 00:00"
     ],
     [
       "La Pampa",
       "154",
       "Emp. RP 28 - Emp. RP 30",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "30,20",
       "",
-      "",
-      "7/3/2025 07:15"
+      "Por agua sobre la calzada",
+      "7/3/2025 00:00"
     ],
     [
       "La Pampa",
       "154",
       "Emp. RP 30 - La Adela Emp. RN 22",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "70,26",
       "",
-      "Precaución entre los kilómetros 110 y 129, por calzada deteriorada y leves ondulaciones. ",
-      "7/3/2025 07:15"
+      "Por agua sobre la calzada",
+      "7/3/2025 00:00"
     ],
     [
       "La Pampa",
