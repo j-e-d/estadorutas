@@ -120,74 +120,74 @@
       "PAVIMENTO",
       "18",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Se recomienda no circular por la presencia de socavones en km 672-674",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "Emp. RN N° 229 - El Triángulo",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "7",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Se recomienda no circular por la presencia de socavones en km 672-674",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "El Triángulo - Ex J. N. Granos",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "5",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Se recomienda no circular por la presencia de socavones en km 672-674",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "Ex J. N. Granos - Avda. G. Torres",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "2",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Se recomienda no circular por la presencia de socavones en km 672-674",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "Avda. G. Torres - Emp. RN 33",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "12",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Transito restringido hacia el sur. Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "Emp. RN N° 33 - Emp. RN N° 22",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "21",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      " Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "3",
       "Emp. RN 22 - Tte.Origone",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "37",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Transito restringido hacia el sur. Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -197,8 +197,8 @@
       "PAVIMENTO",
       "52",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Transito restringido hacia el sur. Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -208,8 +208,8 @@
       "PAVIMENTO",
       "73",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Transito restringido hacia el sur. Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -219,8 +219,8 @@
       "PAVIMENTO",
       "82",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Transito restringido hacia el sur. Se produce corte total en km 708",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -307,8 +307,8 @@
       "PAVIMENTO",
       "14",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "No llega a la ciudad de Bahía Blanca. Transitable hasta empalme RN 3",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -318,8 +318,8 @@
       "PAVIMENTO",
       "60",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "No llega a la ciudad de Bahía Blanca. Transitable hasta empalme RN 3",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -329,63 +329,63 @@
       "PAVIMENTO",
       "59",
       "",
-      "",
-      "7/3/2025 08:30"
+      "No llega a la ciudad de Bahía Blanca. Transitable hasta empalme RN 3",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "33",
       "Emp. RN N° 3 - Emp. Ex RN N° 33",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "8.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por presencia de agua en calzada",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "33",
       "Emp. Ex RN N° 33 - La Viticola",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "16.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por presencia de agua en calzada",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "33",
       "La Viticola - Tornquist",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "45.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por presencia de agua en calzada",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "33",
       "Tornquist - Pigüé",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "58.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por presencia de agua en calzada",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "33",
       "Pigüé - Guamini",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "65.00",
       "",
-      "",
-      "7/3/2025 08:30"
+      "Intransitable por presencia de agua en calzada",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -424,23 +424,23 @@
       "Buenos Aires",
       "35",
       "Bahía Blanca - Nueva Roma",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "30.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por socavones. Calzada deteriorada y erosionada en los km 20; 47;89",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "35",
       "Nueva Roma - San Germán",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "43.00",
       "",
-      "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "Intransitable por socavones. Calzada deteriorada y erosionada en los km 20; 47;89",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -545,34 +545,34 @@
       "Buenos Aires",
       "228",
       "Necochea - Acc. a San Cayetano",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "55.00",
       "",
-      "",
-      "7/3/2025 08:30"
+      "Intransitable gran presencia de agua sobre calzada entre Necochea y Tres Arroyos",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "228",
       "Acc. a San Cayetano - Camp. A Belloq",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "70.00",
       "",
-      "",
-      "7/3/2025 08:30"
+      "Intransitable gran presencia de agua sobre calzada entre Necochea y Tres Arroyos",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
       "228",
       "Camp. A Belloq - Tres Arroyos",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "15.00",
       "",
-      "",
-      "7/3/2025 08:30"
+      "Intransitable gran presencia de agua sobre calzada entre Necochea y Tres Arroyos",
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -583,7 +583,7 @@
       "15.00",
       "",
       "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -594,7 +594,7 @@
       "20.00",
       "",
       "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -605,7 +605,7 @@
       "6.00",
       "",
       "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -616,7 +616,7 @@
       "2.00",
       "",
       "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -627,7 +627,7 @@
       "304.00",
       "",
       "Alerta Roja. Evitar Circular",
-      "7/3/2025 09:30"
+      "7/3/2025 17:00"
     ],
     [
       "Buenos Aires",
@@ -1099,8 +1099,8 @@
       "PAVIMENTO",
       "92,82",
       "",
-      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lluvia. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1110,8 +1110,8 @@
       "PAVIMENTO",
       "62,87",
       "",
-      "Calzada normal. Banquinas normal. Desvío por obras habilitado en calzada sentido norte a sur (del km 1410 al 1424). Respetar señalamiento. Animales sueltos. Viento. Equipos viales trabajando. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda. Banquinas húmedas. Desvío por obras habilitado en calzada sentido norte a sur (del km 1410 al 1424). Respetar señalamiento. Animales sueltos. Viento. Lluvia.  Equipos viales trabajando. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1121,8 +1121,8 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lluvia. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1133,7 +1133,7 @@
       "178,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas inestables en sectores. Baches en sectores. Animales sueltos. Viento. Equipos de Vialidad Nacional trabajando. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1144,7 +1144,7 @@
       "17,31",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Animales sueltos. Desvío por obras en Ramón Santos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1154,8 +1154,8 @@
       "PAVIMENTO",
       "205,00",
       "",
-      "Calzada normal. Banquinas normal. Animales sueltos. Cuadrilla de Conservación trabajando. Viento. Transitar con precaución. ",
-      "7/3/2025 09:00"
+      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Cuadrilla de Conservación trabajando. Viento. Lluvia. Transitar con precaución. ",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1166,7 +1166,7 @@
       "103,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Desvíos de ripio en los km 258-260 y 284 - 285. Equipos de Vialidad Nacional trabajando en bacheo. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1177,7 +1177,7 @@
       "57,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando en bacheo. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1188,7 +1188,7 @@
       "164,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando en bacheo. Sectores con baches entre los km 390 al 420 (transitar este sector con extrema precaución y a baja velocidad). Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1199,7 +1199,7 @@
       "138,00",
       "",
       "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1210,7 +1210,7 @@
       "72,70",
       "",
       "Calzada normal, deformada en sectores. Equipos de Vialidad Nacional trabajando. Banquinas normal. Transitar con precaución. Respetar señalamiento. Viento.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1221,7 +1221,7 @@
       "37,30",
       "",
       "Calzada normal, deformada, con baches en sectores. Banquinas inestables. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1232,7 +1232,7 @@
       "53,40",
       "",
       "Calzada normal, deformada en sectores. Banquinas inestables. Baches en sectores. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1243,7 +1243,7 @@
       "178,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas inestables. Entre Facundo-Tamariscos sectores con baches y deformaciones de calzada. Extrema precaución en ese tramo. Equipos de Vialidad Nacional trabajando. Desvío de ripio habilitado y transitable con extrema precaución entre Facundo y Tamariscos. Respetar señalamiento. Animales sueltos. Viento.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1254,7 +1254,7 @@
       "83,70",
       "",
       "Calzada normal. Banquinas normal. Baches en sectores de La Paulina. Equipos de Vialidad Nacional trabajando en bacheo en el sector de La Paulina. Animales sueltos. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1265,7 +1265,7 @@
       "84,40",
       "",
       "Calzada normal, húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1276,7 +1276,7 @@
       "105,00",
       "",
       "Calzada normal, húmeda en sectores. Banquinas inestables. Animales sueltos. Sectores con deformaciones y baches entre Leleque y arroyo Madera. Equipos de Vialidad Nacional trabajando en bacheo. Viento. Lloviznas. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1287,7 +1287,7 @@
       "47,30",
       "",
       "Calzada normal. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1297,8 +1297,8 @@
       "PAVIMENTO",
       "13,60",
       "",
-      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lluvia. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1308,8 +1308,8 @@
       "PAVIMENTO",
       "21,63",
       "",
-      "Calzada húmeda, con agua en sectores. Banquinas inestables. Baches en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lluvia. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda, con agua en sectores. Banquinas inestables. Baches en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1319,8 +1319,8 @@
       "RIPIO",
       "39,95",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/49/Futaleuf%C3%BA\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Calzada húmeda, con barro en sectores. Banquinas inestables. Maquinaria de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Lluvia. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "Calzada húmeda, con barro en sectores. Banquinas inestables. Maquinaria de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Lloviznas. Transitar con precaución.",
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1331,7 +1331,7 @@
       "105,41",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/56/Huemules\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Calzada normal, con ripio suelto en sectores. Banquinas normal. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento moderado. Transitar con máxima precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Maquinaria vial trabajando en mantenimiento de calzada. Respetar señalamiento existente.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1342,7 +1342,7 @@
       "7,00",
       "",
       "Calzada normal. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1353,7 +1353,7 @@
       "12,20",
       "",
       "Calzada normal. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución ",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Chubut",
@@ -1364,7 +1364,7 @@
       "19,60",
       "",
       "Calzada normal. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "7/3/2025 09:00"
+      "7/3/2025 16:00"
     ],
     [
       "Córdoba",
@@ -6622,7 +6622,7 @@
       "87,77",
       "",
       "Calzada y banquina húmeda - Visibilidad Reducida por lluvia -Transitar con extrema precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6633,7 +6633,7 @@
       "79,44",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6644,7 +6644,7 @@
       "83,85",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6655,7 +6655,7 @@
       "16,20",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6666,7 +6666,7 @@
       "56,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6677,7 +6677,7 @@
       "11,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6688,7 +6688,7 @@
       "43,45",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6699,7 +6699,7 @@
       "18,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6710,7 +6710,7 @@
       "66,00",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6721,7 +6721,7 @@
       "70,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/70/R%C3%ADo-Bella-Vista-(Ex-Radman)\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6732,7 +6732,7 @@
       "11,00",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6743,7 +6743,7 @@
       "91,00",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6754,7 +6754,7 @@
       "",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6765,7 +6765,7 @@
       "",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6776,7 +6776,7 @@
       "",
       "",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6787,7 +6787,7 @@
       "",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/69/San-Sebasti%C3%A1n\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Calzada y banquina c/sectores parcial poceados y seca- Visibilidad Buena -Transitar con precaución .-",
-      "7/2/2025 09:57"
+      "7/2/2025 15:38"
     ],
     [
       "Tucumán",
