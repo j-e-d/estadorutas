@@ -5785,7 +5785,7 @@
       "PAVIMENTO",
       "69,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Transitable con precaución por viento y lluvia. ",
       "19/3/2025 09:00"
     ],
     [
@@ -5796,7 +5796,7 @@
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con precaución por viento.  Animales sueltos ",
+      "Transitable con precaución por viento y lluvia. ",
       "19/3/2025 09:00"
     ],
     [
@@ -5807,7 +5807,7 @@
       "PAVIMENTO",
       "28,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Transitable con precaución por viento y lluvia. ",
       "19/3/2025 09:00"
     ],
     [
@@ -5818,7 +5818,7 @@
       "PAVIMENTO",
       "130,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Transitable con precaución por viento y lluvia. ",
       "19/3/2025 09:00"
     ],
     [
@@ -5829,51 +5829,51 @@
       "PAVIMENTO",
       "173,00",
       "",
-      "Transitable con precaución , personal vial realiza tareas mejorativas en Zona de Lago Cardiel. Respetar señalización e indicaciones.",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Gobernador Gregores - Tamel Aike",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "103,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Tamel Aike - Bajo Caracoles",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "CALZADA NATURAL",
       "123,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Bajo Caracoles - Perito Moreno",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "129,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Perito Moreno - Lte. Chubut",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO FLEXIBLE",
       "88,00",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
@@ -5902,22 +5902,22 @@
       "Santa Cruz",
       "288",
       "Emp. RN 3 - Estancia La Julia",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "77,40",
       "",
-      "Transitable con precaución por animales sueltos y sectores con baches ",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
       "Santa Cruz",
       "288",
       "Estancia La Julia - Tres Lagos",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "144,00",
       "",
-      "Transitable con precaución por animales sueltos .",
+      "Circulación restringida para todo tipo de vehiculos, por fuertes vientos y alerta meteorologico vigente.",
       "19/3/2025 09:00"
     ],
     [
