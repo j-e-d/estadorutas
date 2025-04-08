@@ -512,11 +512,11 @@
       "Buenos Aires",
       "205",
       "Int. RP 51 - Bolivar",
-      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "128.00",
       "",
-      "Respetar la carteleria provisoria",
+      "",
       "8/4/2025 09:00"
     ],
     [
@@ -6874,7 +6874,7 @@
       "PAVIMENTO",
       "17,31",
       "",
-      "Transitable.  Equipos viales trabajan en el desmalezamiento de la zona de camino entre los km 710 y km 728.",
+      "Transitable.  Equipos viales trabajan en el desmalezamiento de la zona de camino en todo el tramo.",
       "8/4/2025 08:00"
     ],
     [
@@ -6896,8 +6896,8 @@
       "PAVIMENTO",
       "24,62",
       "",
-      "Transitable.  Equipos viales trabajan en el desmalezamiento de la zona de camino en el tramo:  Concepción - río Seco.",
-      "8/4/2025 08:00"
+      "Transitable.  Personal vial y equipos trabajan sobre la calzada en todo el tramo, se solicita resptar las indicaciones de los banderilleros.",
+      "8/4/2025 11:00"
     ],
     [
       "Tucumán",
@@ -7061,8 +7061,8 @@
       "PAVIMENTO",
       "6,00",
       "",
-      "Transitable. ",
-      "8/4/2025 08:00"
+      "Transitable.  Personal vial y equipos trabajan en la zona de caminos .",
+      "8/4/2025 11:00"
     ],
     [
       "Tucumán",
@@ -7072,7 +7072,7 @@
       "PAVIMENTO",
       "24,00",
       "",
-      "Transitable. ",
+      "Transitable.  ",
       "8/4/2025 08:00"
     ],
     [
@@ -7083,7 +7083,7 @@
       "PAVIMENTO",
       "19,00",
       "",
-      "Transitable.  Personal vial y equipos trabajan en la zona de caminos en el distribuidor del km 779.",
+      "Transitable.  ",
       "8/4/2025 08:00"
     ],
     [
