@@ -1132,7 +1132,7 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada normal, deformada en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "Calzada normal, húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
       "18/5/2025 09:00"
     ],
     [
@@ -1143,7 +1143,7 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas inestables. Animales sueltos. Viento. Heladas matinales. Equipos de Vialidad Nacional trabajando. Transitar con precaución",
+      "Calzada húmeda, con escarcha en sectores. Banquinas inestables. Animales sueltos. Viento. Heladas fuertes. Equipos de Vialidad Nacional trabajando. Transitar con extrema precaución",
       "18/5/2025 09:00"
     ],
     [
@@ -4560,12 +4560,12 @@
       "Neuquén",
       "242",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Intransitable nuevo reporte 11:00 hs. Calzada con acumulación de nieve y hielo. Equipos de Vialidad Nacional operando.",
-      "18/5/2025 08:30"
+      "Transitable con máxima precaución a partir de las 12:00 hs. Calzada húmeda, hielo en sectores. Baja adherencia. Bajas temperaturas. Zonas con animales sueltos. Posible caída de rocas en el km 48. Portación obligatoria de cadenas. ",
+      "18/5/2025 11:15"
     ],
     [
       "Neuquén",
