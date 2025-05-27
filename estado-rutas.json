@@ -2096,7 +2096,7 @@
       "Corrientes",
       "123",
       "Emp. RN 12 - Mercedes",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "73,00",
       "",
@@ -3779,11 +3779,11 @@
       "Mendoza",
       "7",
       "Punta De Vacas - Puente Del Inca",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "26,00",
       "",
-      "cielo cubierto con nevadas ",
+      "Transitable con precaución ",
       "27/5/2025 00:00"
     ],
     [
