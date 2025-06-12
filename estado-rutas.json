@@ -281,12 +281,12 @@
       "Buenos Aires",
       "9",
       "Campana - Lte. Santa Fe",
-      "<span class='label bg-cielo'>RESTRINGIDA</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "160",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
-      "Habilitada mano a Rosario entre los kilómetros 84 y 142. Restringido mano a CABA entre los kilómetros 142 y 94 solo a vehículos livianos. ",
-      "12/6/2025 09:00"
+      "",
+      "12/6/2025 16:30"
     ],
     [
       "Buenos Aires",
@@ -1110,7 +1110,7 @@
       "92,82",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1121,7 +1121,7 @@
       "62,87",
       "",
       "Calzada normal. Banquinas normal. Desvío por obras habilitado en calzada sentido norte a sur (del km 1410 al 1424). Respetar señalamiento. Animales sueltos. Viento. Equipos viales trabajando. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1132,7 +1132,7 @@
       "198,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1142,8 +1142,8 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1154,7 +1154,7 @@
       "17,31",
       "",
       "Calzada normal. Banquinas normal. Desvío por obras en Ramón Santos. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1164,8 +1164,8 @@
       "PAVIMENTO",
       "205,00",
       "",
-      "Calzada normal, húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Neblina en sectores. Transitar con precaución. ",
-      "12/6/2025 08:00"
+      "Calzada normal, deformada en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1176,7 +1176,7 @@
       "103,00",
       "",
       "Calzada normal, deformada en sectores. Banquinas normal. Desvíos de ripio en los km 258-260 y 284-285 (Circular a baja velocidad en los desvíos). Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1187,7 +1187,7 @@
       "57,00",
       "",
       "Calzada normal, deformada en tramos. Calzada con baches en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando.  Animales sueltos. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1197,8 +1197,8 @@
       "PAVIMENTO",
       "164,00",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando. Sectores con baches entre los km 390 al 420 (transitar este sector con extrema precaución y a baja velocidad). Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, con sal en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando. Sectores con baches entre los km 390 al 420 (transitar este sector con extrema precaución y a baja velocidad). Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1209,7 +1209,7 @@
       "138,00",
       "",
       "Calzada normal, con sal en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1220,7 +1220,7 @@
       "72,70",
       "",
       "Calzada normal, con sal en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1230,8 +1230,8 @@
       "PAVIMENTO",
       "37,30",
       "",
-      "Calzada normal, con baches en sectores. Banquinas inestables. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Heladas. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada húmeda, con baches en sectores. Banquinas inestables. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Lloviznas. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1241,8 +1241,8 @@
       "PAVIMENTO",
       "53,40",
       "",
-      "Calzada normal, deformada en sectores. Banquinas normal. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Heladas. Transitar con precaución",
-      "12/6/2025 08:00"
+      "Calzada húmeda, deformada en sectores. Banquinas húmedas. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Lloviznas. Transitar con precaución",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1252,8 +1252,8 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada normal, húmeda en tramos, deformada en sectores. Banquinas inestables. Entre Facundo-Tamariscos sectores con baches y deformaciones de calzada. Extrema precaución en ese tramo. Equipos de Vialidad Nacional trabajando. Desvío de ripio intransitable entre Facundo y Tamariscos. Los desvíos no están habilitados para transitar. Respetar señalamiento. Animales sueltos. Viento. Heladas.",
-      "12/6/2025 08:00"
+      "Calzada húmeda en tramos, deformada en sectores. Banquinas inestables. Entre Facundo-Tamariscos sectores con baches y deformaciones de calzada. Extrema precaución en ese tramo. Equipos de Vialidad Nacional trabajando. Desvío de ripio intransitable entre Facundo y Tamariscos. Los desvíos no están habilitados para transitar. Respetar señalamiento. Animales sueltos. Viento. Lloviznas.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1263,8 +1263,8 @@
       "PAVIMENTO",
       "83,70",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas. Deformaciones en sectores de La Paulina. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Nebliina en sectores. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas. Deformaciones en sectores de La Paulina. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Lloviznas en sectores. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1274,8 +1274,8 @@
       "PAVIMENTO",
       "84,40",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Neblina en sectores. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada húmeda en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas en sectores. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1285,8 +1285,8 @@
       "PAVIMENTO",
       "105,00",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Sectores con deformaciones y baches entre Leleque y arroyo Madera. Equipos de Vialidad Nacional realizando recorrido preventivo. Viento. Lloviznas aisladas. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Sectores con deformaciones y baches entre Leleque y arroyo Madera. Equipos de Vialidad Nacional realizando recorrido preventivo. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1296,8 +1296,8 @@
       "PAVIMENTO",
       "47,30",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento leve. Neblina en sectores. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento leve. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1307,8 +1307,8 @@
       "PAVIMENTO",
       "13,60",
       "",
-      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento leve. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1318,8 +1318,8 @@
       "PAVIMENTO",
       "21,63",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1329,8 +1329,8 @@
       "RIPIO",
       "39,95",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/49/Futaleuf%C3%BA\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Calzada húmeda en sectores. Banquinas húmedas. Respetar señalamiento. Animales sueltos. Maquinaria de Vialidad Nacional trabajando en mantenimiento. Viento. Neblina. Transitar con precaución.",
-      "12/6/2025 08:00"
+      "Calzada húmeda en sectores. Banquinas húmedas. Respetar señalamiento. Animales sueltos. Maquinaria de Vialidad Nacional trabajando en mantenimiento. Viento. Transitar con precaución.",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1340,8 +1340,8 @@
       "RIPIO",
       "105,41",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/56/Huemules\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Calzada normal, húmeda en sectores. Banquinas normal. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento. Heladas. Transitar con precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Respetar señalamiento existente. Maquinaria de Vialidad Nacional trabajando en mantenimiento de la calzada de ripio. ",
-      "12/6/2025 08:00"
+      "Calzada húmeda, con barro y agua en sectores. Banquinas inestables. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento. Lloviendo en sectores. Transitar con precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Respetar señalamiento existente. Maquinaria de Vialidad Nacional trabajando en mantenimiento de la calzada de ripio. ",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1352,7 +1352,7 @@
       "7,00",
       "",
       "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1362,8 +1362,8 @@
       "PAVIMENTO",
       "12,20",
       "",
-      "Calzada normal, húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento leve. Transitar con precaución ",
-      "12/6/2025 08:00"
+      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución ",
+      "12/6/2025 16:30"
     ],
     [
       "Chubut",
@@ -1374,7 +1374,7 @@
       "19,60",
       "",
       "Calzada normal, húmeda en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución",
-      "12/6/2025 08:00"
+      "12/6/2025 16:30"
     ],
     [
       "Córdoba",
@@ -6632,7 +6632,7 @@
       "87,77",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Reducida por Niebla. Calzada y banquina húmeda con sectores con escarcha y parcialmente poceados. Clima: Adverso, con temperaturas muy bajas. transitar c/extrema precaución Equipos Viales. en mantenimiento en Ruta-Operativo: Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6643,7 +6643,7 @@
       "79,44",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Reducida por Bancos de Niebla. Calzada y banquina húmeda c/ sectores con escarcha. Clima: Adverso, con temperaturas muy bajas-Transitar c/extrema precaución- personal de la DNV. en colocación de señales Verticales.- Operativo: Equipos viales trabajando operativo antihielo.- Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6654,7 +6654,7 @@
       "83,85",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Reducida por Bancos de Niebla. Calzada y banquina sectores c/ escarcha. Clima: Adverso, con temperaturas muy bajas,transitar c/extrema precaución- Operativo: Equipos viales trabajando en mantenimniento en Ruta y operativo despeje y anti-hielo. Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6665,7 +6665,7 @@
       "16,20",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Reducida por Bancos de Niebla. Calzada y banquina húmeda c/sectores c/escarcha. Clima: Adverso, con temperaturas muy bajas, Operativo: Equipos viales trabajando en operativo anti-hielo. Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6676,7 +6676,7 @@
       "56,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Estado del camino: Habilitado al tránsito con extrema precaución. Condiciones: visibilidad Buena- Calzada y banquina húmeda c/sectores c/escarcha- Tramo comprendido progresivas km 2950 - km 2974 sectores con baches. transitar c/extrema precaución-. Clima: Adverso,: Equipos viales trabajando en operativo anti-hielo y Equipos Trabajando en Zona de Rio Valdez-en Bacheo en Frío.- Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6687,7 +6687,7 @@
       "11,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Estado del camino: Habilitado al tránsito con extrema precaución calzada y banquina Húmeda-sectores c/escarcha- Condiciones: visibilidad Reducida por Bancos de Niebla. Camino de montaña con riesgo de derrumbes. Clima: Adverso, con temperaturas muy bajas- Operativo: Equipos viales trabajando en despeje de nieve y operativo anti-hielo. Requisitos: Vehículos pesados: portación obligatoria y USO de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6698,7 +6698,7 @@
       "43,45",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: Visibilidad Buena. Calzada y banquina húmeda -Clima: Adverso, con temperaturas muy bajas,Transitar c/extrema precaución - Operativo: Personal de la DNV. trabajando en operativo anti-hielo,- Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6709,7 +6709,7 @@
       "18,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/3/andes-fueguinos-rn-3\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Estado del camino: Habilitado al tránsito con precaución. Visibilidad Buena. Calzada y banquina con sectores c/Nieve y escarcha-transitar con extrema precuación - Clima: Adverso, con temperaturas muy bajas. Operativo: . Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6720,7 +6720,7 @@
       "66,00",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Buena. Calzada y banquina húmeda, con sectores con nieve y escarcha y parcialmente poceados.transitar c/extrema precaución Clima: Adverso, con temperaturas muy bajas. Operativo: -. Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6731,7 +6731,7 @@
       "70,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/70/R%C3%ADo-Bella-Vista-(Ex-Radman)\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Buena-Calzada y banquina húmeda, con sectores con nieve y escarcha y parcialmente poceados.transitar con extrema precaución Clima: Adverso, con temperaturas muy bajas. Operativo: -. Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6742,7 +6742,7 @@
       "11,00",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Buena. Calzada con baches, sectores de ripio. banquinas estado regular. Circule con extrema precaución sectores con nieve y escarcha. Clima: Adverso, con temperaturas muy bajas. Operativo: -. Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6753,7 +6753,7 @@
       "91,00",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: Visibilidad Buena. Calzada y banquina con nieve y escarcha Equipos Trabajando en Calzada.-, parcialmente poceados. Clima: Adverso, con temperaturas muy bajas,transitar con extrema precaución.-Requisitos: Vehículos pesados: portación y USO obligatorio de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6764,7 +6764,7 @@
       "",
       "",
       "Estado del camino: Habilitado al tránsito con precaución. Condiciones: visibilidad Buena. Calzada y banquina /nieve, con sectores con escarcha. Clima: Adverso, con temperaturas muy bajas. Operativo: Requisitos: Vehículos pesados: portación obligatoria de cadenas. Vehículos livianos: uso de cubiertas de invierno.",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6775,7 +6775,7 @@
       "",
       "",
       "",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6786,7 +6786,7 @@
       "",
       "",
       "",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -6797,7 +6797,7 @@
       "",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/69/San-Sebasti%C3%A1n\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "",
-      "12/6/2025 09:30"
+      "12/6/2025 16:30"
     ],
     [
       "Tucumán",
