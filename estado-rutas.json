@@ -4366,8 +4366,8 @@
       "PAVIMENTO",
       "23,52",
       "",
-      "Transitable con extrema precaución. Tránsito intenso. Calzada húmeda. Llovizna.",
-      "25/7/2025 20:40"
+      "Transitable con precaución. Tránsito intenso. Calzada húmeda por llovizna. Posible formación de hielo.",
+      "26/7/2025 06:50"
     ],
     [
       "Neuquén",
@@ -4465,8 +4465,8 @@
       "PAVIMENTO",
       "142,27",
       "",
-      "Transitable con precaución. Calzada húmeda. Posible formación de hielo. Pronóstico de nevadas. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "25/7/2025 20:40"
+      "Transitable con extrema precaución. Calzada con acumulación mínima de nieve. Nevando. Posible formacion de hielo en sectores. Pronóstico de nevadas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando.",
+      "26/7/2025 06:50"
     ],
     [
       "Neuquén",
@@ -4476,8 +4476,8 @@
       "PAVIMENTO",
       "116,21",
       "",
-      "Transitable con precaución. Calzada húmeda. Posible formación de hielo. Pronóstico de nevadas. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "25/7/2025 20:40"
+      "Transitable con extrema precaución. Calzada con acumulación mínima de nieve. Posible formación de hielo. Pronóstico de nevadas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando.",
+      "26/7/2025 06:50"
     ],
     [
       "Neuquén",
@@ -4575,8 +4575,8 @@
       "PAVIMENTO",
       "6,86",
       "",
-      "Transitable con precaución. Tránsito intenso. Calzada húmeda por lluvia",
-      "25/7/2025 20:40"
+      "Transitable con precaución. Tránsito intenso. Calzada húmeda por llovizna. Posible formación de hielo.",
+      "26/7/2025 06:50"
     ],
     [
       "Neuquén",
@@ -4586,8 +4586,8 @@
       "PAVIMENTO",
       "23,67",
       "",
-      "Transitable con precaución. Tránsito intenso. Calzada húmeda por lluvia",
-      "25/7/2025 20:40"
+      "Transitable con precaución. Tránsito intenso. Calzada húmeda por llovizna. Posible formación de hielo.",
+      "26/7/2025 06:50"
     ],
     [
       "Río Negro",
@@ -4714,44 +4714,44 @@
       "Río Negro",
       "23",
       "Ingeniero Jacobacci - C. Oneli",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "47,00",
       "",
-      "Transitable con extrema precaución. Recorrido con riego de solución salina. Circular a velocidad precautoria. Recorrido con curvas cerradas. Tramos con nieve. Portación obligatoria de cadenas. Rige alerta por nevadas (SMN)",
+      "RESTRINGIDA PARA VEHICULOS PESADOS. Transitable con extrema precaución. Recorrido con riego de solución salina. Circular a velocidad precautoria. Recorrido con curvas cerradas. Tramos con nieve. Portación obligatoria de cadenas. Rige alerta por nevadas (SMN)",
       "25/7/2025 20:10"
     ],
     [
       "Río Negro",
       "23",
       "C. Oneli - Comallo",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "CALZADA NATURAL /PAVIMENTO",
       "41,00",
       "",
-      "Transitable con extrema precaución. Tramos con nieve. Tener presente que en tramo en obra con piedras sueltas. Circular a baja velocidad. Tramo con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Sectores con curvas cerradas. Rige alerta por nevadas (SMN)",
+      "RESTRINGIDA PARA VEHICULOS PESADOS. Transitable con extrema precaución. Tramos con nieve. Tener presente que en tramo en obra con piedras sueltas. Circular a baja velocidad. Tramo con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Sectores con curvas cerradas. Rige alerta por nevadas (SMN)",
       "25/7/2025 20:10"
     ],
     [
       "Río Negro",
       "23",
       "Comallo - Pilcaniyeu",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "56,00",
       "",
-      "Transitable con extrema precaución. Tramos de la calzada con nieve y hielo. Circular a velocidad precautoria. Tramo con curvas cerradas. Se recomienda no circular de noche. Poración obligatoria de cadenas. Rige alerta por nevadas (SMN)",
+      "RESTRINGIDA PARA VEHICULOS PESADOS. Transitable con extrema precaución. Tramos de la calzada con nieve y hielo. Circular a velocidad precautoria. Tramo con curvas cerradas. Se recomienda no circular de noche. Poración obligatoria de cadenas. Rige alerta por nevadas (SMN)",
       "25/7/2025 20:10"
     ],
     [
       "Río Negro",
       "23",
       "Pilcaniyeu - Emp. RN 40",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "CALZADA NATURAL /PAVIMENTO",
       "64,00",
       "",
-      "Transitable con extrema precaución. Tramso con nieve en calzada. Banquinas inestables. Precaución en las transiciones de asfalto a ripio. Curvas cerradas. Sectores con piedras sueltas. Se recomienda no circular de noche. Portación obligatoria de cadenas. Rige alerta por nevadas (SMN)",
+      "RESTRINGIDA PARA VEHICULOS PESADOS. Transitable con extrema precaución. Tramso con nieve en calzada. Banquinas inestables. Precaución en las transiciones de asfalto a ripio. Curvas cerradas. Sectores con piedras sueltas. Se recomienda no circular de noche. Portación obligatoria de cadenas. Rige alerta por nevadas (SMN)",
       "25/7/2025 20:10"
     ],
     [
