@@ -1286,7 +1286,7 @@
       "PAVIMENTO",
       "105,00",
       "",
-      "Calzada húmeda por riego con sal, con escarcha en sectores. Banquinas inestables. Animales sueltos. Sectores con deformaciones y baches entre Leleque y arroyo Madera. Equipos de Vialidad Nacional distribuyendo sal. Viento. Heladas. Transitar con precaución.",
+      "Calzada húmeda por riego con sal, con escarcha en sectores. Banquinas inestables. Animales sueltos. Sectores con deformaciones y baches entre Leleque y arroyo Madera. Equipos de Vialidad Nacional distribuyendo sal. Viento. Heladas. Neviscas en sectores. Transitar con precaución.",
       "27/7/2025 08:00"
     ],
     [
@@ -4399,7 +4399,7 @@
       "PAVIMENTO",
       "43,77",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/1/siete-lagos-rn-40\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
-      "Transitable con extrema precaución a partir de las 10:00 hs. Calzada con acumulación de nieve. Posible formación de hielo por sectores. Zona con animales sueltos. Portación obligatoria de cadenas.  Personal y equipos de Vialidad Nacional operando. Tránsitar a velocidad precautoria.",
+      "Transitable con extrema precaución a partir de las 10:00 hs. Calzada con acumulación de nieve. Nevando. Posible formación de hielo por sectores. Zona con animales sueltos. Portación obligatoria de cadenas.  Personal y equipos de Vialidad Nacional operando. Tránsitar a velocidad precautoria.",
       "27/7/2025 07:20"
     ],
     [
@@ -4494,12 +4494,12 @@
       "Neuquén",
       "231",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Transitable con máxima precaución. Calzada con acumulación de nieve y hielo. Baja adherencia. Pronóstico de bajas temperaturas y heladas. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando.",
-      "26/7/2025 20:20"
+      "Intransitable, próximo reporte 12:00 hs. Calzada con acumulación de hielo y nieve. Personal y equipos de Vialidad Nacional operando.",
+      "27/7/2025 08:35"
     ],
     [
       "Neuquén",
@@ -4520,8 +4520,8 @@
       "PAVIMENTO",
       "174,43",
       "",
-      "Intransitable a partir de las 20:30 hs",
-      "26/7/2025 20:20"
+      "Intransitable",
+      "27/7/2025 08:50"
     ],
     [
       "Neuquén",
@@ -4531,8 +4531,8 @@
       "PAVIMENTO",
       "118,79",
       "",
-      "Intransitable a partir de las 20:30 hs.",
-      "26/7/2025 20:20"
+      "Intransitable",
+      "27/7/2025 08:50"
     ],
     [
       "Neuquén",
@@ -4542,8 +4542,8 @@
       "PAVIMENTO",
       "67,36",
       "",
-      "Intransitable a partir de las 20:30 hs.",
-      "26/7/2025 20:20"
+      "Intransitable.",
+      "27/7/2025 08:50"
     ],
     [
       "Neuquén",
