@@ -5653,7 +5653,7 @@
       "58,12",
       "",
       "Transitable con precaución por sectores con escarcha y calzada humeda. Baches en sectores. Animales sueltos.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5664,7 +5664,7 @@
       "76,00",
       "",
       "Transitable con precaución por sectores con escarcha y calzada humeda. Banquinas descalzadas e inestables. Animales sueltos.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5675,7 +5675,7 @@
       "134,00",
       "",
       "Transitable con extrema precaución por sectores con escarcha y calzada humeda. Baches . Zona de animales sueltos. Banquinas inestables ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5686,7 +5686,7 @@
       "136,00",
       "",
       "Transitable con precaución por sectores con escarcha . Animales sueltos.  Sectores con baches. ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5696,8 +5696,8 @@
       "PAVIMENTO",
       "129,00",
       "",
-      "Transitable con precaución por escarcha y visibilidad reducida  por neblina . Animales sueltos. Sectores con baches . Banquinas inestable ",
-      "30/7/2025 15:30"
+      "Transitable con precaución por escarcha , visibilidad reducida  por neblina y lluvia  . Animales sueltos. Sectores con baches . Banquinas inestable ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5707,8 +5707,8 @@
       "PAVIMENTO",
       "102,5",
       "",
-      "Transitable con precaución por escarcha y visibilidad reducida por neblina. Nieve entre Monte León y Lemarchand.  Banquinas inestables. Animales sueltos.",
-      "30/7/2025 15:30"
+      "Transitable con precaución por escarcha y visibilidad reducida por neblina.  Agua nieve entre Monte León y Lemarchand.  Banquinas inestables. Animales sueltos.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5718,8 +5718,8 @@
       "PAVIMENTO",
       "76",
       "",
-      "Transitable con precaución, visibilidad reducida por bancos de niebla. Banquinas inestables. Escarcha matinal. Baches zona Río Coyle. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. ",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución, visibilidad reducida por bancos de niebla y lluvias intensas. Banquinas inestables.. Baches zona Río Coyle. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5729,8 +5729,8 @@
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con precaución, visibilidad reducida por bancos de niebla. Banquinas inestables. Escarcha matinal. Baches zona Río Coyle. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. ",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución, visibilidad reducida por bancos de niebla y lluvias intensas. Banquinas inestables.. Baches zona Río Coyle. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5741,7 +5741,7 @@
       "29,00",
       "",
       "Transitable con precaución por calzada húmeda. Viisbilidad reducida por bancos de niebla. Banquinas inestables. Animales sueltos. Puesto invernal SOS en Km 2560. Zona Wi Fi. ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5752,7 +5752,7 @@
       "63,00",
       "",
       "Transitable con precaución calzada humeda.  Escarcha matinal.  Visibilidad reducida por bancos de niebla. Baches. Animales sueltos.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5763,7 +5763,7 @@
       "85,00",
       "",
       "Transitable con precaución, sectores con escarcha y nieve. Zona de animales sueltos",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5774,7 +5774,7 @@
       "78,00",
       "",
       "Transitable con precaución por escarcha y nieve. Zona de animales sueltos",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5785,7 +5785,7 @@
       "80,00",
       "",
       "Transitable con precaución por escarcha y nieve. Zona de animales sueltos",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5795,52 +5795,52 @@
       "PAVIMENTO",
       "159,00",
       "",
-      "Transitable con precaución por escarcha y nieve. Zona de animales sueltos",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución, visibilidad reducida por nieve. Zona de animales sueltos",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
       "40",
       "La Esperanza - El Cerrito",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "69,00",
       "",
-      "Transitable con precaución por sectores con escarcha . Animales sueltos. ",
-      "30/7/2025 15:30"
+      "Circulación restringida para todo tipo de vehículos , hasta nuevo aviso, por nieve en la calzada. Muy bajas temperaturas. Equipos viales trabajando.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
       "40",
       "El Cerrito - Bajada de Miguez",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con precaución por nieve. Animales sueltos.",
-      "30/7/2025 15:30"
+      "Circulación restringida para todo tipo de vehículos , hasta nuevo aviso, por nieve en la calzada. Muy bajas temperaturas. Equipos viales trabajando.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
       "40",
       "Bajada De Miguez - Emp. RP 11",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "28,00",
       "",
-      "Transitable con precaución por sectores con escarcha. Animales sueltos.",
-      "30/7/2025 15:30"
+      "Circulación restringida para todo tipo de vehículos , hasta nuevo aviso, por nieve en la calzada. Muy bajas temperaturas. Equipos viales trabajando.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
       "40",
       "Emp. RP 11 - Tres Lagos",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "130,00",
       "",
-      "Transitable con precaución por nevisca. Animales sueltos.",
-      "30/7/2025 15:30"
+      "Circulación restringida para todo tipo de vehículos , hasta nuevo aviso, por nieve en la calzada. Muy bajas temperaturas. Equipos viales trabajando.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5851,7 +5851,7 @@
       "173,00",
       "",
       "Transitable con precaución sectores con barro y nieve . Solo para 4 x 4. Animales sueltos.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5862,7 +5862,7 @@
       "64",
       "",
       "Transitable con extrema precaución, escarcha matinal.  Zona de animales sueltos. Banquinas inestables",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5873,7 +5873,7 @@
       "45",
       "",
       "Transitable con extrema precaución, escarcha matinal.  Zona de animales sueltos. Sectores con baches ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5883,8 +5883,8 @@
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con extrema precaución por escarcha matinal. Zona de baches y  animales sueltos. Banquinas inestables . ",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución por escarcha y visibilidad reducida por neblina. Zona de baches y  animales sueltos. Banquinas inestables . ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5894,8 +5894,8 @@
       "PAVIMENTO",
       "25",
       "",
-      "Transitable con extrema precaución por escarcha matinal. Zona de baches y  animales sueltos. Banquinas inestables . ",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución por escarcha y visibilidad reducida por neblina. Zona de baches y  animales sueltos. Banquinas inestables . ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5905,8 +5905,8 @@
       "PAVIMENTO",
       "46",
       "",
-      "Transitable con extrema precaución por escarcha matinal. Zona de baches y  animales sueltos. Banquinas inestables . ",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución por escarcha y visibilidad reducida por neblina. Zona de baches y  animales sueltos. Banquinas inestables . ",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5916,8 +5916,8 @@
       "PAVIMENTO",
       "74",
       "",
-      "Transitable con extrema precaución escarcha matinal. Zona de baches y  animales sueltos.",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución por escarcha y visibilidad reducida por neblina. Zona de baches y  animales sueltos.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5927,8 +5927,8 @@
       "PAVIMENTO",
       "84",
       "",
-      "Transitable con extrema precaución por escarcha matinal,animales sueltos",
-      "30/7/2025 15:30"
+      "Transitable con extrema precaución por escarcha y visibilidad reducida por neblina.",
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5939,7 +5939,7 @@
       "125,00",
       "",
       "Transitable con precaución por sectores con escarcha y calzada humeda.  Presencia de animales sueltos. Banquinas inestables.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5950,7 +5950,7 @@
       "41,00",
       "",
       "Transitable con precaución por sectores con escarcha.  Zona de animales sueltos. Baches. Desvíos. ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5961,7 +5961,7 @@
       "77,40",
       "",
       "Transitable con precaución por sectores escarcha. Zona de animales sueltos. Baches. Desvíos.  ",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5972,7 +5972,7 @@
       "144,00",
       "",
       "Transitable con precaución por nieve y sectores con barro y huellones. Zona de animales sueltos.",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Cruz",
@@ -5983,7 +5983,7 @@
       "9,94",
       "",
       "Transitable con precaución por escarcha y nieve. Zona de animales sueltos",
-      "30/7/2025 15:30"
+      "30/7/2025 18:30"
     ],
     [
       "Santa Fe",
