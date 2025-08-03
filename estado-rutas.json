@@ -5653,7 +5653,7 @@
       "PAVIMENTO",
       "58,12",
       "",
-      "Transitable con precaución visibilidad reducida por neblina. Baches en sectores. Animales sueltos.",
+      "Transitable con precaución visibilidad reducida por lluvia. Banquinas intestables. Baches en sectores. Animales sueltos.",
       "3/8/2025 12:00"
     ],
     [
@@ -5664,7 +5664,7 @@
       "PAVIMENTO",
       "76,00",
       "",
-      "Transitable con precaución por calzada humeda. Banquinas descalzadas e inestables. Animales sueltos.",
+      "Transitable con precaución por calzada humeda, visibilidad reducida por lluvia. Banquinas descalzadas e inestables. Animales sueltos.",
       "3/8/2025 12:00"
     ],
     [
@@ -5675,7 +5675,7 @@
       "PAVIMENTO",
       "134,00",
       "",
-      "Transitable con extrema precaución, visibilidad reducida por neblina. Calzada humeda y deformaciones. Baches . Zona de animales sueltos. Banquinas inestables ",
+      "Transitable con extrema precaución, visibilidad reducida por lluvia. Calzada humeda y deformaciones. Baches . Zona de animales sueltos. Banquinas inestables ",
       "3/8/2025 12:00"
     ],
     [
@@ -5686,7 +5686,7 @@
       "PAVIMENTO",
       "136,00",
       "",
-      "Transitable con extrema precaución,  sectores de calzada humeda, deformaciones y sectores con baches. Banquinas inestables. Zona de  animales sueltos. Visibilidad reducida por neblina.",
+      "Transitable con extrema precaución,  sectores de calzada humeda, visibilidad reducida por lluvia. Deformaciones y sectores con baches. Banquinas inestables. Zona de  animales sueltos. ",
       "3/8/2025 12:00"
     ],
     [
@@ -5697,7 +5697,7 @@
       "PAVIMENTO",
       "129,00",
       "",
-      "Transitable con precaución por escarcha. Animales sueltos. Sectores con baches . Banquinas inestable ",
+      "Transitable con precaución por escarcha. Animales sueltos. Sectores con baches . Banquinas inestable .  Personal y equipos viales trabajando en riego de liquido antihielo",
       "3/8/2025 12:00"
     ],
     [
@@ -5708,7 +5708,7 @@
       "PAVIMENTO",
       "102,5",
       "",
-      "Transitable con extrema precaución por escarcha . Animales sueltos. Sectores con baches . Personal y equipos viales trabajando en distribución de sal en la calzada",
+      "Transitable con extrema precaución por escarcha . Animales sueltos. Sectores con baches . Personal y equipos viales trabajando en riego de liquido antihielo",
       "3/8/2025 12:00"
     ],
     [
@@ -5719,7 +5719,7 @@
       "PAVIMENTO",
       "76",
       "",
-      "Transitable con precaución, calzada húmeda, sectores con escarcha matinal. Banquinas inestables con barro. Zona de baches. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. Personal y equipos viales trabajando en distribución de sal en la calzada",
+      "Transitable con precaución, calzada húmeda, sectores con escarcha matinal.  Visibilidad reducida por lluvia.Banquinas inestables con barro. Zona de baches. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. Personal y equipos viales trabajando en distribución de sal en la calzada",
       "3/8/2025 12:00"
     ],
     [
@@ -5730,7 +5730,7 @@
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con precaución, calzada húmeda, sectores con escarcha matinal. Banquinas inestables con barro. Zona de baches. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. Personal y equipos viales trabajando en distribución de sal en la calzada",
+      "Transitable con precaución, calzada húmeda, sectores con escarcha matinal. Visibilidad reducida por lluvia.Banquinas inestables con barro. Zona de baches. Puesto invernal Luis Trovato en Km 2510. Zona Wi Fi. Personal y equipos viales trabajando en distribución de sal en la calzada",
       "3/8/2025 12:00"
     ],
     [
@@ -5939,7 +5939,7 @@
       "PAVIMENTO",
       "125,00",
       "",
-      "Transitable con precaución, animales sueltos. Banquinas inestables. Visibilidad reducida por neblina. ",
+      "Transitable con precaución, animales sueltos. Banquinas inestables. ",
       "3/8/2025 12:00"
     ],
     [
