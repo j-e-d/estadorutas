@@ -1143,8 +1143,8 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada húmeda, mojada por lluvia, con baches en sectores. Banquinas inestables, con barro en sectores. Equipos de Vialidad Nacional distribuyendo sal. Viento. Lloviznas. Neviscas. Transitar con precaución.",
-      "3/9/2025 08:00"
+      "Calzada resbaladiza en tramos, con baches en sectores. Banquinas inestables, con barro y nieve en sectores. Equipos de Vialidad Nacional distribuyendo sal. Viento. Nevando en sectores. Transitar con precaución.",
+      "3/9/2025 10:00"
     ],
     [
       "Chubut",
@@ -1187,7 +1187,7 @@
       "PAVIMENTO",
       "57,00",
       "",
-      "Calzada húmeda, con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmeda. Equipos de Vialidad Nacional trabajando. Sectores con baches abiertos. Respetar señalamiento. Animales sueltos. Viento. Lloviznas aisladas. Transitar con precaución.",
+      "Calzada húmeda, con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmeda. Equipos de Vialidad Nacional trabajando. Sectores con baches abiertos. Respetar señalamiento. Animales sueltos. Viento. Lloviznas aisladas. Neviscas. Transitar con precaución.",
       "3/9/2025 08:00"
     ],
     [
@@ -1198,7 +1198,7 @@
       "PAVIMENTO",
       "164,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas húmedas. Equipos de Vialidad Nacional trabajando. Sectores de calzada con baches abiertos entre los km 390 al 420 (transitar este sector con extrema precaución y a baja velocidad). Respetar señalamiento. Animales sueltos. Viento. Lloviznas. Transitar con precaución.",
+      "Calzada húmeda, deformada en sectores. Banquinas húmedas, con barro. Equipos de Vialidad Nacional trabajando. Sectores de calzada con baches abiertos entre los km 390 al 420 (transitar este sector con extrema precaución y a baja velocidad). Respetar señalamiento. Animales sueltos. Viento. Neviscas. Transitar con precaución.",
       "3/9/2025 08:00"
     ],
     [
@@ -1209,7 +1209,7 @@
       "PAVIMENTO",
       "138,00",
       "",
-      "Calzada normal, con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Transitar con precaución.",
+      "Calzada húmeda, con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Neviscas en sectores. Transitar con precaución.",
       "3/9/2025 08:00"
     ],
     [
@@ -4494,12 +4494,12 @@
       "Neuquén",
       "231",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Suspendido el tránsito, nuevo reporte 11:00 hs. Por pedido de la Coordinación de Chile, debido a acumulación de nieve sobre calzada y viento blanco. Equipos operando.",
-      "2/9/2025 08:40"
+      "Transitable con máxima precaución para autos y colectivos. Calzada con acumulación de nieve.Pronóstico de nieve y bajas temperaturas. Fuertes ráfagas de viento. Posible formación de hielo en sectores. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando. Transito restringido para camiones. Nuevo reporte 13:00 hs.",
+      "2/9/2025 10:55"
     ],
     [
       "Neuquén",
