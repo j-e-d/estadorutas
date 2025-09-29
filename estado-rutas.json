@@ -1143,7 +1143,7 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada normal, deformada en sectores. Calzada deformada y con baches en sectores. Banquinas inestables en sectores. Equipos de Vialidad Nacional trabajando. Viento moderado. Transitar con precaución.",
+      "Calzada normal, deformada en sectores. Calzada deformada y con baches en sectores. Banquinas inestables en sectores. Equipos de Vialidad Nacional trabajando. Viento moderado a fuerte. Transitar con precaución.",
       "29/9/2025 09:00"
     ],
     [
@@ -1154,7 +1154,7 @@
       "PAVIMENTO",
       "17,31",
       "",
-      "Calzada normal. Banquinas normal. Equipos de Vialidad Nacional trabajando en mantenimiento de banquinas entre Rada Tilly - límite con Santa Cruz. Desvío por obras en Ramón Santos. Viento. Transitar con precaución.",
+      "Calzada normal. Banquinas normal. Equipos de Vialidad Nacional trabajando en mantenimiento de banquinas entre Rada Tilly - límite con Santa Cruz. Desvío por obras en Ramón Santos. Viento moderado a fuerte. Transitar con precaución.",
       "29/9/2025 09:00"
     ],
     [
@@ -1209,7 +1209,7 @@
       "PAVIMENTO",
       "138,00",
       "",
-      "Calzada normal, con sal en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "Calzada normal, con sal en sectores. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento moderado a fuerte. Transitar con precaución.",
       "29/9/2025 09:00"
     ],
     [
@@ -1220,7 +1220,7 @@
       "PAVIMENTO",
       "72,70",
       "",
-      "Calzada normal. Banquinas normal. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
+      "Calzada normal. Banquinas normal. Equipos de Vialidad Nacional trabajando. Viento moderado a fuerte. Transitar con precaución. ",
       "29/9/2025 09:00"
     ],
     [
@@ -1231,7 +1231,7 @@
       "PAVIMENTO",
       "37,30",
       "",
-      "Calzada normal, deformada y con baches en tramos. Banquinas inestables. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con extrema precaución por baches y deformaciones de calzada.",
+      "Calzada normal, deformada y con baches en tramos. Banquinas inestables. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento moderado a fuerte. Transitar con extrema precaución por baches y deformaciones de calzada.",
       "29/9/2025 09:00"
     ],
     [
@@ -1242,7 +1242,7 @@
       "PAVIMENTO",
       "53,40",
       "",
-      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando en bacheo y limpieza de banquinas. Viento. Transitar con precaución. ",
+      "Calzada normal. Banquinas normal. Animales sueltos. Equipos de Vialidad Nacional trabajando en bacheo y limpieza de banquinas. Viento moderado a fuerte. Transitar con precaución. ",
       "29/9/2025 09:00"
     ],
     [
@@ -4388,7 +4388,7 @@
       "PAVIMENTO",
       "68,46",
       "",
-      "Transitable con precaución. Calzada húmeda y posible formación de hielo por sectores. Posible caída de piedras en el km 2.095. Portación obligatoria de cadenas. Equipos operando.",
+      "Transitable con precaución. Calzada normal. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando.",
       "29/9/2025 07:15"
     ],
     [
@@ -4520,7 +4520,7 @@
       "PAVIMENTO",
       "174,43",
       "",
-      "Transitable con precaucion. Calzada despejada. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
+      "Transitable con precaucion. Calzada despejada. Zona con animales sueltos.",
       "29/9/2025 07:15"
     ],
     [
@@ -4531,7 +4531,7 @@
       "PAVIMENTO",
       "118,79",
       "",
-      "Transitable con precaucion. Calzada despejada. Posible formación de hielo en sectores. Zona con animales sueltos. Posibles caidas de piedras en KM 1441 y km 1550. Portación obligatoria de cadenas. Equipos operando.",
+      "Transitable con precaucion. Calzada despejada. Zona con animales sueltos. Posibles caidas de piedras en KM 1441 y km 1550. ",
       "29/9/2025 07:15"
     ],
     [
@@ -4542,7 +4542,7 @@
       "PAVIMENTO",
       "67,36",
       "",
-      "Transitable con precaución. Calzada húmeda y posible formación de hielo en sectores. Portación obligatoria de cadenas. Zona con animales sueltos. Precaución zonas de derrumbe. Equipos operando.",
+      "Transitable con precaución. Calzada normal. Zona con animales sueltos. Precaución en sectores con posibles derrumbes. Equipos operando.",
       "29/9/2025 07:15"
     ],
     [
@@ -5862,7 +5862,7 @@
       "PAVIMENTO",
       "173,00",
       "",
-      "Transitable con extrema precaución",
+      "Transitable con precaución. Animales sueltos.",
       "29/9/2025 09:00"
     ],
     [
@@ -7127,7 +7127,7 @@
       "PAVIMENTO",
       "24,00",
       "",
-      "Transitable con precaución, equipos y personal vial realizando tareas de bacheo sobre calzada.",
+      "Transitable",
       "29/9/2025 07:00"
     ],
     [
