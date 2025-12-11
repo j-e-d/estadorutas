@@ -5654,7 +5654,7 @@
       "58,12",
       "",
       "Transitable precaución sectores con baches. Trabajos viales en zona de playa Acinas.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5665,7 +5665,7 @@
       "76,00",
       "",
       "Transitable precaución sectores con banquina descalzada",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5676,7 +5676,7 @@
       "134,00",
       "",
       "Transitable precaución sectores con deformaciones y baches. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable precaución sectores con deformaciones y baches. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con  precaución por sectores con baches . Zona de animales sueltos.  Trabajos de bacheo. Respetar las indicaciones del personal presente.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5709,7 +5709,7 @@
       "129,00",
       "",
       "Transitable con  precaución sectores con baches y calzada deformada . Zona de animales sueltos. Trabajos de perfilado de calzada.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5720,7 +5720,7 @@
       "102,5",
       "",
       "Transitable con  precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5731,7 +5731,7 @@
       "76",
       "",
       "Transitable precaución, sectores con baches. Zona de animales sueltos. ",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5742,7 +5742,7 @@
       "75",
       "",
       "Transitable precaución, sectores con baches. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5753,7 +5753,7 @@
       "29,00",
       "",
       "Transitable precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5764,7 +5764,7 @@
       "63,00",
       "",
       "Transitable precaución sectores con baches. Zona de animales sueltos. ",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5775,7 +5775,7 @@
       "85,00",
       "",
       "Transitable con precaución. Zona de animales sueltos. Viento fuerte.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5786,7 +5786,7 @@
       "78,00",
       "",
       "Transitable con precaución. Zona de animales sueltos. Viento fuerte.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5797,7 +5797,7 @@
       "80,00",
       "",
       "Transitable con precaución. Zona de animales sueltos. Viento fuerte.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5808,7 +5808,7 @@
       "159,00",
       "",
       "Transitable con precaución.  El Turbio - Cancha Carrera: viento fuerte y calzada húmeda por lluvia. Cancha Carrera - Tapi Aike: trabajos de bacheo. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "69,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5829,8 +5829,8 @@
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "Transitable con precaución vientos intensos.  Zona de animales sueltos.",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5841,7 +5841,7 @@
       "28,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5852,95 +5852,95 @@
       "130,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Tres Lagos -Gdor. Gregores",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "173,00",
       "",
-      "Transitable con precaución. Zona de  animales sueltos.",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Gobernador Gregores - Casa Riera",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "64",
       "",
-      "Transitable con precaución, sectores con baches. Zona de  animales sueltos. Banquinas descalzadas. ",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Casa Riera - Las Horquetas",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "45",
       "",
-      "Transitable con precaución. Zona de  animales sueltos.",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Las Horquetas - Río Olnie",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con precaución, zona de baches y animales sueltos. Banquinas inestables. Respetar las indicaciones del personal trabajando en calzada principal. Vientos fuertes.",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Río Olnie - Bajo Caracoles",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "25",
       "",
-      "Transitable con precaución,zona de baches y animales sueltos. Banquinas inestables. Vientos fuertes. ",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Bajo Caracoles - Río Ecker",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "46",
       "",
-      "Transitable con precaución,zona de baches y animales sueltos. Banquinas inestables. Vientos fuertes.  Reducción de calzada por de bacheo en zona río Pnturas.",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Río Ecker - Perito Moreno",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "74",
       "",
-      "Transitable con precaución,zona de baches y animales sueltos. Banquinas inestables. Vientos fuertes. ",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Empalme RP43- Limite con Chubut",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "84",
       "",
-      "Transitable con precaución . Zona de animales sueltos. Banquinas inestables. Vientos fuertes. ",
-      "11/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos por vientos intensos y alerta meteorológico vigente. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5951,7 +5951,7 @@
       "125,00",
       "",
       "Transitable con precaución. Zona de animales sueltos. Trabajos de perfilado de banquinas en el km 60.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5962,7 +5962,7 @@
       "41,00",
       "",
       "Transitable con precaución por trabajos de perfilado de banquinas. Zona de animales sueltos. ",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5972,8 +5972,8 @@
       "PAVIMENTO",
       "77,40",
       "",
-      "Transitable con precaución . Zona de animales sueltos. ",
-      "11/12/2025 09:00"
+      "Transitable con extrema precaución, visibilidad reducida en zona de arenal. Vientos intensos . Zona de animales sueltos. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5983,8 +5983,8 @@
       "PAVIMENTO",
       "144,00",
       "",
-      "Transitable con precaución. Ripio en buenas condiciones. Zona de animales sueltos.",
-      "11/12/2025 09:00"
+      "Transitable con extrema precaución, visibilidad reducida en zona de arenal. Vientos intensos . Zona de animales sueltos. ",
+      "11/12/2025 15:00"
     ],
     [
       "Santa Cruz",
@@ -5995,7 +5995,7 @@
       "9,94",
       "",
       "Transitable con precaución. Zona de animales sueltos. Calzada húmeda. Viento fuerte.",
-      "11/12/2025 09:00"
+      "11/12/2025 15:00"
     ],
     [
       "Santa Fe",
