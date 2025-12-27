@@ -5654,7 +5654,7 @@
       "58,12",
       "",
       "Transitable precaución sectores con baches. ",
-      "26/12/2025 09:00"
+      "27/12/2025 10:00"
     ],
     [
       "Santa Cruz",
@@ -5665,7 +5665,7 @@
       "76,00",
       "",
       "Transitable precaución sectores con banquina descalzada. ",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5676,7 +5676,7 @@
       "134,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable con precaución. Sectores con baches, deformaciones, animales sueltos. ",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con precaución, sectores con baches. Animales sueltos. ",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5709,40 +5709,40 @@
       "129,00",
       "",
       "Transitable con  precaución sectores con baches y calzada deformada . Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Emp. RN 288 - Estancia Ototel Aike",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "102,5",
       "",
-      "Transitable con precaución, animales sueltos.",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Estancia Ototel Aike - Puesto Invernal Luis Trovato",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "76",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Puesto invernal Luis Trovato - Guer Aike",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "75",
       "",
-      "Transitable normal. Precaución por animales sueltos.",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5753,7 +5753,7 @@
       "29,00",
       "",
       "Transitable normal. Precaución por animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5764,51 +5764,51 @@
       "63,00",
       "",
       "Transitable con precaución, animales sueltos y zona de baches",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Guer Aike- Bella Vista",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "85,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos. ",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Bella Vista- Puente Blanco",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "78,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos.  ",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Puente Blanco- El Turbio",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "RIPIO",
       "80,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos. ",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "El Turbio-La Esperanza",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "159,00",
       "",
-      "Transitable con precaución.Animales sueltos. Zona de baches.",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "69,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5830,7 +5830,7 @@
       "35,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5841,7 +5841,7 @@
       "28,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5852,7 +5852,7 @@
       "130,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5863,7 +5863,7 @@
       "173,00",
       "",
       "Transitable con precaución. Animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5874,7 +5874,7 @@
       "64",
       "",
       "Transitable con precaución sectores con baches, banquinas descalzas, animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5885,7 +5885,7 @@
       "45",
       "",
       "Transitable con precaución. Animales sueltos ",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5896,7 +5896,7 @@
       "75",
       "",
       "Transitable con precaución. Zona de baches. Banquinas inestables. Animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5907,7 +5907,7 @@
       "25",
       "",
       "Transitable con precaución. Animales sueltos. Banquinas inestables. Zona de baches.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5918,7 +5918,7 @@
       "46",
       "",
       "Transitable con precaución zona de baches.  Animales sueltos. Banquinas inestables. ",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5929,18 +5929,18 @@
       "74",
       "",
       "Transitable con precaución. Zona de baches. Banquinas inestables. Animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Empalme RP43- Limite con Chubut",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "84",
       "",
-      "Transitable con precaución.  Animales sueltos. Banquinas inestables. ",
-      "26/12/2025 09:00"
+      "Circulación restringida para todo tipo de vehiculos de 10:00 a 18:00 hs por alerta meteorológico vigente de vientos fuertes.",
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5951,7 +5951,7 @@
       "125,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5962,7 +5962,7 @@
       "41,00",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5973,7 +5973,7 @@
       "77,40",
       "",
       "Transitable con precaución. Animales sueltos. Sectores con baches.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5984,7 +5984,7 @@
       "144,00",
       "",
       "Transitable con precaución. Ripio en buenas condiciones. Animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Cruz",
@@ -5995,7 +5995,7 @@
       "9,94",
       "",
       "Transitable con precaución. Zona de animales sueltos.",
-      "26/12/2025 09:00"
+      "27/12/2025 09:00"
     ],
     [
       "Santa Fe",
