@@ -5374,7 +5374,7 @@
       "San Juan",
       "141",
       "Lte.Con La Rioja - Bermejo",
-      "<span class='label bg-cielo'>RESTRINGIDA</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "58,00",
       "",
@@ -5983,7 +5983,7 @@
       "RIPIO",
       "144,00",
       "",
-      "Transitable con precaución zona de ripio .  Animales sueltos.",
+      "Transitable con precaución por huellones y barro, solo transitan vehículos 4x4. Zona de ripio. Animales sueltos.",
       "2/2/2026 09:00"
     ],
     [
@@ -6985,8 +6985,8 @@
       "PAVIMENTO",
       "15,00",
       "",
-      "Transitable con precaución. // Equipos y Personal vial realizan tareas de Mantenimiento y limpieza de cunetas en el Kilómetro 4293 altura El Bañado.",
-      "2/2/2026 09:12"
+      "Transitable con precaución. // Equipos y Personal vial realizan tareas de Mantenimiento y limpieza badenes en el Kilómetro 4304 altura El hombre Muerto.",
+      "2/2/2026 11:46"
     ],
     [
       "Tucumán",
@@ -7018,7 +7018,7 @@
       "PAVIMENTO",
       "18,33",
       "",
-      "Transitable",
+      "Transitable // Equipos viales realizan tareas de desmalezamiento en zona de camino entre Concepción y El molino. ",
       "2/2/2026 09:12"
     ],
     [
@@ -7029,7 +7029,7 @@
       "RIPIO",
       "21,67",
       "",
-      "Transitable con precaución. // Limpieza de cunetas y tareas de mantenimiento sobre calzada entre los kilómetros 19 al 24.",
+      "Transitable con precaución. // Equipos viales realizan tareas de mantenimiento sobre calzada entre el kilómetro 21 y 26.",
       "2/2/2026 09:12"
     ],
     [
@@ -7051,7 +7051,7 @@
       "PAVIMENTO",
       "47,71",
       "",
-      "Transitable.  ",
+      "Transitable. // Personal vial realiza tareas de desmalezamiento manual de barandas  en el kilómetro 1175.",
       "2/2/2026 09:12"
     ],
     [
