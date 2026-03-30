@@ -5664,7 +5664,7 @@
       "PAVIMENTO",
       "76,00",
       "",
-      "Transitable precaución sectores con banquina descalzada.  ",
+      "Transitable precaución sectores con baches. ",
       "30/3/2026 09:00"
     ],
     [
@@ -5675,7 +5675,7 @@
       "PAVIMENTO",
       "134,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos. ",
+      "Transitable con precaución por tareas de perfilado. Zona de animales sueltos. ",
       "30/3/2026 09:00"
     ],
     [
@@ -5686,7 +5686,7 @@
       "PAVIMENTO",
       "66,5",
       "",
-      "Transitable con precaución. Sectores con baches, deformaciones, animales sueltos. ",
+      "Transitable con precaución, tareas de perfilado. Animales sueltos. ",
       "30/3/2026 09:00"
     ],
     [
@@ -5697,7 +5697,7 @@
       "PAVIMENTO",
       "69,5",
       "",
-      "Transitable con precaución. Sectores con baches. Animales sueltos.",
+      "Transitable con precaución, tareas de perfilado. Animales sueltos. ",
       "30/3/2026 09:00"
     ],
     [
@@ -5829,7 +5829,7 @@
       "PAVIMENTO",
       "69,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos.  Viento fuerte ",
+      "Transitable con precaución. Zona de animales sueltos.  ",
       "30/3/2026 09:00"
     ],
     [
@@ -5840,7 +5840,7 @@
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos.  Nevizca. Viento fuerte ",
+      "Transitable con precaución. Zona de animales sueltos.  ",
       "30/3/2026 09:00"
     ],
     [
@@ -5851,7 +5851,7 @@
       "PAVIMENTO",
       "28,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos. Nevizca. Viento fuerte ",
+      "Transitable con precaución. Zona de animales sueltos. ",
       "30/3/2026 09:00"
     ],
     [
@@ -5972,7 +5972,7 @@
       "PAVIMENTO",
       "41,00",
       "",
-      "Transitable con precaución. Zona de animales sueltos. ",
+      "Transitable con precaución. Zona de animales sueltos. Trabajos de perfilado y bacheo",
       "30/3/2026 09:00"
     ],
     [
@@ -5983,7 +5983,7 @@
       "PAVIMENTO",
       "77,40",
       "",
-      "Transitable con precaución. Animales sueltos. Sectores con baches. ",
+      "Transitable con precaución. Zona de animales sueltos. Trabajos de perfilado y bacheo",
       "30/3/2026 09:00"
     ],
     [
@@ -5994,7 +5994,7 @@
       "RIPIO",
       "144,00",
       "",
-      "Transitable con precaución. Zona de ripio. Animales sueltos. ",
+      "Transitable con precaución. Zona de ripio. Animales sueltos. Tareas de perfilado",
       "30/3/2026 09:00"
     ],
     [
