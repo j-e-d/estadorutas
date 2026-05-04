@@ -153,7 +153,7 @@
       "PAVIMENTO",
       "2",
       "",
-      "",
+      "\n",
       "4/5/2026 09:00"
     ],
     [
@@ -164,7 +164,7 @@
       "PAVIMENTO",
       "12",
       "",
-      "",
+      "Restricción de peso para la circulación sobre el puente ubicado en el kilómetro 692 de la Ruta Nacional 3. \n\nSENTIDO DESCENDENTE (sobre el puente de hormigón existente): Peso máximo de 40 Tn y una carga máxima por eje de 11 Tn. Desvío obligatorio desde el norte: en Grumbein por RN 229, circunvalación Atilio Freut y RN 33 hasta RN 3 en El Cholo.\n\nSENTIDO ASCENDENTE (sobre el puente Bailey): Peso máximo de 45 toneladas. Desvío obligatorio desde el sur: en El Cholo (RN 3 y RN 33) por RN 33, circunvalación Atilio Freut y RN 229 hasta retomar RN 3 en Grumbein.\n",
       "4/5/2026 09:00"
     ],
     [
@@ -175,7 +175,7 @@
       "PAVIMENTO",
       "21",
       "",
-      "",
+      "Restricción de peso para la circulación sobre el puente ubicado en el kilómetro 692 de la Ruta Nacional 3. \n\nSENTIDO DESCENDENTE (sobre el puente de hormigón existente): Peso máximo de 40 Tn y una carga máxima por eje de 11 Tn. Desvío obligatorio desde el norte: en Grumbein por RN 229, circunvalación Atilio Freut y RN 33 hasta RN 3 en El Cholo.\n\nSENTIDO ASCENDENTE (sobre el puente Bailey): Peso máximo de 45 toneladas. Desvío obligatorio desde el sur: en El Cholo (RN 3 y RN 33) por RN 33, circunvalación Atilio Freut y RN 229 hasta retomar RN 3 en Grumbein.\n",
       "4/5/2026 09:00"
     ],
     [
@@ -5840,7 +5840,7 @@
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con precaución. Animales sueltos. Equipos en la zona.",
+      "Transitable con precaución por sectores con escarcha. Animales sueltos. Equipos en la zona. ",
       "4/5/2026 09:00"
     ],
     [
@@ -5851,7 +5851,7 @@
       "PAVIMENTO",
       "28,00",
       "",
-      "Transitable con precaución probabilidad de escarcha. Calzada húmeda. Animales sueltos.",
+      "Transitable con precaución sectores con escarcha ",
       "4/5/2026 09:00"
     ],
     [
@@ -5862,7 +5862,7 @@
       "PAVIMENTO",
       "130,00",
       "",
-      "Transitable con precaución probabilidad de escarcha. Calzada húmeda. Animales sueltos.",
+      "Transitable con precaución probabilidad de escarcha. Animales sueltos.",
       "4/5/2026 09:00"
     ],
     [
@@ -5906,7 +5906,7 @@
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con extrema precaución. Zona de baches. Banquinas inestables. Animales sueltos. ",
+      "Transitable con  precaución. Zona de baches. Banquinas inestables. Animales sueltos. ",
       "4/5/2026 09:00"
     ],
     [
