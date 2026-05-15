@@ -3761,7 +3761,7 @@
       "PAVIMENTO",
       "40,00",
       "",
-      "",
+      "Transitable con Precaución",
       "15/5/2026 06:38"
     ],
     [
@@ -3772,7 +3772,7 @@
       "PAVIMENTO",
       "51,00",
       "",
-      "",
+      "Transitable con Precaución",
       "15/5/2026 06:38"
     ],
     [
@@ -3783,18 +3783,18 @@
       "PAVIMENTO",
       "26,00",
       "",
-      "",
+      "Transitable con Precaución",
       "15/5/2026 06:38"
     ],
     [
       "Mendoza",
       "7",
       "Puente Del Inca - Las Cuevas",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "13,80",
       "",
-      "",
+      "fuerte viento blanco y nevadas",
       "15/5/2026 06:38"
     ],
     [
