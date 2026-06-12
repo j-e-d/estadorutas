@@ -1220,8 +1220,8 @@
       "PAVIMENTO",
       "72,70",
       "",
-      "Calzada húmeda por riego con sal en sectores. Sectores con baches en la zona de la curva del lago. Banquinas inestables. Animales sueltos. Equipos viales trabajando. Viento moderado. Lloviznas aisladas. Transitar con precaución. ",
-      "12/6/2026 17:00"
+      "Calzada con nieve en tramos. Hielo en calzada. Sectores con baches en la zona de la curva del lago. Banquinas inestables, con barro y nieve. Animales sueltos. Equipos viales trabajando. Viento. Nevando en sectores. Transitar con extrema precaución. ",
+      "12/6/2026 20:00"
     ],
     [
       "Chubut",
@@ -1231,8 +1231,8 @@
       "PAVIMENTO",
       "37,30",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores; calzada deformada con baches en sectores. Banquinas húmedas, con barro y agua. Equipos viales distribuyendo sal. Animales sueltos. Viento moderado. Lloviznas aisladas. Transitar con extrema precaución por baches y deformaciones de calzada.",
-      "12/6/2026 17:00"
+      "Calzada húmeda por riego con sal en sectores; calzada deformada con baches en sectores. Banquinas húmedas, con barro y agua. Equipos viales distribuyendo sal. Animales sueltos. Viento. Lloviznas aisladas. Neviscas. Transitar con extrema precaución por baches y deformaciones de calzada.",
+      "12/6/2026 20:00"
     ],
     [
       "Chubut",
@@ -1242,8 +1242,8 @@
       "PAVIMENTO",
       "53,40",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas, con barro. Animales sueltos. Equipos viales distribuyendo sal. Viento moderado. Lloviznas aisladas. Transitar con precaución.",
-      "12/6/2026 17:00"
+      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas, con barro. Animales sueltos. Equipos viales distribuyendo sal. Viento moderado. Lloviznas aisladas. Neviscas. Transitar con precaución.",
+      "12/6/2026 20:00"
     ],
     [
       "Chubut",
@@ -5741,7 +5741,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. ",
+      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. Banquinas inestables. Visibilidad reducida por voladeros de nieve. ",
       "12/6/2026 19:00"
     ],
     [
@@ -5752,7 +5752,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. ",
+      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. Banquinas inestables. Personal y equipos de Vialidad Nacional trabajando en despeje y distribución de sal.",
       "12/6/2026 19:00"
     ],
     [
@@ -5825,11 +5825,11 @@
       "Santa Cruz",
       "40",
       "Guer Aike- Bella Vista",
-      "<span class='label bg-cielo'>RESTRINGIDA</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "85,00",
       "",
-      "Transitable  solo vehiculos 4 x 4.  Calzada con formación de hielo en sectores. Bajas temperaturas. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional trabajando. Visibilidad reducida por voladeros.",
+      "Transitable con precaución. Bajas temperaturas. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional trabajando. Visibilidad reducida por voladeros.",
       "12/6/2026 19:00"
     ],
     [
