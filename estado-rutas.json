@@ -4465,7 +4465,7 @@
       "PAVIMENTO",
       "142,27",
       "",
-      "Transitable con precaución. Calzada húmeda. Posible formación de hielo negro. Fuertes heladas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando.",
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo negro. Fuertes heladas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando. Visibilidad reducida por niebla ",
       "14/6/2026 08:30"
     ],
     [
@@ -4476,7 +4476,7 @@
       "PAVIMENTO",
       "116,21",
       "",
-      "Transitable con precaución. Calzada húmeda. Posible formación de hielo negro. Fuertes heladas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando.",
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo negro. Fuertes heladas. Zona con animales sueltos. Portación obligatoria de cadenas. Personal y equipos de Vialidad Nacional operando. Visibilidad reducida por niebla ",
       "14/6/2026 08:30"
     ],
     [
@@ -5654,7 +5654,7 @@
       "58,12",
       "",
       "Transitable con precaución . Animales sueltos. Zonas de baches. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5665,7 +5665,7 @@
       "76,00",
       "",
       "Transitable con precaución . Animales sueltos. Zonas de baches. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5676,7 +5676,7 @@
       "134,00",
       "",
       "Transitable con  precaución por sectores con escarcha. Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable con  precaución por sectores con escarcha. Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con  precaución por sectores con escarcha. Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5709,7 +5709,7 @@
       "129,00",
       "",
       "Transitable con  precaución calzada húmeda por riego de liquido antihielo.Sectores con baches. Animales sueltos. Banquinas inestables. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5720,7 +5720,7 @@
       "",
       "",
       "Transitable con precaución calzada húmeda por riego con liquido antihielo. Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5731,7 +5731,7 @@
       "",
       "",
       "Transitable con precaución calzada húmeda por riego con liquido antihielo. Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5741,8 +5741,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, calzada humeda. Portación de cadenas obligatoria. Banquinas inestables. Animales sueltos.",
-      "13/6/2026 22:00"
+      "Transitable con precaucion por vientos fuertes. Calzada humeda. Portación de cadenas obligatoria. Banquinas inestables. Animales sueltos.",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5752,8 +5752,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. Banquinas inestables. ",
-      "13/6/2026 22:00"
+      "Transitable con precaucion por vientos fuertes. Calzada seca. Animales sueltos. Portación de cadenas obligatoria. Banquinas inestables. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5763,8 +5763,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion calzada húmeda . Banquinas inestables. Portación de cadenas obligatoria. ",
-      "13/6/2026 22:00"
+      "Transitable con precaucion por vientos fuertes.  Banquinas inestables. Animales sueltos. Portación de cadenas obligatoria. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5774,8 +5774,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, por sectores con escarcha. Portación de cadenas obligatoria. ",
-      "13/6/2026 22:00"
+      "Transitable con precaucion por vientos fuertes.  Banquinas inestables. Animales sueltos. Portación de cadenas obligatoria. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5785,8 +5785,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaucion, por sectores con escarcha. Vientos fuertes . Calzada húmeda . Portación de cadenas obligatoria. ",
-      "13/6/2026 22:00"
+      "Transitable con precaucion calzada húmeda. Vientos fuertes . Portación de cadenas obligatoria. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5796,8 +5796,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución para  todo tipo de vehículos . Sectores con escarcha. Vientos fuertes . Calzada húmeda .Banquinas inestables. Zona de baches señalizada.  Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "Transitable con precaución para  todo tipo de vehículos . Calzada húmeda. Vientos fuertes .Banquinas inestables. Zona de baches señalizada.  Portación obligatoria de cadenas. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5807,8 +5807,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución para  todo tipo de vehículos .Sectores con escarcha. Vientos fuertes . Calzada húmeda .Banquinas inestables. Zona de baches señalizada.  Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "Transitable con extrema precaución para  todo tipo de vehículos . Vientos fuertes . Calzada húmeda .Banquinas inestables. Zona de baches señalizada.  Portación obligatoria de cadenas. ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "",
       "",
       "Transitable con precaución para  todo tipo de vehículos .Sectores con escarcha. Vientos fuertes . Calzada húmeda .Banquinas inestables. Portación obligatoria de cadenas. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5830,7 +5830,7 @@
       "85,00",
       "",
       "Transitable con extrema precaución calzada húmeda. Banquinas inestables. Vientos fuertes.  Portación obligatoria de cadenas. Animales sueltos.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5840,8 +5840,8 @@
       "RIPIO",
       "78,00",
       "",
-      "Calzada de ripio. Sectores pesados por barro, transitable con precaución. Animales sueltos. ",
-      "13/6/2026 22:00"
+      "Calzada de ripio. Sectores pesados por barro, transitable con precaución. Animales sueltos. Viento fuerte ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5851,8 +5851,8 @@
       "RIPIO",
       "80,00",
       "",
-      "Calzada de ripio. Sectores pesados por barro. Animales sueltos. ",
-      "13/6/2026 22:00"
+      "Calzada de ripio. Sectores pesados por barro. Animales sueltos. Viento fuerte ",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5862,8 +5862,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha. Zona de baches . Animales sueltos.Equipos viales trabajando en despeje y distribución de sal.",
-      "13/6/2026 22:00"
+      "Transitable con precaución por vientos fuertes . Zona de baches . Animales sueltos",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5873,8 +5873,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha. Zona de baches . Animales sueltos.Equipos viales trabajando en despeje y distribución de sal.",
-      "13/6/2026 22:00"
+      "Transitable con precaución por vientos fuertes . Zona de baches . Animales sueltos",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5884,8 +5884,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha. Zona de baches . Animales sueltos.Equipos viales trabajando en despeje y distribución de sal.",
-      "13/6/2026 22:00"
+      "Transitable con precaución por vientos fuertes . Zona de baches . Animales sueltos",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5896,7 +5896,7 @@
       "69,00",
       "",
       "Transitable con precaución. Formación de hielo en sectores. Portación obligatoria de cadenas. Animales sueltos.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5907,7 +5907,7 @@
       "35,00",
       "",
       "Transitable con  precaución por probabilidad de escarcha. Bajas temperaturas. Portación obligatoria de cadenas.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5918,7 +5918,7 @@
       "28,00",
       "",
       "Transitable con  precaución por probabilidad de escarcha. Bajas temperaturas. Portación obligatoria de cadenas.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5929,7 +5929,7 @@
       "130,00",
       "",
       "Transitable con precaución  probabilidad de escarcha  . Animales sueltos. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5940,7 +5940,7 @@
       "173,00",
       "",
       "Transitable con precaución por escarcha.Animales sueltos. Equipos y personal trabajando . Emp.R.P.N°29  - E.A La Siberia: Transitable con precaución por Huellones y viento ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5951,7 +5951,7 @@
       "64",
       "",
       "Transitable con precaución por sectores con escarcha. .Animales sueltos. Equipos y personal trabajando.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5962,7 +5962,7 @@
       "45",
       "",
       "Transitable con precaución por sectores con escarcha. .Animales sueltos. Equipos y personal trabajando.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5973,7 +5973,7 @@
       "75",
       "",
       "Transitable con extrema precaución por sectores con escarcha.  Zona de baches. Animales sueltos. Banquinas inestables",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5984,7 +5984,7 @@
       "25",
       "",
       "Transitable con extrema precaución.  Maquinas viales trabajando en distribucion de sal.  Zona de baches. Animales sueltos. Banquinas inestables",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -5995,7 +5995,7 @@
       "46",
       "",
       "Transitable con extrema precaución por sectores con escarcha.  Equipos viales realizando distribucion de sal en la calzada. Zona de baches. Animales sueltos. Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6006,7 +6006,7 @@
       "74",
       "",
       "Transitable con  precaución por sectores con escarcha.  Equipos viales realizando distribucion de sal en la calzada. Zona de baches. Animales sueltos. Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6017,7 +6017,7 @@
       "84",
       "",
       "Transitable con  precaucion.  Equipos viales realizando distribucion de sal en la calzada.  Banquina inestables. Animales sueltos.Zona de baches",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6028,7 +6028,7 @@
       "125,00",
       "",
       "Transitable con precaución calzada húmeda por riego con liquido antihielo. Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6039,7 +6039,7 @@
       "41,00",
       "",
       "Transitable con precaución. Sectores con barro y huellones. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6050,7 +6050,7 @@
       "77,40",
       "",
       "Transitable con  precaución. Sectores con barro y huellones. ",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6061,7 +6061,7 @@
       "144,00",
       "",
       "Transitable con precaución por barro y huellones. Animales sueltos.Banquinas inestables.",
-      "13/6/2026 22:00"
+      "14/6/2026 10:00"
     ],
     [
       "Santa Cruz",
@@ -6071,8 +6071,8 @@
       "PAVIMENTO",
       "9,94",
       "",
-      "Calzada de ripio. Sectores pesados por barro. Sectores con escarcha.",
-      "13/6/2026 22:00"
+      "Calzada de ripio. Sectores pesados por barro. Viento fuerte",
+      "14/6/2026 10:00"
     ],
     [
       "Santa Fe",
