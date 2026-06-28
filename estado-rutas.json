@@ -1121,7 +1121,7 @@
       "PAVIMENTO",
       "62,87",
       "",
-      "Calzada húmeda, mojada por lluvia. Banquinas húmedas. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Viento. Lloviznas. Transitar con precaución. ",
+      "Calzada normal, húmeda en sectores. Banquinas húmedas. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Viento. Transitar con precaución. ",
       "27/6/2026 16:00"
     ],
     [
@@ -1132,7 +1132,7 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada húmeda, mojada por lluvia en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas en sectores. Transitar con precaución.",
+      "Calzada húmeda en sectores. Banquinas húmedas, con barro. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1165,7 +1165,7 @@
       "PAVIMENTO",
       "205,00",
       "",
-      "Calzada húmeda, mojada por lluvia en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas. Transitar con precaución.",
+      "Calzada húmeda. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1176,7 +1176,7 @@
       "PAVIMENTO",
       "103,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas húmedas. Desvíos de ripio con barro y agua el km 258-260 (Circular a baja velocidad en el desvío). Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
+      "Calzada normal, húmeda en tramos; deformada en sectores. Banquinas húmedas. Desvíos de ripio con barro y agua el km 258-260 (Circular a baja velocidad en el desvío). Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1209,7 +1209,7 @@
       "PAVIMENTO",
       "138,00",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Banquinas inestables. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Transitar con precaución.",
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas inestables. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento moderado. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1253,7 +1253,7 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada húmeda, mojada por lluvia. Banquinas húmedas, con barro en sectores. Entre Facundo-Tamariscos calzada con sectores con  deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Viento. Lloviznas. Equipos de Vialidad Nacional distribuyendo sal. Transitar con precaución.",
+      "Calzada húmeda por riego con sal en sectores. Banquinas húmedas, con barro en sectores. Entre Facundo-Tamariscos calzada con sectores con  deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Viento. Equipos de Vialidad Nacional distribuyendo sal. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1264,7 +1264,7 @@
       "PAVIMENTO",
       "83,70",
       "",
-      "Calzada húmeda por riego con sal en sectores; con deformaciones en sectores. Banquinas inestables con barro. Deformaciones y baches en sectores de La Paulina hacia Gobernador Costa. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Neblina. Transitar con precaución. ",
+      "Calzada húmeda por riego con sal en sectores; con deformaciones en sectores. Banquinas inestables con barro. Deformaciones y baches en sectores de La Paulina hacia Gobernador Costa. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Heladas leves. Transitar con precaución. ",
       "27/6/2026 16:00"
     ],
     [
@@ -1275,7 +1275,7 @@
       "PAVIMENTO",
       "84,40",
       "",
-      "Calzada normal, con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Transitar con precaución",
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Heladas leves. Transitar con precaución",
       "27/6/2026 16:00"
     ],
     [
@@ -1319,7 +1319,7 @@
       "PAVIMENTO",
       "21,63",
       "",
-      "Calzada normal, con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal en calzada. Viento. Transitar con precaución.",
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal en calzada. Viento. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
@@ -1341,7 +1341,7 @@
       "RIPIO",
       "105,41",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/56/Huemules\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento. Neblina. Transitar con precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Equipos viales trabajando en mantenimiento de calzada. Respetar señalamiento existente. Transitar con precaución.",
+      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento. Transitar con precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Equipos viales trabajando en mantenimiento de calzada. Respetar señalamiento existente. Transitar con precaución.",
       "27/6/2026 16:00"
     ],
     [
