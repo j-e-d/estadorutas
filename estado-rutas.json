@@ -5708,7 +5708,7 @@
       "PAVIMENTO",
       "129,00",
       "",
-      "Transitable con precaución por sectores con escarcha. Animales sueltos. Sectores con ahuellamiento. Banquinas inestables. Zona de baches . ",
+      "Transitable con precaución por sectores con escarcha. Animales sueltos. Sectores con ahuellamiento. Banquinas inestables. Zona de baches . Visibilidad reducida por lluvia ",
       "12/7/2026 17:30"
     ],
     [
@@ -5719,7 +5719,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha. Animales sueltos. Banquinas inestables. Zona de baches. ",
+      "Transitable con precaución por sectores con escarcha. Animales sueltos. Banquinas inestables. Zona de baches. Visibilidad reducida por lluvia ",
       "12/7/2026 17:30"
     ],
     [
@@ -5730,7 +5730,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha. Animales sueltos. Banquinas inestables. Zona de baches. ",
+      "Transitable con precaución por sectores con escarcha. Animales sueltos. Banquinas inestables. Zona de baches. Visibilidad reducida por lluvia ",
       "12/7/2026 17:30"
     ],
     [
@@ -5741,7 +5741,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución escarcha matinal . Calzada  húmeda por riego con liquido antihielo.  Sectores con huellones. Banquina con descalce . Animales sueltos.",
+      "Transitable con precaución . Visibilidad reducida. Calzada  húmeda por lluvia y agua nieve.  Sectores con huellones. Banquina con descalce . Animales sueltos.",
       "12/7/2026 17:30"
     ],
     [
@@ -5763,7 +5763,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con  precaución visibilidad reducida por neblina  . Presencia de escarcha. Animales sueltos.  Banquinas inestables.",
+      "Transitable con  precaución calzada humeda . Animales sueltos.  Banquinas inestables.",
       "12/7/2026 17:30"
     ],
     [
@@ -5774,7 +5774,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con  precaución visibilidad reducida por neblina  . Presencia de escarcha. Animales sueltos.  Banquinas inestables.",
+      "Transitable con  precaución calzada humeda . Animales sueltos.  Banquinas inestables.",
       "12/7/2026 17:30"
     ],
     [
@@ -5829,7 +5829,7 @@
       "PAVIMENTO",
       "85,00",
       "",
-      "Transitable con precaución sectores con presencia de escarcha matinal. Visibilidad reducida por bancos de niebla. Calzada húmeda. Animales sueltos",
+      "Transitable con precaución sectores con presencia de escarcha matinal. la. Calzada húmeda por riego con liquido antihielo. Animales sueltos",
       "12/7/2026 17:30"
     ],
     [
@@ -5906,7 +5906,7 @@
       "PAVIMENTO",
       "35,00",
       "",
-      "Transitable con extrema precaución visibilidad reducida por neblina. Probabilidad  de escarcha.  Animales sueltos. ",
+      "Transitable con extrema precaución. Nevando.",
       "12/7/2026 17:30"
     ],
     [
@@ -5917,18 +5917,7 @@
       "PAVIMENTO",
       "28,00",
       "",
-      "Transitable con extrema precaución visibilidad reducida por neblina. Probabilidad  de escarcha.  Animales sueltos. ",
-      "12/7/2026 17:30"
-    ],
-    [
-      "Santa Cruz",
-      "40",
-      "",
-      "<span class='label bg-verdin'>HABILITADA</span>",
-      "PAVIMENTO",
-      "130,00",
-      "",
-      "Transitable con  precaución. Probabilidad  de escarcha.  Animales sueltos.  Calzada húmeda.",
+      "Transitable con extrema precaución. Nevando.",
       "12/7/2026 17:30"
     ],
     [
@@ -5936,10 +5925,21 @@
       "40",
       "Emp. RP 11 - Tres Lagos",
       "<span class='label bg-verdin'>HABILITADA</span>",
+      "PAVIMENTO",
+      "130,00",
+      "",
+      "Transitable con precaución nevando.",
+      "12/7/2026 17:30"
+    ],
+    [
+      "Santa Cruz",
+      "40",
+      "Tres Lagos- Gobernador Gregores",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "RIPIO - PAVIMENTO",
       "173,00",
       "",
-      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. Emp.R.P.N°29  - E.A La Siberia: calzada con huellones y presencia de escarcha . Animales sueltos.",
+      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. Emp.R.P.N°29  - E.A La Siberia: Transitable con precaución , calzada con huellones y escarcha. ",
       "12/7/2026 17:30"
     ],
     [
@@ -5950,7 +5950,7 @@
       "PAVIMENTO",
       "64",
       "",
-      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. Emp.R.P.N°29  - E.A La Siberia: calzada con huellones y presencia de escarcha . Animales sueltos.",
+      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. ",
       "12/7/2026 17:30"
     ],
     [
@@ -5961,7 +5961,7 @@
       "PAVIMENTO",
       "45",
       "",
-      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. Emp.R.P.N°29  - E.A La Siberia: calzada con huellones y presencia de escarcha . Animales sueltos.",
+      "Transitable con precaución sectores con presencia de  escarcha. Animales sueltos. ",
       "12/7/2026 17:30"
     ],
     [
