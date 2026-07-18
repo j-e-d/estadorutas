@@ -1231,8 +1231,8 @@
       "PAVIMENTO",
       "37,30",
       "",
-      "Calzada húmeda por riego con sal, con hielo en sectores. Banquinas inestables, con nieve y barro. Equipos viales distribuyendo sal. Animales sueltos. Viento. Heladas fuertes. Bancos de niebla. Transitar con extrema precaución.",
-      "18/7/2026 08:00"
+      "Calzada húmeda por riego con sal, con hielo y escarcha en sectores. Banquinas inestables, con nieve y barro. Equipos viales distribuyendo sal. Animales sueltos. Viento. Heladas. Transitar con extrema precaución.",
+      "18/7/2026 16:00"
     ],
     [
       "Chubut",
@@ -1242,8 +1242,8 @@
       "PAVIMENTO",
       "53,40",
       "",
-      "Calzada húmeda por riego con sal, con hielo en sectores. Banquinas inestables, con nieve y barro. Equipos viales distribuyendo sal. Animales sueltos. Viento. Heladas fuertes. Bancos de niebla. Transitar con extrema precaución.",
-      "18/7/2026 08:00"
+      "Calzada húmeda por riego con sal. Banquinas inestables, con nieve y barro. Equipos viales distribuyendo sal. Animales sueltos. Viento. Heladas. Transitar con precaución.",
+      "18/7/2026 16:00"
     ],
     [
       "Chubut",
@@ -4367,7 +4367,7 @@
       "23,52",
       "",
       "Transitable con precaución. Calzada normal. Tránsito intenso",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4378,7 +4378,7 @@
       "136,40",
       "",
       "Transitable con precaución. Calzada húmeda. Sectores con lloviznas. Posible formación de hiel en sectores. Zona con animales sueltos. Transitar a velocidad precautoria. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4388,8 +4388,8 @@
       "PAVIMENTO",
       "68,46",
       "",
-      "Transitable con precaución. Calzada mojada por lluvia. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4399,8 +4399,8 @@
       "PAVIMENTO",
       "43,77",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/1/siete-lagos-rn-40\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
-      "Transitable con precaución. Calzada mojada por lluvia. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4410,8 +4410,8 @@
       "PAVIMENTO",
       "43,16",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/1/siete-lagos-rn-40\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
-      "Transitable con precaución. Calzada húmeda. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4421,8 +4421,8 @@
       "PAVIMENTO",
       "66,01",
       "",
-      "Transitable con precaución. Calzada húmeda. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4433,7 +4433,7 @@
       "35,45",
       "",
       "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4444,7 +4444,7 @@
       "120,32",
       "",
       "Transitable con precaución. Calzada despejada. Posible formación de hiel en sectores. Zona con animales sueltos. Transitar a velocidad precautoria. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4455,7 +4455,7 @@
       "49,01",
       "",
       "Transitable con precaución. Calzada despejada. Posible formación de hiel en sectores. Zona con animales sueltos. Transitar a velocidad precautoria. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4465,8 +4465,8 @@
       "PAVIMENTO",
       "142,27",
       "",
-      "Transitable con precaución. Calzada mojada. Lluvias debiles. Zona con animales sueltos. Portación obligatoria de cadenas. ",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Zona con animales sueltos. Portación obligatoria de cadenas. ",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4476,8 +4476,8 @@
       "PAVIMENTO",
       "116,21",
       "",
-      "Transitable con precaución. Calzada mojada. Visibilidad muy reducida por niebla espesa. Zona con animales sueltos. Portación obligatoria de cadenas. ",
-      "18/7/2026 10:30"
+      "Transitable con precaución. Calzada húmeda. Visibilidad muy reducida por niebla espesa. Zona con animales sueltos. Portación obligatoria de cadenas. ",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4488,7 +4488,7 @@
       "14,94",
       "",
       "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Bajas temperaturas. Zona con animales sueltos. Personal y equipos de Vialidad Nacional operando. Tránsitar a velocidad precautoria. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4499,7 +4499,7 @@
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Transitable con extrema precaución para todo tipo de vehículos. Calzada despejada. Posible presencia de hielo en sectores. Baja adherencia. Pronóstico de bajas temperaturas. Mantenga las distancias de frenado y evite maniobras de sobrepaso. Personal de Vialidad Nacional operando. Portación obligatoria de cadenas. ",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4510,7 +4510,7 @@
       "57,44",
       "",
       "Transitable con precaución. Calzada húmeda. Zona con posibles caidas de rocas. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4520,8 +4520,8 @@
       "PAVIMENTO",
       "174,43",
       "",
-      "Transitable con precaucion. Calzada mojada por lluvia. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "18/7/2026 07:50"
+      "Transitable con precaucion. Calzada húmeda. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4531,8 +4531,8 @@
       "PAVIMENTO",
       "118,79",
       "",
-      "Transitable con precaucion. Calzada mojada por lluvia intensa. Posible formación de hielo en sectores. Zona con animales sueltos. Posibles caidas de piedras en KM 1441 y km 1550. Equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaucion. Calzada húmeda. Posible formación de hielo en sectores. Zona con animales sueltos. Posibles caidas de piedras en KM 1441 y km 1550. Equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4542,8 +4542,8 @@
       "PAVIMENTO",
       "67,36",
       "",
-      "Transitable con precaución. Calzada húmeda. Sectores con lloviznas. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4554,7 +4554,7 @@
       "51,63",
       "",
       " Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4564,8 +4564,8 @@
       "PAVIMENTO",
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Transitable con precaución para todo tipo de vehículos a partir de las 12:00 hs. Calzada con hielo. Cielo cubierto, viento. Baja adherencia. Zona con animales sueltos. Posible caída de rocas en el km 48. Portación obligatoria de cadenas. Equipos operando.",
-      "18/7/2026 10:10"
+      "Transitable con precaución para todo tipo de vehículos. Calzada con hielo. Cielo cubierto, viento. Baja adherencia. Zona con animales sueltos. Posible caída de rocas en el km 48. Portación obligatoria de cadenas. Equipos operando.",
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4576,7 +4576,7 @@
       "6,86",
       "",
       "Transitable con precaución. Calzada normal. Tránsito intenso",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Neuquén",
@@ -4587,7 +4587,7 @@
       "23,67",
       "",
       "Transitable con precaución. Calzada normal. Tránsito intenso",
-      "18/7/2026 07:50"
+      "18/7/2026 16:45"
     ],
     [
       "Río Negro",
