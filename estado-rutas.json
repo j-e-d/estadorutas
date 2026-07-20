@@ -5715,7 +5715,7 @@
       "Santa Cruz",
       "3",
       "PUENTE SOBRE RIO SANTA CRUZ (CTE. LUIS PIEDRABUENA)",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "",
       "",
@@ -5726,44 +5726,44 @@
       "Santa Cruz",
       "3",
       "Empalme RN N° 288 - Empalme RP 9",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Circulación restringida por tareas de despeje y mantenimiento. Acumulación de nieve. Voladeros.",
+      "Transitar con precacución por equipos realizando tareas de despeje de nieve. ",
       "20/7/2026 12:30"
     ],
     [
       "Santa Cruz",
       "3",
       "Antenas de telefónica km 2441 - Acc. Estancia Los Alamos",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Circulación restringida por tareas de despeje y mantenimiento. Acumulación de nieve. Voladeros.",
+      "Transitar con precacución por equipos realizando tareas de despeje de nieve. ",
       "20/7/2026 12:30"
     ],
     [
       "Santa Cruz",
       "3",
       "Acc. Estancia Los Alamos - Acc. Estancia Moy Aike Chico km 2540",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Circulación restringida por tareas de despeje y mantenimiento. Acumulación de nieve. Voladeros.",
+      "Transitar con precacución por equipos realizando tareas de despeje de nieve. ",
       "20/7/2026 12:30"
     ],
     [
       "Santa Cruz",
       "3",
       "Acc. Estancia Moy Aike Chico km 2540 - Guer Aike",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Circulación restringida por tareas de despeje y mantenimiento. Acumulación de nieve. Voladeros.",
+      "Transitar con precacución por equipos realizando tareas de despeje de nieve. ",
       "20/7/2026 12:30"
     ],
     [
@@ -5825,11 +5825,11 @@
       "Santa Cruz",
       "40",
       "Guer Aike- Bella Vista",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "85,00",
       "",
-      "Transitable con extrema precaución, nevando. Equipos y personal de Vialidad abocados a tareas de mantenimiento y despeje.  Animales sueltos, Banquinas inestables",
+      "Transitable con extrema precaución solo para vehículos 4x4. Nieve sobre la calzada y sectores con escarcha. Viento y voladeros de nieve.  Animales sueltos, Banquinas inestables",
       "20/7/2026 12:30"
     ],
     [
@@ -5840,7 +5840,7 @@
       "RIPIO",
       "78,00",
       "",
-      "Calzada de ripio. . Sectores pesados por barro transitable con precaución. Animales sueltos. Sectores con acumulación de nieve en la calzada",
+      "Nieve pisada. Equipo vial trabajando en despeje. Transitable con precaución hasta fin de calzada de ripio. Animales sueltos. ",
       "20/7/2026 12:30"
     ],
     [
@@ -5851,7 +5851,7 @@
       "RIPIO",
       "80,00",
       "",
-      "Calzada de ripio. . Sectores pesados por barro transitable con precaución. Animales sueltos. Sectores con acumulación de nieve en la calzada",
+      "Calzada de ripio. Equipo vial trabajando en despeje. Transitable con precaución. Animales sueltos. Sectores con nieve sobre la calzada.",
       "20/7/2026 12:30"
     ],
     [
@@ -5862,7 +5862,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución  por sectores con presencia de escarcha y acumulación de nieve en la calzada. Sectores con baches . Animales sueltos. ",
+      "Calzada de ripio. Equipo vial trabajando en despeje. Transitable con precaución. Animales sueltos. Sectores con escarcha. Sectores con nieve sobre la calzada.\n",
       "20/7/2026 12:30"
     ],
     [
@@ -5873,7 +5873,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución  por sectores con presencia de escarcha y acumulación de nieve en la calzada. Sectores con baches . Animales sueltos. ",
+      "Calzada de ripio. Equipo vial trabajando en despeje. Transitable con precaución. Animales sueltos. Sectores con escarcha. Sectores con nieve sobre la calzada.\n",
       "20/7/2026 12:30"
     ],
     [
@@ -5884,7 +5884,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución  por sectores con presencia de escarcha y acumulación de nieve en la calzada. Sectores con baches . Animales sueltos.  Tareas de despeje de nieve.",
+      "Calzada de ripio. Equipo vial trabajando en despeje. Transitable con precaución. Animales sueltos. Sectores con escarcha. Sectores con nieve sobre la calzada.\nTransitable con precaución  por sectores con presencia de escarcha y acumulación de nieve en la calzada. Sectores con baches . Animales sueltos.  Tareas de despeje de nieve.",
       "20/7/2026 12:30"
     ],
     [
@@ -6071,7 +6071,7 @@
       "PAVIMENTO",
       "9,94",
       "",
-      "Transitar con precaución. Calzada de ripio. Sectores pesados por barro. Sectores con acumulación de nieve ",
+      "Calzada de ripio. Sectores con nieve sobre la calzada.",
       "20/7/2026 12:30"
     ],
     [
