@@ -1209,8 +1209,8 @@
       "PAVIMENTO",
       "138,00",
       "",
-      "Calzada húmeda por riego con sal en sectores. Banquinas con barro y nieve. Animales sueltos. Equipos viales al servicio de Vialidad Nacional distribuyendo sal. Viento. Transitar con precaución.",
-      "22/7/2026 16:00"
+      "Calzada húmeda por riego con sal en sectores. Banquinas con barro y nieve. Animales sueltos. Equipos viales al servicio de Vialidad Nacional distribuyendo sal. Viento. Bancos de niebla en sectores. Transitar con precaución.",
+      "22/7/2026 22:00"
     ],
     [
       "Chubut",
@@ -1221,7 +1221,7 @@
       "72,70",
       "",
       "Calzada húmeda por riego con sal en sectores. Tramos con deformaciones de calzada en la zona de la curva del lago. Banquinas con barro y nieve. Animales sueltos. Equipos viales distribuyendo sal. Viento. Heladas. Neblina. Transitar con precaución. ",
-      "22/7/2026 16:00"
+      "22/7/2026 22:00"
     ],
     [
       "Chubut",
@@ -1253,8 +1253,8 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Banquinas inestables, con barro en sectores. Entre Facundo-Tamariscos calzada con deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio húmeda en sectores, con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Transitar con precaución. ",
-      "22/7/2026 16:00"
+      "Calzada resbaladiza, con nieve en sectores. Banquinas inestables, con nieve y barro en sectores. Entre Facundo-Tamariscos calzada con deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio con barro y nieve en sectores, con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Equipos de Vialidad Nacional despejando y distribuyendo sal. Viento moderado. Nevando en sectores. Transitar con extrema precaución. ",
+      "22/7/2026 22:00"
     ],
     [
       "Chubut",
@@ -1265,7 +1265,7 @@
       "83,70",
       "",
       "Calzada húmeda, con sal en sectores. Banquinas inestables con barro en sectores. Deformaciones y baches en sectores de La Paulina hacia Gobernador Costa. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Lloviznas. Neviscas. Transitar con precaución. ",
-      "22/7/2026 19:00"
+      "22/7/2026 22:00"
     ],
     [
       "Chubut",
@@ -1275,8 +1275,8 @@
       "PAVIMENTO",
       "84,40",
       "",
-      "Calzada húmeda, con sal en sectores. Banquinas inestables, con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Lloviznas. Transitar con precaución.",
-      "22/7/2026 19:00"
+      "Calzada húmeda, con nieve en sectores. Banquinas inestables, con barro y nieve en sectores. Animales sueltos. Equipos de Vialidad Nacional distribuyendo sal. Viento. Lloviznas. Neviscas. Transitar con precaución.",
+      "22/7/2026 22:00"
     ],
     [
       "Chubut",
@@ -5236,7 +5236,7 @@
       "56,00",
       "",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5247,7 +5247,7 @@
       "60,00",
       "",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5258,7 +5258,7 @@
       "26,00",
       "",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5269,7 +5269,7 @@
       "22,00",
       "",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5280,7 +5280,7 @@
       "4,00",
       "",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5291,7 +5291,7 @@
       "33,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5302,7 +5302,7 @@
       "51,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5313,7 +5313,7 @@
       "16,00",
       "",
       "Transitable MAXIMA PRECAUCIONE NE ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5324,7 +5324,7 @@
       "35,00",
       "",
       "Transitable, MAXIMA PRECAUCION EN ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5335,7 +5335,7 @@
       "57,00",
       "",
       "Transitable,MAXIMA PRECAUCION EN ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5346,7 +5346,7 @@
       "34,00",
       "",
       "Transitable,MAXIMA PRECAUCION EN ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5357,7 +5357,7 @@
       "40,00",
       "",
       "Transitable MAXIMA PRECAUCION",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5368,7 +5368,7 @@
       "62,00",
       "",
       "Transitable, maxima PRECAUCION EN ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5379,7 +5379,7 @@
       "58,00",
       "",
       "Habilitada solo de 7 a 19hs",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5390,7 +5390,7 @@
       "91,00",
       "",
       "Transitable, maxima PRECAUCION POR LLUVIAS Y AGUA EN CALZADA",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5401,7 +5401,7 @@
       "42,00",
       "",
       "Transitable MAXIMA PRECAUCION EN ZONA DE BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5412,7 +5412,7 @@
       "50,00",
       "",
       "Transitable PRECAUCION ZONA BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5423,7 +5423,7 @@
       "102,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5434,7 +5434,7 @@
       "21,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/19/de-los-dinosaurios-rn-150\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5445,7 +5445,7 @@
       "85,00",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/19/de-los-dinosaurios-rn-150\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
       "transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5456,7 +5456,7 @@
       "13,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5467,7 +5467,7 @@
       "40,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5478,7 +5478,7 @@
       "23,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5489,7 +5489,7 @@
       "37,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5500,7 +5500,7 @@
       "56,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/27/Agua-Negra\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5511,7 +5511,7 @@
       "38,00",
       "",
       "transitable PRECAUCION ZONA BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5522,7 +5522,7 @@
       "20,00",
       "",
       "Transitable precaucion ZONA BADENES",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5533,7 +5533,7 @@
       "42.00",
       "",
       "A Barreal, departamento Calingasta, únicamente por RN 149.",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Juan",
@@ -5544,7 +5544,7 @@
       "15,00",
       "",
       "Transitable",
-      "22/7/2026 07:00"
+      "23/7/2026 07:00"
     ],
     [
       "San Luis",
@@ -5654,7 +5654,7 @@
       "58,12",
       "",
       "Transitable con precaución por presencia de escarcha. Animales sueltos. Zonas de baches. Banquinas inestables . Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5665,7 +5665,7 @@
       "76,00",
       "",
       "Transitable con precaución por presencia de escarcha. Animales sueltos. Zonas de baches. Banquinas inestables . Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5676,7 +5676,7 @@
       "134,00",
       "",
       "Transitable con precaución por presencia de escarcha.  Animales sueltos. Zonas de baches. Banquinas inestables . Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable con precaución por sectores con presencia de escarcha . Sectores con ahuellamiento. Banquinas inestables. Animales sueltos. Baches. Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con precaución por sectores con presencia de escarcha . Sectores con ahuellamiento. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5709,73 +5709,73 @@
       "129,00",
       "",
       "Transitable con precaución por sectores con presencia de escarcha . Sectores con ahuellamiento. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "PUENTE SOBRE RIO SANTA CRUZ (CTE. LUIS PIEDRABUENA)",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Calzada reducida por camiones detenidos con desperfectos mecánicos. Presencia de escarcha . Sectores con planchones de hielo. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo. Calzada reducida por camiones detenidos con desperfectos mecánicos. Presencia de escarcha . Sectores con planchones de hielo. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas ",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Empalme RN N° 288 - Empalme RP 9",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con presencia de escarcha . Sectores con planchones de hielo. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.Transitable con precaución por sectores con presencia de escarcha . Sectores con planchones de hielo. Banquinas inestables. Animales sueltos. Baches.  Portación obligatoria de cadenas ",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Antenas de telefónica km 2441 - Acc. Estancia Los Alamos",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Reducción de calzada por camión con desperfectos mecánicos. Sectores con escarcha. Personal y equipos viales trabajando. Animales sueltos. Uso obligatorio de cadenas",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.Reducción de calzada por camión con desperfectos mecánicos. Sectores con escarcha. Personal y equipos viales trabajando. Animales sueltos. Uso obligatorio de cadenas",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Acc. Estancia Los Alamos - Acc. Estancia Moy Aike Chico km 2540",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Transitar con precacución , sectores con escarcha y formación de hielo en la calzada.  Personal y equipos viales trabajando. Animales sueltos. Uso obligatorio de cadenas. Banquinas inestables.",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo. Transitar con precacución , sectores con escarcha y formación de hielo en la calzada.  Personal y equipos viales trabajando. Animales sueltos. Uso obligatorio de cadenas. Banquinas inestables.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Acc. Estancia Moy Aike Chico km 2540 - Guer Aike",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución , sectores con escarcha y formación de hielo en la calzada. Banquinas inestables. Animales sueltos. Personal y equipos viales trabajando . Uso obligatorio de cadenas",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo. Transitable con precaución , sectores con escarcha y formación de hielo en la calzada. Banquinas inestables. Animales sueltos. Personal y equipos viales trabajando . Uso obligatorio de cadenas",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "3",
       "Guer Aike-Empalme Aeropuerto",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución , sectores con escarcha y formación de hielo en la calzada. Banquinas inestables. Animales sueltos. Personal y equipos viales trabajando . Uso obligatorio de cadenas",
-      "22/7/2026 16:30"
+      "Circulación restringida para vehiculos pesados y transporte de pasajeros hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.Transitable con precaución , sectores con escarcha y formación de hielo en la calzada. Banquinas inestables. Animales sueltos. Personal y equipos viales trabajando . Uso obligatorio de cadenas",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5786,7 +5786,7 @@
       "",
       "",
       "Transitable con  precaución sectores con escarcha.  Banquinas inestables. Zona de baches. Calzada deformada. Sectores sin demarcación horizontal.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5797,7 +5797,7 @@
       "",
       "",
       "Transitable con precaución por formación de hielo en la calzada.  Zona de baches señalizada. Banquinas inestables. Equipos y personal realizan distribución de sal. Portación obligatoria de cadenas.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5808,7 +5808,7 @@
       "",
       "",
       "Transitable con precaución por formación de hielo en la calzada.  Zona de baches señalizada. Banquinas inestables. Equipos y personal realizan distribución de sal. Portación obligatoria de cadenas.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "",
       "",
       "Transitable con extrema precaución por sectores con escarcha.   Banquinas inestables.  Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5830,7 +5830,7 @@
       "85,00",
       "",
       "Transitable con extrema precaución solo para vehículos 4x4. Uso obligatorio de cadenas.  Nieve sobre la calzada . Voladeros. Viento.  Animales sueltos. Banquinas inestables",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5841,7 +5841,7 @@
       "78,00",
       "",
       "Transitable con precaución hasta fin de calzada de ripio. Nieve pisada. Sectores con escarcha.Animales sueltos. ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5852,7 +5852,7 @@
       "80,00",
       "",
       "Transitable con precaución.Calzada de ripio. Nieve pisada. Sectores con escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5863,7 +5863,7 @@
       "",
       "",
       "Transitable con precaución. Nieve pisada.  Sectores con escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5874,7 +5874,7 @@
       "",
       "",
       "Transitable con precaución. Nieve pisada.  Sectores con escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5885,7 +5885,7 @@
       "",
       "",
       "Transitable con precaución. Nieve pisada.  Sectores con escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5896,7 +5896,7 @@
       "69,00",
       "",
       "Transitable con extrema precaución por acumulación de nieve y formación de hielo en la calzada por voladeros. Equipos y personal vial realizan tareas de despeje y distribución de sal. Portación obligatoria de cadenas. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5907,7 +5907,7 @@
       "35,00",
       "",
       "Transitable con  precaución por neblina. Probabilidad de escarcha. Portación obligatoria de cadenas. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5918,7 +5918,7 @@
       "28,00",
       "",
       "Transitable con  precaución por probabilidad de escarcha. Portación obligatoria de cadenas. Animales sueltos.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -5929,95 +5929,95 @@
       "130,00",
       "",
       "Transitable con extrema precaución por formación de hielo en la calzada. Portación obligatoria de cadenas. Animales sueltos.La Irene-Tres lagos  transitable con precaución sectores con escarcha sobre calzada . ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Tres Lagos- Gobernador Gregores",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "RIPIO - PAVIMENTO",
       "173,00",
       "",
-      "Gob.Gregores - Emp. R.P.N°29 : Transitable con extrema precaución , sectores con escarcha. Animales sueltos.-Emp.R.P.N°29  - E.A La Siberia: Transitable con extrema precaución , calzada con huellones y nieve.  Animales sueltos.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Gobernador Gregores - Casa Riera",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "64",
       "",
-      "Transitable con extrema precaución, presencia de escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Casa Riera - Las Horquetas",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "45",
       "",
-      "Transitable con extrema precaución, presencia de escarcha. Animales sueltos.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Las Horquetas - Río Olnie",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "75",
       "",
-      "Transitable con precaución. Sectores con presencia de escarcha. Zona de baches. Animales sueltos. Banquinas inestables. Visibilidad reducida por niebla.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Río Olnie - Bajo Caracoles",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "25",
       "",
-      "Transitable con precaución. Sectores con presencia de escarcha. Zona de baches. Animales sueltos. Banquinas inestables. Visibilidad reducida por niebla.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Bajo Caracoles - Río Ecker",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "46",
       "",
-      "Transitable con precaución. Sectores con presencia de escarcha. Zona de baches. Animales sueltos.  Visibilidad reducida por niebla.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Río Ecker - Perito Moreno",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "74",
       "",
-      "Transitable con precaución. Sectores con presencia de escarcha. Zona de baches. Animales sueltos.  Visibilidad reducida por niebla.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
       "40",
       "Empalme RP43- Limite con Chubut",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "84",
       "",
-      "Transitable con precaución. Sectores con presencia de escarcha. Zona de baches. Animales sueltos.  Visibilidad reducida por niebla.",
-      "22/7/2026 16:30"
+      "Circulación restringida para todo tipo de vehiculos hasta las 08:00 hs del jueves 23 de julio, por persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -6028,7 +6028,7 @@
       "125,00",
       "",
       "Transitable con precaución por sectores con escarcha. Banquinas inestables.Animales sueltos. Zona de baches.   Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -6039,7 +6039,7 @@
       "41,00",
       "",
       "Transitable con extrema precaución por formación de hielo en la calzada. Banquinas inestables.Animales sueltos. Zona de baches. Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -6050,7 +6050,7 @@
       "77,40",
       "",
       "Transitable con extrema precaución por formación de hielo en la calzada. Banquinas inestables.Animales sueltos. Zona de baches. Portación obligatoria de cadenas ",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -6061,7 +6061,7 @@
       "144,00",
       "",
       "Transitable con extrema precaución. Nieve pisada.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Cruz",
@@ -6072,7 +6072,7 @@
       "9,94",
       "",
       "Calzada de ripio.  Transitable con precaución por sectores con nieve sobre la calzada y escarcha.",
-      "22/7/2026 16:30"
+      "22/7/2026 20:00"
     ],
     [
       "Santa Fe",
