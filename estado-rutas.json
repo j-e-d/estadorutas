@@ -4395,12 +4395,12 @@
       "Neuquén",
       "40",
       "Emp. RN 231 - Lago Villarino",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "43,77",
       "<a href=\"https://larutanatural.gob.ar/es/ruta-escenica/1/siete-lagos-rn-40\" title=\"Ruta escénica\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/la-ruta-natural.svg\" style=\"height:1rem;margin-top: -8px\" alt=\"Ruta escénica\"></a>",
-      "Corte total de circulación hasta nuevo aviso por acumulación de nieve y autos varados",
-      "24/7/2026 12:20"
+      "USO OBLIGATORIO DE CADENAS. Transitable con extrema precaución. Calzada con acumulación de nieve. Nevando intensamente. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "24/7/2026 14:30"
     ],
     [
       "Neuquén",
@@ -4494,12 +4494,12 @@
       "Neuquén",
       "231",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Transitable con extrema precaución para autos y transporte de pasajeros. Calzada con acumulación de nieve. Baja adherencia. Bajas temperaturas. Pronóstico de nevadas. Mantenga las distancias de frenado y evite maniobras de sobrepaso. Personal de Vialidad Nacional operando. Portación obligatoria de cadenas. Tránsito suspendido para transporte de carga. Nuevo reporte 13:00 hs",
-      "24/7/2026 10:30"
+      "Intransitable para todo tipo de vehículos y por el resto de la jornada. Calzada con acumulación de nieve. Nevadas de gran intensidad. Equipos de Vialidad Nacional operando.",
+      "24/7/2026 12:30"
     ],
     [
       "Neuquén",
@@ -5939,7 +5939,7 @@
       "RIPIO - PAVIMENTO",
       "173,00",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -5950,7 +5950,7 @@
       "PAVIMENTO",
       "64",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -5961,7 +5961,7 @@
       "PAVIMENTO",
       "45",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -5972,7 +5972,7 @@
       "PAVIMENTO",
       "75",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -5983,7 +5983,7 @@
       "PAVIMENTO",
       "25",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -5994,7 +5994,7 @@
       "PAVIMENTO",
       "46",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -6005,7 +6005,7 @@
       "PAVIMENTO",
       "74",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
@@ -6016,7 +6016,7 @@
       "PAVIMENTO",
       "84",
       "",
-      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 09:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
+      "CIRCULACIÓN RESTRINGIDA PARA TODO TIPO DE VEHÍCULOS  HASTA LAS 14:00 HS DEL VIERNES 24 DE JULIO. Esta medida es preventiva, debido a la persistencia de temperaturas mínimas muy bajas y condiciones de frío extremo.",
       "24/7/2026 11:30"
     ],
     [
