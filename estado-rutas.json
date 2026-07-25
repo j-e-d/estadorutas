@@ -5653,7 +5653,7 @@
       "PAVIMENTO",
       "58,12",
       "",
-      "Transitable con precaución por presencia de escarcha.   Animales sueltos. Zonas de baches. Banquinas inestables . Portación obligatoria de cadenas ",
+      "Transitable con precaución por presencia de escarcha.   Animales sueltos. Zonas de baches. Banquinas inestables . Portación obligatoria de cadenas . riego de liquido antihielo",
       "25/7/2026 11:00"
     ],
     [
@@ -5763,7 +5763,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitabe con extrema precaución ",
+      "Transitabe con extrema precaución . Nevando. Sectores con presencia de escarcha. Banquinas inestables. Animales sueltos. Portacion obligatoria de cadenas",
       "25/7/2026 11:00"
     ],
     [
@@ -5785,7 +5785,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por escarcha.  Banquinas inestables. Zona de baches. Calzada deformada. Sectores sin demarcación horizontal.",
+      "Transitable con precaución por escarcha.  Agua nieve. Banquinas inestables. Zona de baches. Calzada deformada. Sectores sin demarcación horizontal.",
       "25/7/2026 11:00"
     ],
     [
@@ -5796,7 +5796,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con extrema precaución por formación de hielo negro.  Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
+      "Transitable con precaución por calzada húmeda. Agua nieve. Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
       "25/7/2026 11:00"
     ],
     [
@@ -5807,7 +5807,7 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución por sectores con escarcha.  Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
+      "Transitable con precaución por sectores con escarcha y agua nieve.  Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
       "25/7/2026 11:00"
     ],
     [
