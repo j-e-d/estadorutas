@@ -4366,8 +4366,8 @@
       "PAVIMENTO",
       "23,52",
       "",
-      "Transitable con precaución. Calzada mojada. Lloviznas. Tránsito intenso",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Tránsito intenso",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4378,7 +4378,7 @@
       "136,40",
       "",
       "Transitable con precaución. Calzada húmeda. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4388,8 +4388,8 @@
       "PAVIMENTO",
       "68,46",
       "",
-      "Transitable con extrema precaución. Calzada mojada. Sectores con lluvia. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Uso obligatorio de cadenas",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada mojada. Sectores con lluvia. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Uso obligatorio de cadenas",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4399,19 +4399,19 @@
       "PAVIMENTO",
       "43,77",
       "",
-      "Transitable con precaución. Calzada mojada con hielo. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada mojada. Sectores con lluvia/llovizna. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
       "40",
       "Lago Villarino- San Martín de los Andes",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "43,16",
       "",
-      "Corte total, hasta nuevo aviso, de circulación en la RN 40 entre San Martín de los Andes y Catritre, debido al desmoronamiento de piedras de gran porte. La zona se encuentra inestable, con posibles nuevos desprendimientos.",
-      "31/7/2026 07:30"
+      "Transitable con precaución entre las 17:00 hs y las 22:00 hs . Calzada mojada. Sectores con lluvia/llovizna. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4421,8 +4421,8 @@
       "PAVIMENTO",
       "66,01",
       "",
-      "Transitable con extrema precaución. Calzada mojada. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada mojada. Lloviznas Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4432,8 +4432,8 @@
       "PAVIMENTO",
       "35,45",
       "",
-      "Transitable con precaución. Calzada húmeda. LLuvia/ Llovizna. Posible presencia de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Lluvia/ Llovizna. Posible presencia de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4444,7 +4444,7 @@
       "120,32",
       "",
       "Transitable con precaución. Calzada húmeda, visibilidad reducida por niebla. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4455,7 +4455,7 @@
       "49,01",
       "",
       "Transitable con precaución. Calzada húmeda, visibilidad reducida por niebla. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4466,7 +4466,7 @@
       "142,27",
       "",
       "Transitable con precaución. Calzada normal. Fuertes ráfagas de viento. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4477,7 +4477,7 @@
       "116,21",
       "",
       "Transitable con precaución. Calzada normal. Fuertes ráfagas de viento. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4488,7 +4488,7 @@
       "14,94",
       "",
       "Transitable con precaución. Calzada mojada. Lluvia/Lloviznas Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4499,7 +4499,7 @@
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Transitable con extrema precaución para todo tipo de vehículos. Calzada despejada y mojada. Baja adherencia. Bajas temperaturas. Pronostico de nieve ligera. Posible formación de hielo. Mantenga las distancias de frenado y evite maniobras de sobrepaso. Personal de Vialidad Nacional operando. Portación obligatoria de cadenas. ",
-      "31/7/2026 08:15"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4510,7 +4510,7 @@
       "57,44",
       "",
       "Transitable con precaución. Calzada mojada, Lloviznas/lluvia. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4521,7 +4521,7 @@
       "174,43",
       "",
       "Transitable con precaucion. Calzada húmeda. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4531,8 +4531,8 @@
       "PAVIMENTO",
       "118,79",
       "",
-      "Transitable con precaución. Calzada húmeda. Visibilidad reducida por bancos de niebla. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4542,8 +4542,8 @@
       "PAVIMENTO",
       "67,36",
       "",
-      "Transitable con precaución. Calzada húmeda. Visibilidad reducida por niebla. Sectores con lluvia y lloviznas. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Sectores con lluvia y lloviznas. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4554,18 +4554,18 @@
       "51,63",
       "",
       "Transitable con precaución. Calzada húmeda, sectores con hielo. Visibilidad muy reducida por niebla. Posible presencia de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "31/7/2026 07:30"
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
       "242",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Transitable con extrema precaución para todo tipo de vehículos, a partir de las 11:00 hs. Calzada con hielo. Viento. Cielo cubierto, inestable. Baja adherencia. Zona con animales sueltos. Posible caída de rocas en el km 48. Portación obligatoria de cadenas. Equipos operando.",
-      "31/7/2026 00:00"
+      "Intransitable por el resto de la jornada. Calzada con hielo y nieve. Viento blanco. Nevando. Baja adherencia. Zona con animales sueltos. Posible caída de piedras en el km 48. Equipos operando.",
+      "31/7/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4575,8 +4575,8 @@
       "PAVIMENTO",
       "6,86",
       "",
-      "Transitable con precaución. Calzada mojada. Lloviznas. Tránsito intenso",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Tránsito intenso",
+      "31/7/2026 15:00"
     ],
     [
       "Neuquén",
@@ -4586,8 +4586,8 @@
       "PAVIMENTO",
       "23,67",
       "",
-      "Transitable con precaución. Calzada mojada. Lloviznas. Tránsito intenso",
-      "31/7/2026 07:30"
+      "Transitable con precaución. Calzada húmeda. Tránsito intenso",
+      "31/7/2026 15:00"
     ],
     [
       "Río Negro",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable con precaución sectores con escarcha.  Calzada con nieve. Animales sueltos. Sectores con ahuellamiento. Portación obligatoria de cadenas. Banquinas inestables. Sectores con baches.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5709,7 +5709,7 @@
       "129,00",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5720,7 +5720,7 @@
       "",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5731,7 +5731,7 @@
       "",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada. Equipos trabajando.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5742,7 +5742,7 @@
       "",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada. Equipos trabajando.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5753,7 +5753,7 @@
       "",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada. Equipos trabajando.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5764,7 +5764,7 @@
       "",
       "",
       "Transitable con extrema precaución por presencia de nieve sobre la calzada.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5775,7 +5775,7 @@
       "",
       "",
       "Transitable con  precaución. Calzada húmeda. Banquinas inestables. Portación obligatoria y uso de cadenas en subidas y pendientes.Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5786,7 +5786,7 @@
       "",
       "",
       "Transitable con precaución por escarcha.  Banquinas inestables. Zona de baches. Calzada deformada. Sectores sin demarcación horizontal.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5797,7 +5797,7 @@
       "",
       "",
       "Transitable con precaución por escarcha matinal. Equipos viales realizan distribución de sal.  Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5808,7 +5808,7 @@
       "",
       "",
       "Transitable con precaución por escarcha matinal. Equipos viales realizan distribución de sal.   Zona de baches señalizada. Banquinas inestables. Portación obligatoria de cadenas.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "",
       "",
       "Transitable con  precaución por sectores con escarcha.   Banquinas inestables.  Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5830,7 +5830,7 @@
       "85,00",
       "",
       "Transitable con precaución sectores con nevizca y voladeros. Visibilidad reducida. Animales sueltos. Banquinas inestables. Portación obligatoria de cadenas.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5841,7 +5841,7 @@
       "78,00",
       "",
       "Transitable con precaución calzada con formación de hielo y nieve. Calzada con nieve pisada. Nevando. Visibilidad reducida. Maquinas viales realizan despeje.  Animales sueltos. ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5852,7 +5852,7 @@
       "80,00",
       "",
       "Transitable con precaución calzada con formación de hielo y nieve. Calzada con nieve pisada. Nevando. Visibilidad reducida. Maquinas viales realizan despeje.  Animales sueltos. ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5863,7 +5863,7 @@
       "",
       "",
       "Transitable con precaución calzada con baches y escarcha. Nevando. Visibilidad reducida. Maquinas viales realizan despeje.  Animales sueltos. ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5874,7 +5874,7 @@
       "",
       "",
       "Transitable con precaución nieve sobre la calzada. Visibilidad reducida. Nevando.Maquinas viales realizan despeje.  Animales sueltos. ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5885,7 +5885,7 @@
       "",
       "",
       "Transitable con precaución nieve sobre la calzada. Visibilidad reducida. Nevando.Maquinas viales realizan despeje.  Animales sueltos. ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5896,7 +5896,7 @@
       "69,00",
       "",
       "Transitable con  precaución, sectores con presencia de escarcha.  Portación obligatoria de cadenas. Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5907,7 +5907,7 @@
       "35,00",
       "",
       "Transitable con  precaución, sectores con presencia de escarcha.  Portación obligatoria de cadenas. Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5918,7 +5918,7 @@
       "28,00",
       "",
       "Transitable con  precaución, sectores con presencia de escarcha.  Portación obligatoria de cadenas. Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5929,7 +5929,7 @@
       "130,00",
       "",
       "Transitable con precaución por formación de hielo en la calzada . Portación obligatoria de cadenas. Animales sueltos.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5940,7 +5940,7 @@
       "173,00",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5951,7 +5951,7 @@
       "64",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5962,7 +5962,7 @@
       "45",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5973,7 +5973,7 @@
       "75",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5984,7 +5984,7 @@
       "25",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -5995,7 +5995,7 @@
       "46",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -6006,7 +6006,7 @@
       "74",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -6017,7 +6017,7 @@
       "84",
       "",
       "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -6028,7 +6028,7 @@
       "125,00",
       "",
       "Transitable con precaución  sectores con escarcha . Banquinas inestables.",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -6039,29 +6039,29 @@
       "41,00",
       "",
       "Transitable con precaución sectores con escarcha. Banquinas inestables.Animales sueltos. Zona de baches. Portación obligatoria de cadenas ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
       "288",
       "Emp. RN 3 - Estancia La Julia",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "77,40",
       "",
-      "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "Transitable con precaución por nieve en sectores de la calzada y equipos trabajando.",
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
       "288",
       "Estancia La Julia - Tres Lagos",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "RIPIO",
       "144,00",
       "",
-      "Circulación restringida para todo tipo de vehículos hasta las 09:00 horas debido a las condiciones meteorológicas adversas",
-      "31/7/2026 12:30"
+      "Transitable con precaución por nieve en sectores de la calzada y equipos trabajando.",
+      "31/7/2026 15:30"
     ],
     [
       "Santa Cruz",
@@ -6072,7 +6072,7 @@
       "9,94",
       "",
       "Calzada de ripio.  Transitable con precaución por sectores con nieve ",
-      "31/7/2026 12:30"
+      "31/7/2026 15:30"
     ],
     [
       "Santa Fe",
