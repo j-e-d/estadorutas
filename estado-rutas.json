@@ -4367,18 +4367,18 @@
       "23,52",
       "",
       "Transitable con precaución. Calzada mojada por lluvia. Tránsito intenso",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
       "22",
       "Arroyito - Zapala",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
       "PAVIMENTO",
       "136,40",
       "",
-      "Transitable con extrema precaución. Calzada con acumulación de nieve. Nevando. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. . ",
-      "5/8/2026 18:00"
+      "Corte total de circulación entre Cutral Co y Zapala. Transitable con extrema precaución. Calzada mojada. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. . ",
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4389,7 +4389,7 @@
       "68,46",
       "",
       "Transitable con extrema precaución. Calzada húmeda. Sectores con lluvia y lloviznas. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Uso obligatorio de cadenas",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4400,7 +4400,7 @@
       "43,77",
       "",
       "Transitable con extrema precaución. Calzada húmeda. Sectores con lluvia y lloviznas. Neviscas. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4411,7 +4411,7 @@
       "43,16",
       "",
       "Transitable con extrema precaución. Calzada húmeda. Sectores con lluvia y lloviznas. Neviscas. Visibilidad reducida por niebla. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4422,7 +4422,7 @@
       "66,01",
       "",
       "Transitable con extrema precaución. Calzada húmeda. Lloviznas. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4433,29 +4433,29 @@
       "35,45",
       "",
       "Transitable con extrema precaución. Calzada mojada. Posible presencia de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
       "40",
       "Catan Lil - Zapala",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "120,32",
       "",
-      "Transitable con extrema precaución. Calzada con acumulación de nieve. Nevando. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. . ",
-      "5/8/2026 18:00"
+      "Corte total de circulación por acumulación de nieve y condiciones climaticas adversas",
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
       "40",
       "Zapala - Las Lajas",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "49,01",
       "",
-      "Transitable con extrema precaución. Calzada con acumulación de nieve. Nevando. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. . ",
-      "5/8/2026 18:00"
+      "Corte total de circulación por acumulación de nieve y condiciones climaticas adversas",
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4466,7 +4466,7 @@
       "142,27",
       "",
       "Transitable con extrema precaución. Calzada con nieve. Nevando. Posibles desmoronamientos de rocas. Alerta metereológica. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4477,7 +4477,7 @@
       "116,21",
       "",
       "Transitable con extrema precaución. Calzada mojada por lluvia. Posibles desmoronamientos de rocas. Alerta metereológica. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando. ",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4488,7 +4488,7 @@
       "14,94",
       "",
       "Transitable con precaución. Calzada húmeda, lluvia. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4499,7 +4499,7 @@
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Transitable con extrema precaución para todo tipo de vehículos. Calzada con acumulacíon de nieve. Hielo en sectores. Baja adherencia. Pronóstico de nevadas para la tarde/noche. Mantenga las distancias de frenado y evite maniobras de sobrepaso. Personal de Vialidad Nacional operando. Portación obligatoria de cadenas físicas. ",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4510,7 +4510,7 @@
       "57,44",
       "",
       "Transitable con precaución. Calzada mojada. Lluvia. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4521,7 +4521,7 @@
       "174,43",
       "",
       "Transitable con extrema precaucion. Calzada mojada. Lluvia. Neviscas en sectores. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4532,7 +4532,7 @@
       "118,79",
       "",
       "Transitable con extrema precaución. Calzada mojada. Neviscas. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4543,7 +4543,7 @@
       "67,36",
       "",
       "Transitable con extrema precaución. Calzada mojada. Lloviznas. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4554,7 +4554,7 @@
       "51,63",
       "",
       "Transitable con extrema precaución. Calzada con hielo y nieve. Posible presencia de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4565,7 +4565,7 @@
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Intransitable durante toda la jornada. Calzada con acumulación hielo y nieve. Viento fuerte. Nevando. Baja adherencia. Zona con animales sueltos. Posible caída de piedras en el km 48. Equipos operando.",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4576,7 +4576,7 @@
       "6,86",
       "",
       "Transitable con precaución. Calzada mojada por lluvia. Tránsito intenso",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Neuquén",
@@ -4587,7 +4587,7 @@
       "23,67",
       "",
       "Transitable con precaución. Calzada mojada por lluvia. Tránsito intenso",
-      "5/8/2026 18:00"
+      "5/8/2026 19:50"
     ],
     [
       "Río Negro",
