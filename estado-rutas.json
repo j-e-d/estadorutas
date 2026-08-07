@@ -4367,7 +4367,7 @@
       "23,52",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4378,7 +4378,7 @@
       "136,40",
       "",
       "Transitable con extrema precaución. Calzada con hielo en sectores. Nevando en Zapala. Posible formación de hielo en horarios nocturnos. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4388,8 +4388,8 @@
       "PAVIMENTO",
       "68,46",
       "",
-      "Transitable con extrema precaución. Calzada húmeda. Sectores con lluvia, aguanieve y nieve. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas",
-      "7/8/2026 14:00"
+      "Transitable con extrema precaución. Calzada húmeda. Sectores con nieve. Posible formación de hielo en sectores. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4400,7 +4400,7 @@
       "43,77",
       "",
       "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4410,19 +4410,19 @@
       "PAVIMENTO",
       "43,16",
       "",
-      "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas.",
-      "7/8/2026 14:00"
+      "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas desde RP 63 hasta empalme RN 231",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
       "40",
       "San Martín de los Andes - Rinconada",
-      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "66,01",
       "",
-      "Intransitable de Junin de los Andes a Rinconada. Transitable con extrema precaución. Calzada con nieve acumulada. Nevando. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Uso obligatorio de cadenas.",
-      "7/8/2026 14:00"
+      "Transitable con extrema precaución. Calzada con hielo y nieve. Zona con animales sueltos. Equipos operando. Uso obligatorio de cadenas",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4433,7 +4433,7 @@
       "35,45",
       "",
       "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4444,7 +4444,7 @@
       "120,32",
       "",
       "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4455,7 +4455,7 @@
       "49,01",
       "",
       "Transitable con extrema precaución. Calzada húmeda, sectores con hielo. Neviscando Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4465,8 +4465,8 @@
       "PAVIMENTO",
       "142,27",
       "",
-      "Transitable con extrema precaución. Calzada humeda por escurrimientos. Fuertes rafagas de viento. Nieve volada. Pronóstico de nevadas. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "Transitable con extrema precaución. Calzada humeda por escurrimientos. Lloviznas. Fuertes rafagas de viento. Nieve volada. Pronóstico de nevadas. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4476,8 +4476,8 @@
       "PAVIMENTO",
       "116,21",
       "",
-      "Transitable con extrema precaución. Calzada humeda por escurrimientos. Fuertes rafagas de viento. Nieve volada. Pronóstico de nevadas. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "Transitable con extrema precaución. Calzada humeda por escurrimientos. Fuertes rafagas de viento. Nieve volada. Pronóstico de nevadas. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas. Lloviznas.",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4488,7 +4488,7 @@
       "14,94",
       "",
       "Transitable con precaución. Calzada con acumulación de nieve. Nevando. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4499,18 +4499,18 @@
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Intransitable por el resto de la jornada para todo tipo de vehículos. Calzada con acumulación de nieve. Nevando intensamente. Equipos de Vialidad Nacional operando",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
       "234",
       "Rinconada - Emp. RN 237",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "57,44",
       "",
-      "Corte total de circulación por acumulacion de hielo y nieve, nevadas intensas.",
-      "7/8/2026 14:00"
+      "Transitable con extrema precaución. Calzada con hielo y nieve. Zona con animales sueltos. Equipos operando. Uso obligatorio de cadenas",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4521,7 +4521,7 @@
       "174,43",
       "",
       "Transitable con extrema precaucion. Calzada húemda. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4532,7 +4532,7 @@
       "118,79",
       "",
       "Transitable con extrema precaución. Calzada con acumulación de nieve. Nevando. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4542,8 +4542,8 @@
       "PAVIMENTO",
       "67,36",
       "",
-      "Transitable con precaución. Calzada húmeda. Calzada con nieve. Nevando. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "Transitable con precaución. Calzada húmeda, sectores con nieve. Nevando. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4554,7 +4554,7 @@
       "51,63",
       "",
       "Transitable con extrema precaución. Calzada con hielo y nieve.  Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4565,7 +4565,7 @@
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Intransitable durante toda la jornada. Calzada con acumulación hielo y nieve. Nevando. Baja adherencia. Zona con animales sueltos. Posible caída de piedras en el km 48. Equipos operando.",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4576,7 +4576,7 @@
       "6,86",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Neuquén",
@@ -4587,7 +4587,7 @@
       "23,67",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "7/8/2026 14:00"
+      "7/8/2026 16:00"
     ],
     [
       "Río Negro",
