@@ -4428,23 +4428,23 @@
       "Neuquén",
       "40",
       "Rinconada - Catan Lil",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
       "PAVIMENTO",
       "35,45",
       "",
-      "Transitable con extrema precaución. Calzada con hielo en sectores. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Uso obligatorio de cadenas",
-      "12/8/2026 08:00"
+      "Transito restringido para camiones y colectivos. Transitable con extrema precaución autos. Calzada con hielo y nieve. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Uso obligatorio de cadenas",
+      "12/8/2026 11:00"
     ],
     [
       "Neuquén",
       "40",
       "Catan Lil - Zapala",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-mandarina'>CORTE PARCIAL</span>",
       "PAVIMENTO",
       "120,32",
       "",
-      "Transitable con extrema precaución. Calzada con hielo. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Uso obligatorio de cadenas",
-      "12/8/2026 08:00"
+      "Transito restringido para camiones y colectivos. Transitable con extrema precaución autos. Calzada con hielo y nieve. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Uso obligatorio de cadenas",
+      "12/8/2026 11:00"
     ],
     [
       "Neuquén",
@@ -4736,7 +4736,7 @@
       "Río Negro",
       "23",
       "Comallo - Pilcaniyeu",
-      "<span class='label bg-cielo'>RESTRINGIDA</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "56,00",
       "",
@@ -4747,7 +4747,7 @@
       "Río Negro",
       "23",
       "Pilcaniyeu - Emp. RN 40",
-      "<span class='label bg-cielo'>RESTRINGIDA</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "CALZADA NATURAL /PAVIMENTO",
       "64,00",
       "",
