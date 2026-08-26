@@ -1121,7 +1121,7 @@
       "PAVIMENTO",
       "62,87",
       "",
-      "Calzada húmeda. Banquinas normales. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Desvío habilitado. Respetar señalamiento. Viento. Lloviznas. Transitar con precaución. ",
+      "Calzada húmeda en sectores. Banquinas húmedas. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Desvío habilitado. Respetar señalamiento. Viento. Transitar con precaución. ",
       "25/8/2026 21:00"
     ],
     [
@@ -1132,7 +1132,7 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada húmeda en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Lloviznas. Transitar con precaución.",
+      "Calzada húmeda, deformada en sectores. Banquinas húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
       "25/8/2026 21:00"
     ],
     [
@@ -1143,7 +1143,7 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada normal, húmeda por riego con sal en sectores. Baches sobre calzada en sectores. Banquinas inestables, con barro. Equipos de Vialidad Nacional trabajando en bacheo entre Salamanca y Cañadón Ferrays. Animales sueltos. Viento. Transitar con precaución.",
+      "Calzada normal, húmeda por riego con sal en sectores. Baches sobre calzada en sectores. Banquinas inestables, con barro. Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
       "25/8/2026 21:00"
     ],
     [
@@ -3729,7 +3729,7 @@
       "175,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3740,7 +3740,7 @@
       "46,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3751,7 +3751,7 @@
       "50,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3762,7 +3762,7 @@
       "40,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3773,18 +3773,18 @@
       "51,00",
       "",
       "Transitable con Precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
       "7",
       "Punta De Vacas - Puente Del Inca",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "26,00",
       "",
       "Transitable con Precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3795,18 +3795,18 @@
       "13,80",
       "",
       "Transitable con Precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
       "7",
       "Tunel Internacional",
-      "<span class='label bg-verdin'>HABILITADA</span>",
+      "<span class='label bg-tomate'>CORTE TOTAL</span>",
       "PAVIMENTO",
       "4,45",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a><a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/29/Sistema-Cristo-Redentor\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Corte por nevadas  - Desde las 09 hs habilitacion  Nuevo horario de invierno de 09 a 21 hs Arg - 08 a 20 hs Chile",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3817,7 +3817,7 @@
       "35,70",
       "",
       "Transitable con Precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3828,7 +3828,7 @@
       "49,40",
       "",
       "Lluvias y anegamientos, equipos trabajando, sectores con calzada de ripio / suelo natural. ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3839,7 +3839,7 @@
       "56,70",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3850,7 +3850,7 @@
       "62,70",
       "",
       "Transitable con Precaución. Posibilidad de desprendimiento de rocas en zona de Cuesta del Chiuido.",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3861,7 +3861,7 @@
       "58,30",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3872,7 +3872,7 @@
       "96,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3883,7 +3883,7 @@
       "67,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3894,7 +3894,7 @@
       "37,80",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3905,7 +3905,7 @@
       "87,00",
       "",
       "Transitable con precaución  . Bypass de 500 mts sobre puentes en Arroyo Chañares Sur y Arroyo Los Pozos.",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3916,7 +3916,7 @@
       "76,00",
       "",
       "Transitable con precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3927,7 +3927,7 @@
       "35,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3938,7 +3938,7 @@
       "106,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3949,7 +3949,7 @@
       "114,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3960,7 +3960,7 @@
       "104,00",
       "",
       "Tránsitable con extrema precaución RN 143, En el tramo comprendido entre la calle Guillermo Rawson y el Chañaral del Toledano  se realizarán desvíos por calles 20 de junio y, Santiago Germanó, ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3971,7 +3971,7 @@
       "70,00",
       "",
       "Transitable con extrema precaución",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3982,7 +3982,7 @@
       "56,00",
       "",
       "Tránsitable con extrema precaución ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -3993,7 +3993,7 @@
       "35,00",
       "",
       "Transitable con extrema precaución. Posibilidad de animales sueltos sobre calzada (trashumancia). ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4004,7 +4004,7 @@
       "30,00",
       "",
       " Posibilidad de animales sueltos sobre calzada (trashumancia). ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4015,7 +4015,7 @@
       "10,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/32/Pehuenche\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4026,7 +4026,7 @@
       "5,00",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/32/Pehuenche\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "nevadas y fuerte viento blanco",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4037,7 +4037,7 @@
       "124,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4048,7 +4048,7 @@
       "57,51",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4059,7 +4059,7 @@
       "54,5",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4070,7 +4070,7 @@
       "111,00",
       "",
       "",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4081,7 +4081,7 @@
       "60,00",
       "",
       "Transitable con Precaución. lluvias ( Equipos trabajando en la zona) Sectores con calzada de ripio / suelo natural. ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Mendoza",
@@ -4092,7 +4092,7 @@
       "230,00",
       "",
       "Transitable con Precaución. Sólo vehículos con tracción integral (4x4) por erosiones aluvionales y afectaciones en calzada de suelo natural. ",
-      "25/8/2026 07:11"
+      "26/8/2026 07:11"
     ],
     [
       "Misiones",
@@ -4598,7 +4598,7 @@
       "185,00",
       "",
       "Transitable con precaución. Desde Viedma hasta la Rotonda RN 250 tener presente que es una zona de chacras con varios caminos laterales donde ingresan y egresan vehículos de gran porte. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4609,7 +4609,7 @@
       "125,00",
       "",
       "Transitable con precaución. Circular respetando las velocidades máximas y los sectores de adelantamiento.  Tráfico vehicular moderado.  Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4620,7 +4620,7 @@
       "40,00",
       "",
       "Transitable con precaución.Circular respetando las velocidades máximas y los sectores de adelantamiento. Sectores poceados.  Circular con cinturones de seguridad colocados y luces bajas encendidas.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4631,7 +4631,7 @@
       "193,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento. Circular a velocidad precautoria.  Tráfico vehicular moderado. Sectores con deformaciones de calzada en la zona de Río Colorado.  Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "25/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4642,7 +4642,7 @@
       "146,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento. Circular a velocidad precautoria. Tráfico vehicular moderado/alto. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "25/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4653,7 +4653,7 @@
       "355,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento.  Circular respetando las velocidades de circulación.  Tráfico vehicular alto. Precaucion en zonas de obra. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "25/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4664,7 +4664,7 @@
       "78,00",
       "",
       "Transitable con  Precaucion. Sectores con ondulaciones de calzada.  Circular con cinturones de seguridad colocados y luces bajas encendidas.  Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4675,7 +4675,7 @@
       "104,00",
       "",
       "Transitable con Precaucion. Tener presente que en el km 115 se encuentra el desvío de ripio en la zona del arroyo Nahuel Niyeu. Circular a baja velocidad y respetar la señalización presente en el desvío. Respetar las velocidades maximas . Se recomienda no circular en horario nocturno.  Circular con cinturones de seguridad colocados y luces bajas encendidas.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4686,7 +4686,7 @@
       "89,00",
       "",
       "Transitable con Precaucion. Bajas temperaturas hacia la noche. Transitar respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno .Portacion obligatoria de cadenas. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4697,7 +4697,7 @@
       "71,00",
       "",
       "Transitable con  Precaucion. Calzada en regular estado. Tramo con riego de solucion salina. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horario nocturno.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4708,7 +4708,7 @@
       "69,00",
       "",
       "Transitable con precaucion. Calzada en regular estado. Tramo con riego de solucion salina. Tramos con calzada humeda. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4719,7 +4719,7 @@
       "47,00",
       "",
       "Transitable con precaucion. Tramo con humedad por  riego de solucion salina. animales sueltos. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horario nocturno.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4729,8 +4729,8 @@
       "CALZADA NATURAL /PAVIMENTO",
       "41,00",
       "",
-      "Transitable con  Precaucion. Condiciones normales de transitabilidad. Obreros viales en zona de ripio. Tramo con riego de solucion salina. Sectores con serruchos. Circular a baja velocidad. Tener presente que en tramo en obra con piedras sueltas. Precaución en las transiciones de asfalto a ripio. Sectores con curvas cerradas.  Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "25/8/2026 06:30"
+      "Transitable con  Precaucion.Calzada humeda por lluvias /aguanieve. Obreros viales en zona de ripio. Tramo con riego de solucion salina. Sectores con serruchos. Circular a baja velocidad. Tener presente que en tramo en obra con piedras sueltas. Precaución en las transiciones de asfalto a ripio. Sectores con curvas cerradas.  Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4740,8 +4740,8 @@
       "PAVIMENTO",
       "56,00",
       "",
-      "Transitable con Precaucion. Condiciones normales de transitabilidad. Tramo con riego de solucion salina. Circular a baja velocidad. Tramo con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Piedras sueltas. Sectores con curvas cerradas. Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "25/8/2026 06:30"
+      "Transitable con Precaucion. Calzada humeda por lluvias /aguanieve. Tramos de ripio con barro. Circular a baja velocidad. Tramo con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Piedras sueltas. Sectores con curvas cerradas. Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4751,8 +4751,8 @@
       "CALZADA NATURAL /PAVIMENTO",
       "64,00",
       "",
-      "Transitable con Precaucion. Maquinas viales repasando la zona. Desvíos por obras. Tramo con riego de solucion salina. Circular a baja velocidad. Piedras sueltas. Tramos con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "25/8/2026 06:30"
+      "Transitable con Precaucion. Calzada humeda por lluvias /aguanieve. Maquinas viales repasando la zona. Desvíos por obras. Tramo con riego de solucion salina. Circular a baja velocidad. Piedras sueltas. Tramos con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Secotores con barro. Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4762,8 +4762,8 @@
       "PAVIMENTO",
       "90,00",
       "",
-      "Transitable con Precaucion. Calzada humeda por lluvias. Piedras por derrumbes ocacionales. Animales sueltos. Recorrido sinuoso con curvas cerradas. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
-      "25/8/2026 06:30"
+      "Transitable con Precaucion. Calzada humeda. Aguanieve en gran parte del tramo. Piedras por derrumbes ocacionales. Animales sueltos. Recorrido sinuoso con curvas cerradas. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4773,8 +4773,8 @@
       "PAVIMENTO",
       "28,80",
       "",
-      "Transitable con Precaucion.Calzada humeda por lluvias. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
-      "25/8/2026 06:30"
+      "Transitable con Precaucion.Calzada humeda. Aguanieve. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4784,8 +4784,8 @@
       "PAVIMENTO",
       "25,00",
       "",
-      "Transitable con Precaucion. Calzada humeda por lluvias. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
-      "25/8/2026 06:30"
+      "Transitable con Precaucion. Calzada humeda. Aguanieve. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4796,7 +4796,7 @@
       "147,00",
       "",
       "Transitable con precaución por presencia de tramos con calzada deteriorada. Calzada con ondulaciones y desniveles .Tráfico vehicular intenso. Circular a baja velocidad. Calzada humeda por lluvias. Baja visibilidad. Precaución al realizar maniobras de adelantamiento. Tramos con ahuellamiento de calzada. Sectores irregulares con descalce de banquinas. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "25/8/2026 06:30"
+      "25/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4807,7 +4807,7 @@
       "40,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Baja visibilidad. Animales sueltos. Sectores irregulares con descalce de banquinas. Respetar las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4818,7 +4818,7 @@
       "112,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Baja visibilidad.Respetar velocidades máximas y los espacios de adelantamiento. Animales sueltos. Zona de Animales salvajes. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4829,7 +4829,7 @@
       "145,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Baja visibilidad. Circular respetando las velocidades máximas y mínimas. Animales sueltos. Zona de animales salvajes. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4840,7 +4840,7 @@
       "28,00",
       "",
       "Transitable con precaución.Circular respetando las velocidades máximas y los espacios de adelantamiento. Animales sueltos. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno.Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4851,7 +4851,7 @@
       "119,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Baja visibilidad.Respetar velocidades máximas y los espacios de adelantamiento. Precaución. Llevar luces bajas encendidas y cinturón de seguridad correctamente colocado. Respetar los espacios de adelantamiento. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4862,7 +4862,7 @@
       "84,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Baja visibilidad.Circular respetando las velocidades máximas y mínimas. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4873,7 +4873,7 @@
       "80,00",
       "",
       "Transitable con extrema Precaucion . Baja adherencia por nieve y barro. Recorrido sin banquinas. Tramos poceados con piedras sueltas. Recorrido con curvas cerradas y calzada angosta. Sectores irregulares.  Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Portacion obligatoria de cadenas.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4884,7 +4884,7 @@
       "149,00",
       "",
       "Transitable con  extrema Precaucion. Solo vehiculos 4x4 traccion simple con cadenas.  Baja adherencia por acumulacion de barro. Sectores con con banquinas inestables. Calzada angosta con curvas cerradas. Circular a baja velocidad. Tramos con serruchos y piedras sueltas de Ñorquinco hacia el sur. Circular a baja velocidad. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Portacion obligatoria de cadenas.",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4895,7 +4895,7 @@
       "28,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Circular respetando las velocidades máximas . Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Río Negro",
@@ -4906,7 +4906,7 @@
       "8,70",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "25/8/2026 06:30"
+      "26/8/2026 07:30"
     ],
     [
       "Salta",
@@ -5654,7 +5654,7 @@
       "58,12",
       "",
       "Transitable con  precaución. Sectores con escarcha. Baches profundos. Animales sueltos. Banquinas inestables . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5665,7 +5665,7 @@
       "76,00",
       "",
       "Transitable con  precaución. Sectores con escarcha. Baches profundos. Animales sueltos. Banquinas inestables . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5676,7 +5676,7 @@
       "134,00",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla. Calzada con deformaciones. Animales sueltos. Banquinas inestables. Baches.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5687,7 +5687,7 @@
       "66,5",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla. Calzada con deformaciones. Animales sueltos. Banquinas inestables. Baches.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5698,7 +5698,7 @@
       "69,5",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla. Calzada con deformaciones. Animales sueltos. Banquinas inestables. Baches.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5709,7 +5709,7 @@
       "129,00",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla. Calzada con deformaciones. Animales sueltos. Banquinas inestables. Baches.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5720,7 +5720,7 @@
       "",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla.  Calzada con deformaciones. Animales sueltos.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5731,7 +5731,7 @@
       "",
       "",
       "Transitable con precaución, sectores con escarcha. Visibilidad reducida por bancos de niebla.  Calzada con deformaciones. Animales sueltos.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5742,7 +5742,7 @@
       "",
       "",
       "Transitable con  precaución. Calzada húmeda por lloviznas.   Animales sueltos. Precaución por sectores con deformación de calzada y falta de señalización horizontal. Banquinas con descalce y sectores con barro.  ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5753,7 +5753,7 @@
       "",
       "",
       "Transitable con precaución . Animales sueltos. Banquinas inestables.  Zona de baches (puentes Rio Coyle)",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5763,8 +5763,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución. Visibilidad reducida por bacos de niebla.  Calzada húmeda. Animales sueltos. Banquinas inestables.  Sectores con huellones, deformación de calzada .Baches . Progresiva 2545 camión detenido sobre la banquina.",
-      "25/8/2026 07:30"
+      "Transitable con precaución. Visibilidad reducida por bancos de niebla.  Animales sueltos. Banquinas inestables.  Sectores con huellones, deformación de calzada .Baches . Progresiva 2545 camión detenido sobre la banquina.",
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5775,7 +5775,7 @@
       "",
       "",
       "Transitable con precaución. Animales sueltos. Banquinas inestables.  Sectores con huellones, deformación de calzada .Baches ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5786,7 +5786,7 @@
       "",
       "",
       "Transitable con precaución. Viento .  Animales sueltos. Banquinas inestables. Sectores con huellones, deformación de calzada .Baches ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5797,7 +5797,7 @@
       "",
       "",
       "Transitable con precaución. Viento.  Zona de baches señalizada. Banquinas inestables. ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5808,7 +5808,7 @@
       "",
       "",
       "Transitable con precaución . Viento . Zona de baches señalizada. Banquinas inestables. ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5819,7 +5819,7 @@
       "",
       "",
       "Transitable con  precaución . Viento.   Banquinas inestables.  Animales sueltos.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5829,8 +5829,8 @@
       "PAVIMENTO",
       "85,00",
       "",
-      "Transitable con precaución . Calzada húmeda. Animales sueltos. Banquinas inestables.",
-      "25/8/2026 07:30"
+      "Transitable con precaución . Calzada húmeda por riego de líquido antihielo. Animales sueltos. Banquinas inestables. Sectores con escarcha matinal.",
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5841,7 +5841,7 @@
       "78,00",
       "",
       "Transitable con precaución hasta fin de calzada de ripio. Sectores con barro .Banquinas inestables. Animales sueltos.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5852,7 +5852,7 @@
       "80,00",
       "",
       "Transitable con precaución, calzada de ripio.Sectores con barro y huellones. Visibilidad reducida por niebla .Equipos y personal trabajando",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5863,7 +5863,7 @@
       "",
       "",
       "Transitable con  precaución. Calzada con presencia de escarcha. Zona de baches.  Visibilidad reducida por niebla.Equipos y personal trabajando",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5874,7 +5874,7 @@
       "",
       "",
       "Transitable con  precaución. Calzada con presencia de escarcha. Zona de baches.  Visibilidad reducida por niebla.Equipos y personal trabajando",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5885,7 +5885,7 @@
       "",
       "",
       "Transitable con  precaución. Calzada con presencia de escarcha. Zona de baches.  Equipos y personal trabajando",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5896,7 +5896,7 @@
       "69,00",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5907,7 +5907,7 @@
       "35,00",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5918,7 +5918,7 @@
       "28,00",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5929,7 +5929,7 @@
       "130,00",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5940,7 +5940,7 @@
       "173,00",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5951,7 +5951,7 @@
       "",
       "",
       "Transitable con precaución probabilidad de  escarcha.  Animales sueltos . ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5962,7 +5962,7 @@
       "",
       "",
       "Transitable con  precaución, calzada con barro y huellones. Animales sueltos. Circulación habilitada sólo para vehiculos 4X4.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5972,8 +5972,8 @@
       "PAVIMENTO",
       "64",
       "",
-      "Transitable con  precaución, sectores con escarcha. Animales sueltos.",
-      "25/8/2026 07:30"
+      "Transitable con precaución, sectores con escarcha. Banquinas inestables.Animales sueltos.",
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5983,8 +5983,8 @@
       "PAVIMENTO",
       "",
       "",
-      "Transitable con precaución, sectores con escarcha. Animales sueltos.",
-      "25/8/2026 07:30"
+      "Transitable con precaución, sectores con escarcha. Banquinas inestables.Animales sueltos.",
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -5994,8 +5994,8 @@
       "PAVIMENTO",
       "45",
       "",
-      "Transitable con  precaución, sectores con escarcha. Animales sueltos.",
-      "25/8/2026 07:30"
+      "Transitable con precaución, sectores con escarcha. Banquinas inestables.Animales sueltos.",
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6006,7 +6006,7 @@
       "75",
       "",
       "Transitable con precaución. Sectores con escarcha. Calzada con baches. Animales sueltos.Banquinas inestables. Viento. Visibilidad reducida por neblina.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6017,7 +6017,7 @@
       "25",
       "",
       "Transitable con precaución . Calzada con baches y escarcha. Animales Sueltos. Banquina inestable. Viento.Visibilidad reducida por neblina.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6028,7 +6028,7 @@
       "46",
       "",
       "Transitable con  precaución. Sectores con  baches y escarcha. Animales sueltos. Banquina inestable.  Viento. Visibilidad reducida por neblina.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6039,7 +6039,7 @@
       "74",
       "",
       "Transitable con precaución. Sectores con  baches y escarcha. Animales sueltos. Banquina inestable.  Viento. Visibilidad reducida por neblina.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6050,7 +6050,7 @@
       "84",
       "",
       "Transitable con precaución. Sectores con baches y escarcha. Animales sueltos. Banquina inestable.  Viento. Visibilidad reducida por neblina.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6061,7 +6061,7 @@
       "125,00",
       "",
       "Transitable con precaución sectores con escarcha. Banquinas inestables. Animales sueltos.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6072,7 +6072,7 @@
       "41,00",
       "",
       "Transitable con  precaución . Sectores con escarcha.  Banquinas inestables. Animales sueltos. Baches",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6083,7 +6083,7 @@
       "77,40",
       "",
       "Transitable con  precaución . Sectores con escarcha.  Banquinas inestables. Animales sueltos. Baches",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6094,7 +6094,7 @@
       "144,00",
       "",
       "Transitable con extrema precaución. Nieve pisada. Sectores con huellones y barro. Animales sueltos. Baches. Banquinas inestables.",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Cruz",
@@ -6105,7 +6105,7 @@
       "9,94",
       "",
       "  Transitable con precaución por sectores con  barro y huellones. Viisbilidad reducida por neblina. ",
-      "25/8/2026 07:30"
+      "26/8/2026 07:30"
     ],
     [
       "Santa Fe",
@@ -6116,7 +6116,7 @@
       "56,13",
       "",
       "Precaución en el alteo por la laguna La Picasa, paso a velocidad reducida (80km/h vehículos livianos - 60 km/h pesados y colectivos). Tareas de bacheo y repavimentación entre La Picasa y Rufino (paso alternado de a una mano por vez en zonas de trabajos) - Transito con precaución en paso por alcantarilla en Km 414 entre Aarón Castellanos y Rufino",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6127,7 +6127,7 @@
       "118,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6138,7 +6138,7 @@
       "50,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6149,7 +6149,7 @@
       "9,00",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6160,7 +6160,7 @@
       "39,63",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6171,7 +6171,7 @@
       "63,50",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6182,7 +6182,7 @@
       "17,26",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general -  ATENCION: Trabajos de mantentimiento y demarcación en travesía urbana Granadero Baigorria con reducciones puntuales de carril. ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6193,7 +6193,7 @@
       "86,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general  - Trabajos en calzada con reducción de carril y paso alternado de lunes a viernes, de 8 a18, en Puerto General San Martín con desvíos y paso a velocidad reducida. ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6204,7 +6204,7 @@
       "52,00",
       "",
       "ATENCION: Puente Carretero habilitado para todo tipo de vehículos incluidos colectivos de doble piso - camiones limitados a la configuración de un solo eje trasero - PROHIBIDO el cruce de: camiones con balancín (doble eje trasero), semirremolques, camiones con acoplado, bateas, y toda configuración que supere un solo eje trasero - Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6215,7 +6215,7 @@
       "482,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general. Precaución en la circulación por deficiente estado de la calzada en diversos sectore entre Santa Fe, Recreo, San Justo, Gobernador Crespo, Vera, Malabrigo, Reconquista, Villa Ocampo, Límite con Chaco. En el tramo Candioti (Km 490 ) - Reconquista (Km 786) la velocidad máxima recomendada por las tareas de reparación de la ruta es de 80 KM/H en los tramos no urbanizados.",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6226,7 +6226,7 @@
       "127,63",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6237,7 +6237,7 @@
       "22,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6248,7 +6248,7 @@
       "235,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general - Trabajos de bacheo y mantenimiento general. ATENCION: Venado Tuerto (KM 636) Interseccion con RP N°7 (acceso Aeródromo), desvío por construccion de rotonda sobre RN 33. ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6259,7 +6259,7 @@
       "19,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6270,7 +6270,7 @@
       "16,00",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6281,7 +6281,7 @@
       "206,00",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6292,7 +6292,7 @@
       "209,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "PRECAUCION: Desvíos y presencia de equipos y personal de obra en la construcción de la Autopista RN 34 entre empalme RP 13 (Ataliva) y Sunchales (RP 280S) - Velocidad de precaución para el tramo en obras 60 Km/. Se solicita a los usuario respetar las indicaciones de velocidades máximas, banderilleros y sentidos de paso señalados en los desvíos. DESVIO: ambas manos las 24 horas al norte de Monigotes en Km 314.5 por reconstrucción alcantarilla de cruce sobre la traza. - PRECAUCION: desvíos en intersección de RN 34 y RP 39 en Arrufó por construcción rotonda. ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6303,7 +6303,7 @@
       "81,28",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6314,7 +6314,7 @@
       "71,30",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6325,7 +6325,7 @@
       "164,50",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6336,7 +6336,7 @@
       "155,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6347,7 +6347,7 @@
       "70,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6358,7 +6358,7 @@
       "17,00",
       "",
       "Precaución corte de pasto en banquinas y zona de camino - bacheo de transitabilidad - mantenimiento general",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6369,7 +6369,7 @@
       "5,68",
       "",
       "ALERTA: (INTRANSITABLE DÍAS DE LLUVIA E INMEDIATOS POSTERIORES) ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6380,7 +6380,7 @@
       "2,60",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6391,7 +6391,7 @@
       "3,00",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6402,7 +6402,7 @@
       "69,00",
       "",
       "Trabajos de mantenimiento",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6413,7 +6413,7 @@
       "30,00",
       "",
       "Trabajos de mantenimiento",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6424,7 +6424,7 @@
       "58,00",
       "",
       "Trabajos de mantenimiento - TRABAJOS DE BACHEO: Tareas sobre calzada con reparaciones entre Villa Eloísa y RN 9 y entre RN 9 y Las Rosas. Reducciones de carril durante las intevenciones, con paso alternado. Circulación con precaución por calzada en reparación en el tramo Acceso Villa Eloísa - RN 1V09. Entre Villa Eloísa (Km 146) y Las Rosas (Km 205) la velocidad máxima recomendada por tareas de reparación de la ruta es de 80 KM/H en los tramos no urbanizados.",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6435,7 +6435,7 @@
       "16,00",
       "",
       "Precaución trabajos de mantenimiento general - posibles reducciones de carril puntuales por tareas en calzada",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6446,7 +6446,7 @@
       "69,00",
       "",
       "Precaución trabajos de mantenimiento general - posibles reducciones de carril puntuales por tareas en calzada -ATENCION: Puente sobre río Carcarañá, entre Carcarañá y Correa, rehabilitado a la circulación para todo tipo de vehículos.",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6457,7 +6457,7 @@
       "22,50",
       "",
       "Precaución trabajos de mantenimiento general - posibles reducciones de carril puntuales por tareas en calzada",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6468,7 +6468,7 @@
       "4,50",
       "",
       "Trabajos de mantenimiento",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6479,7 +6479,7 @@
       "2,70",
       "",
       "Trabajos de mantenimiento",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6490,7 +6490,7 @@
       "21,60",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6501,7 +6501,7 @@
       "8,19",
       "",
       "",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6512,7 +6512,7 @@
       "12,00",
       "",
       "Trabajos de mantenimiento",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6523,7 +6523,7 @@
       "42,00",
       "",
       "Se realizan trabajos de reparación de calzada en el intercambiador de la RN AO12 y la Autopista Rosario–Buenos Aires. Durante las tareas se efectuarán cortes progresivos en distintos sectores, de acuerdo con el avance de la obra. Los puestos estarán señalizados con banderilleros de la empresa y cartelería indicativa. Se recomienda prever demoras en la circulación y respetar las indicaciones del personal vial que trabaja en el lugar.",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santa Fe",
@@ -6534,7 +6534,7 @@
       "25,00",
       "",
       "Corte total en la intersección con RN 34 por mantenimiento vial entre Ricardone y Roldán. Desvíos: -Vecinos del barrio al norte de A012, acceso por el camino alternativo paralelo a la A012 (sólo vehículos livianos). -Vecinos del barrio al sur de A012, ingreso y egreso por la banquina habilitada sobre la A012 (solo vehículos livianos). Para el tránsito pesado, solo podrá acceder al Parque Industrial de Roldán por A012 y RN1 V 09. Se prohíbe la circulación de camiones en la A012 entre RN1 V 09 y RN 34 (excepto los que se dirigen al Parque Industrial de Roldán). El tránsito liviano podrá circular desde la RN1V 09 hasta el final del Parque Industrial de Roldán. ",
-      "25/8/2026 09:00"
+      "26/8/2026 09:00"
     ],
     [
       "Santiago del Estero",
