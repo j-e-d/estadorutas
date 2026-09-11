@@ -164,7 +164,7 @@
       "PAVIMENTO",
       "12",
       "",
-      "Durante la jornada de hoy se ejecutan TAREAS DE MANTENIMIENTO DEL PUENTE BAILEY sobre el Arroyo Maldonado en la Ruta Nacional 3 Km. 692.\r\n\r\n\r\nEN TAL SENTIDO, EL TRÁNSITO CIRCULA EN FORMA ASISTIDA SOBRE EL PUENTE DE HORMIGÓN SOBRE LA CALZADA.                              \r\n\r\n                                                                                                                                                                                                                                                                                                         \r\nPor otro lado, continúa la LIMITACIÓN DE CARGA SOBRE EL PUENTE DE HORMIGÓN DE LA RN 3 KM 692 con un peso máximo de 40 toneladas y una carga máxima por eje de 11 toneladas. \r\n\r\n\r\nCabe aclarar que el operativo de tránsito contará con la colaboración de la Guardia Urbana de la Municipalidad de Bahía Blanca y la Agencia Nacional de Seguridad Vial. \r\n\n",
+      "Restricción de peso para la circulación sobre el puente ubicado en el kilómetro 692 de la Ruta Nacional 3 \n\nSENTIDO DESCENDENTE (sobre el puente de hormigón existente): Peso máximo de 40 Tn y una carga máxima por eje de 11 Tn. Desvío obligatorio desde el sur: en El Cholo (RN 3 y RN 33) por RN 33, circunvalación Atilio Freut y RN 229 hasta retomar RN 3 en Grumbein.\n\nSENTIDO ASCENDENTE (sobre el puente Bailey): Peso máximo de 45 toneladas. Desvío obligatorio desde el norte: en Grumbein por RN 229, circunvalación Atilio Freut y RN 33 hasta RN 3 en El Cholo.\n\n",
       "11/9/2026 09:00"
     ],
     [
@@ -175,7 +175,7 @@
       "PAVIMENTO",
       "21",
       "",
-      "Durante la jornada de hoy se ejecutan TAREAS DE MANTENIMIENTO DEL PUENTE BAILEY sobre el Arroyo Maldonado en la Ruta Nacional 3 Km. 692.\r\n\r\n\r\nEN TAL SENTIDO, EL TRÁNSITO CIRCULA EN FORMA ASISTIDA SOBRE EL PUENTE DE HORMIGÓN SOBRE LA CALZADA.                              \r\n\r\n                                                                                                                                                                                                                                                                                                         \r\nPor otro lado, continúa la LIMITACIÓN DE CARGA SOBRE EL PUENTE DE HORMIGÓN DE LA RN 3 KM 692 con un peso máximo de 40 toneladas y una carga máxima por eje de 11 toneladas. \r\n\r\n\r\nCabe aclarar que el operativo de tránsito contará con la colaboración de la Guardia Urbana de la Municipalidad de Bahía Blanca y la Agencia Nacional de Seguridad Vial. \r\n\n",
+      "Restricción de peso para la circulación sobre el puente ubicado en el kilómetro 692 de la Ruta Nacional 3 \n\nSENTIDO DESCENDENTE (sobre el puente de hormigón existente): Peso máximo de 40 Tn y una carga máxima por eje de 11 Tn. Desvío obligatorio desde el sur: en El Cholo (RN 3 y RN 33) por RN 33, circunvalación Atilio Freut y RN 229 hasta retomar RN 3 en Grumbein.\n\nSENTIDO ASCENDENTE (sobre el puente Bailey): Peso máximo de 45 toneladas. Desvío obligatorio desde el norte: en Grumbein por RN 229, circunvalación Atilio Freut y RN 33 hasta RN 3 en El Cholo.\n\n",
       "11/9/2026 09:00"
     ],
     [
@@ -501,12 +501,12 @@
       "Buenos Aires",
       "205",
       "Cañuelas - Int. RP 51",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-cielo'>RESTRINGIDA</span>",
       "PAVIMENTO",
       "116.00",
       "",
-      "Km 150: Camión volcado. Trabajan grúas pesadas. Respetar las señales precautorias",
-      "11/9/2026 09:30"
+      "Km 150: Camión volcado. Trabajan grúas pesadas. Tránsito asistido en un solo carril. Respetar las señales precautorias",
+      "11/9/2026 12:15"
     ],
     [
       "Buenos Aires",
@@ -1111,7 +1111,7 @@
       "92,82",
       "",
       "Calzada normal, húmeda en sectores. Banquinas húmedas. Animales sueltos. Equipos viales trabajando. Viento. Transitar con precaución ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1121,8 +1121,8 @@
       "PAVIMENTO",
       "62,87",
       "",
-      "Calzada normal, húmeda en sectores. Banquinas húmedas, con barro en sectores. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Desvío habilitado. Respetar señalamiento. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada normal. Banquinas húmedas en sectores. Respetar señalamiento. Animales sueltos. Equipos viales trabajando en repavimentación de calzada, en el acceso norte a Trelew. Desvío habilitado. Respetar señalamiento. Viento. Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1132,8 +1132,8 @@
       "PAVIMENTO",
       "198,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda en sectores. Banquinas húmedas. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1144,7 +1144,7 @@
       "178,00",
       "",
       "Calzada normal, húmeda con sal en sectores. Baches sobre calzada en sectores. Banquinas inestables, con barro en sectores. Equipos de Vialidad Nacional trabajando en bacheo y motoniveladora trabajando en estabilización de banquinas entre Garayalde-Salamanca. Animales sueltos. Viento.  Transitar con precaución.",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1155,7 +1155,7 @@
       "17,31",
       "",
       "Calzada normal, deformada en sectores. Banquinas normales. Equipos al servicio de Vialidad Nacional trabajando en zona urbana de Comodoro Rivadavia. Desvío por obras en Ramón Santos. Animales sueltos. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1165,8 +1165,8 @@
       "PAVIMENTO",
       "205,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas húmedas con barro. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda en sectores. Banquinas húmedas con barro. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1176,8 +1176,8 @@
       "PAVIMENTO",
       "103,00",
       "",
-      "Calzada húmeda, deformada en sectores. Banquinas húmedas en sectores. Desvío de ripio en el km 259 - 261 (Circular a baja velocidad en el desvío. Máxima 40 km/h). Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Desvío de ripio con barro en el km 259 - 261 (Circular a baja velocidad en el desvío. Máxima 40 km/h). Equipos de Vialidad Nacional trabajando. Animales sueltos. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1187,8 +1187,8 @@
       "PAVIMENTO",
       "57,00",
       "",
-      "Calzada húmeda, deformada en sectores. Calzada con deformaciones y baches en sectores. Banquinas húmedas. Equipos de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Heladas. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda en sectores. Calzada con deformaciones y baches en sectores. Banquinas húmedas. Equipos de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1198,8 +1198,8 @@
       "PAVIMENTO",
       "164,00",
       "",
-      "Calzada húmeda por riego con sal en sectores. Calzada con deformaciones y baches en sectores. Banquinas con barro y nieve en sectores. Equipos de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Heladas. Transitar con extrema precaución.",
-      "11/9/2026 08:00"
+      "Calzada húmeda por riego con sal, con escarcha en sectores. Calzada con deformaciones y baches en sectores. Banquinas con barro y nieve en sectores. Equipos de Vialidad Nacional trabajando. Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1210,7 +1210,7 @@
       "138,00",
       "",
       "Calzada normal, con sal en sectores. Banquinas normales, húmedas en sectores. Animales sueltos. Equipos viales al servicio de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1220,8 +1220,8 @@
       "PAVIMENTO",
       "72,70",
       "",
-      "Calzada normal, húmeda con sal en sectores. Banquinas húmedas, con barro en sectores. Animales sueltos. Equipos viales al servicio de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Banquinas húmedas, con barro en sectores. Animales sueltos. Equipos viales al servicio de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1231,8 +1231,8 @@
       "PAVIMENTO",
       "37,30",
       "",
-      "Calzada normal, húmeda con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmedas en sectores. Equipos viales trabajando. Animales sueltos. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmedas en sectores. Equipos viales trabajando. Animales sueltos. Viento. Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1242,8 +1242,8 @@
       "PAVIMENTO",
       "53,40",
       "",
-      "Calzada normal, húmeda con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmedas en sectores. Equipos viales trabajando. Animales sueltos. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Calzada con baches y deformaciones en sectores. Banquinas húmedas en sectores. Equipos viales trabajando. Animales sueltos. Viento. Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1253,8 +1253,8 @@
       "PAVIMENTO",
       "178,00",
       "",
-      "Calzada húmeda. Banquinas húmedas en sectores. Entre Facundo-Tamariscos calzada con deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio con humedad y barro en sectores, con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Viento. Heladas. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Entre Facundo-Tamariscos calzada con deformaciones. Precaución en ese tramo. Equipos viales trabajando. Desvío de ripio con humedad y barro en sectores, con extrema precaución entre Facundo y Tamarisco. Transitar a 60 km/h. Respetar señalamiento. Animales sueltos. Viento. Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1265,7 +1265,7 @@
       "83,70",
       "",
       "Calzada humeda por riego con sal. Banquinas inestables con barro en sectores. Calzada con deformaciones en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1275,8 +1275,8 @@
       "PAVIMENTO",
       "84,40",
       "",
-      "Calzada húmeda, con sal en sectores. Banquinas inestables, con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Heladas. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada húmeda por riego con sal en sectores. Banquinas inestables, con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento.  Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1286,8 +1286,8 @@
       "PAVIMENTO",
       "105,00",
       "",
-      "Calzada húmeda, con sal en sectores. Banquinas húmedas, con barro en sectores. Animales sueltos. Sectores con deformaciones entre Leleque y arroyo Madera. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "Calzada normal, húmeda por riego con sal en sectores. Banquinas húmedas, con barro en sectores. Animales sueltos. Sectores con deformaciones entre Leleque y arroyo Madera. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1297,8 +1297,8 @@
       "PAVIMENTO",
       "47,30",
       "",
-      "Calzada normal, húmeda en sectores. Banquinas húmedas en sectores. Animales sueltos. Sectores con deformaciones. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Banquinas húmedas en sectores. Animales sueltos. Sectores con deformaciones. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1308,8 +1308,8 @@
       "PAVIMENTO",
       "13,60",
       "",
-      "Calzada húmeda por riego con sal. Banquinas húmedas, con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Banquinas húmedas, con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1319,8 +1319,8 @@
       "PAVIMENTO",
       "21,63",
       "",
-      "Calzada húmeda por riego con sal. Banquinas húmedas,con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "Calzada normal, con sal en sectores. Banquinas húmedas,con barro en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución.",
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1331,7 +1331,7 @@
       "39,95",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/49/Futaleuf%C3%BA\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Calzada húmeda, con barro en sectores. Banquinas húmedas, con barro en sectores. Respetar señalamiento. Animales sueltos. Maquinaria de Vialidad Nacional trabajando en mantenimiento de calzada. Viento. Transitar con precaución.",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1342,7 +1342,7 @@
       "105,41",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/56/Huemules\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Calzada de ripio húmeda, con barro en sectores. Banquinas inestables con barro. Sectores en obra entre los km 59 y 82. Animales sueltos. Viento moderado. Transitar con precaución entre Lago Blanco y Paso Huemules, por deformaciones de calzada en sectores. Equipos viales trabajando en mantenimiento de la calzada. Respetar el señalamiento existente. ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1353,7 +1353,7 @@
       "7,00",
       "",
       "Calzada normal. Banquinas normales, húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1364,7 +1364,7 @@
       "12,20",
       "",
       "Calzada normal. Banquinas normales. Animales sueltos. Viento. Transitar con precaución.  ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Chubut",
@@ -1375,7 +1375,7 @@
       "19,60",
       "",
       "Calzada normal. Banquinas normales, húmedas en sectores. Animales sueltos. Equipos de Vialidad Nacional trabajando en mantenimiento de calzada. Viento. Transitar con precaución. ",
-      "11/9/2026 08:00"
+      "11/9/2026 15:00"
     ],
     [
       "Córdoba",
@@ -4367,7 +4367,7 @@
       "23,52",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4377,8 +4377,8 @@
       "PAVIMENTO",
       "136,40",
       "",
-      "Transitable con precaución. Calzada húmeda. lloviznas/aguanieve Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
-      "11/9/2026 09:20"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4389,7 +4389,7 @@
       "68,46",
       "",
       "Transitable con precaución. Calzada húmeda. Bajas temperaturas. Posible caída de piedras en el km 2.095. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4399,8 +4399,8 @@
       "PAVIMENTO",
       "43,77",
       "",
-      "Transitable con precaución. Calzada húmeda. Neviscando. Bajas temperaturas. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "Transitable con precaución. Calzada húmeda. Bajas temperaturas. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4410,8 +4410,8 @@
       "PAVIMENTO",
       "43,16",
       "",
-      "Transitable con  precaución.  Calzada húmeda. Neviscando. Posibles desmoronamientos. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "Transitable con  precaución.  Calzada húmeda. Posibles desmoronamientos. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4421,8 +4421,8 @@
       "PAVIMENTO",
       "66,01",
       "",
-      "Transitable con precaución. Calzada húmeda, lloviznas. Posible caida de rocas. Posible formación de hielo en sectores. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas ",
-      "11/9/2026 09:20"
+      "Transitable con precaución. Calzada húmeda. Posible caida de rocas. Posible formación de hielo en sectores. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas ",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4433,7 +4433,7 @@
       "35,45",
       "",
       "Transitable con precaución. Calzada húmeda. Bajas temperaturas. Posible formación de hielo en sectores. Posible caida de rocas. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4443,8 +4443,8 @@
       "PAVIMENTO",
       "120,32",
       "",
-      "Transitable con precaución. Calzada húmeda. lloviznas/aguanieve. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
-      "11/9/2026 09:20"
+      "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4455,7 +4455,7 @@
       "49,01",
       "",
       "Transitable con precaución. Calzada húmeda. lloviznas/aguanieve Posible formación de hielo en sectores. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4466,7 +4466,7 @@
       "142,27",
       "",
       "Transitable con precaución. Calzada con nieve acumulada. Nevando. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4477,7 +4477,7 @@
       "116,21",
       "",
       "Transitable con precaución. Calzada con nieve acumulada. Nevando. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4488,7 +4488,7 @@
       "14,94",
       "",
       "Transitable con precaución. Calzada húmeda. Bajas temperaturas. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4498,8 +4498,8 @@
       "PAVIMENTO",
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Transitable con máxima  precaución para todo tipo de vehículos. Calzada con neviscas acumuladas y hielo en sectores. Bajas temperaturas. Mantener distancias de frenado, evitar maniobras de sobrepaso. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas físicas. ",
-      "11/9/2026 09:20"
+      "Transitable con máxima precaución para todo tipo de vehículos. Calzada con neviscas acumuladas y hielo en sectores. Bajas temperaturas. Mantener distancias de frenado, evitar maniobras de sobrepaso. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas físicas. ",
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4510,7 +4510,7 @@
       "57,44",
       "",
       "Transitable con precaución. Calzada despejada. Zona con animales sueltos. Posibles desprendimientos de rocas. Equipos operando. Portacion obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4521,7 +4521,7 @@
       "174,43",
       "",
       "Transitable con precaucion. Calzada despejada. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4532,7 +4532,7 @@
       "118,79",
       "",
       "Transitable con precaución. Calzada despejada. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4543,7 +4543,7 @@
       "67,36",
       "",
       "Transitable con precaución. Calzada húmeda. Posible formación de hielo en sectores. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4554,7 +4554,7 @@
       "51,63",
       "",
       "Transitable con precaución. Calzada con nieve en sectores. Nevando. Posible formación de hielo en sectores. Zona con animales sueltos. Portación obligatoria de cadenas.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4565,7 +4565,7 @@
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "Intransitable durante toda la jornada. Calzada con hielo y nieve. Nevando. Baja adherencia. Zona con animales sueltos. Posible caída de piedras en el km 48. Equipos operando.",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4576,7 +4576,7 @@
       "6,86",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Neuquén",
@@ -4587,7 +4587,7 @@
       "23,67",
       "",
       "Transitable con precaución. Calzada húmeda. Tránsito intenso",
-      "11/9/2026 09:20"
+      "11/9/2026 14:20"
     ],
     [
       "Río Negro",
@@ -5555,7 +5555,7 @@
       "211,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5566,7 +5566,7 @@
       "33,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5577,7 +5577,7 @@
       "198,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5588,7 +5588,7 @@
       "40,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5599,7 +5599,7 @@
       "120,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5610,7 +5610,7 @@
       "93,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5621,7 +5621,7 @@
       "118,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5632,7 +5632,7 @@
       "127,00",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "San Luis",
@@ -5643,7 +5643,7 @@
       "9,87",
       "",
       "",
-      "10/9/2026 09:45"
+      "11/9/2026 09:45"
     ],
     [
       "Santa Cruz",
@@ -6545,7 +6545,7 @@
       "97,00",
       "",
       "Se recomienda a los usuarios transitar con EXTREMA PRECAUCION entre los Km 1020 a 1030, por calzada en mal estado.",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6556,7 +6556,7 @@
       "68,00",
       "",
       "Se recomienda a los usuarios transitar con EXTREMA PRECAUCION entre los Km 1020 a 1030, por calzada en mal estado.",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6567,7 +6567,7 @@
       "60,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6578,7 +6578,7 @@
       "85,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6589,7 +6589,7 @@
       "4,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6600,7 +6600,7 @@
       "70,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6611,7 +6611,7 @@
       "96,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6622,7 +6622,7 @@
       "321,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6633,7 +6633,7 @@
       "77,00",
       "<a href=\"https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/institucional/informacion-publica/tarifas-de-peajes\" title=\"Tarifa del peaje\" target=\"_blank\" style=\"margin-right:.75em\"><img src=\"https://back.argentina.gob.ar/sites/default/files/transporte-telepase-2080538950_mod-1323985427.svg\" style=\"height:1.2rem;margin-top: -8px\" alt=\"Tarifa del peaje\"></a>",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6644,7 +6644,7 @@
       "66,00",
       "",
       "Se solicita circular con precaucion a la altura del Km 859 x falla estructural.Se recomienda hacerlo por RN9 hacia Tucuman o Salta o bien x RP 130 (Pozo Hondo - Isca Yacu y Las Cejas) desde Salta o Tucuman hacia Sgo. del Estero x RN9",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6655,7 +6655,7 @@
       "39,20",
       "",
       "Se solicita circular con precaucion a la altura del Km 859 x falla estructural.Se recomienda hacerlo por RN9 hacia Tucuman o Salta o bien x RP 130 (Pozo Hondo - Isca Yacu y Las Cejas) desde Salta o Tucuman hacia Sgo. del Estero x RN9",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6666,7 +6666,7 @@
       "70,40",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6677,7 +6677,7 @@
       "12,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6688,7 +6688,7 @@
       "58,70",
       "",
       "Se solicita a los usuarios circular con precaucion a la altura de las localidades de San Lorenzo y Pampa Muyoj, debido a falla estructural en la calzada. Desde el miercoles 9 de septiembre y hasta el 11 de septiembre corte de transito de 8 a 12 hs, por tareas de mantenimiento.",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6699,7 +6699,7 @@
       "9,80",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6710,7 +6710,7 @@
       "25,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6721,7 +6721,7 @@
       "71,47",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6732,7 +6732,7 @@
       "112,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6743,7 +6743,7 @@
       "28,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6754,7 +6754,7 @@
       "13,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6765,7 +6765,7 @@
       "47,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6776,7 +6776,7 @@
       "50,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Santiago del Estero",
@@ -6787,7 +6787,7 @@
       "32,00",
       "",
       "",
-      "10/9/2026 09:25"
+      "11/9/2026 11:38"
     ],
     [
       "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
