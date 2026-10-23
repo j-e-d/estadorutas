@@ -781,7 +781,7 @@
       "80",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -792,7 +792,7 @@
       "66",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -803,7 +803,7 @@
       "87",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -814,7 +814,7 @@
       "11",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -825,7 +825,7 @@
       "36",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -836,7 +836,7 @@
       "88",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -847,7 +847,7 @@
       "14",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -858,7 +858,7 @@
       "9",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -869,7 +869,7 @@
       "109",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -880,7 +880,7 @@
       "60",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -891,7 +891,7 @@
       "42",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -902,7 +902,7 @@
       "70",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -913,7 +913,7 @@
       "46",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -924,7 +924,7 @@
       "94",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -935,7 +935,7 @@
       "103",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/25/San-Francisco\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
       "El Paso de San Francisco CERRADO por acumulación de nieve en calzada en RN 60 (Argentina) y R CH31 (Chile).  Se trabaja en el despeje de calzada.",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -946,7 +946,7 @@
       "56",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Catamarca",
@@ -957,7 +957,7 @@
       "92",
       "",
       "",
-      "22/10/2026 08:08"
+      "23/10/2026 06:28"
     ],
     [
       "Chaco",
@@ -4362,232 +4362,232 @@
       "Neuquén",
       "22",
       "Plottier - Arroyito",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "23,52",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Tránsito intenso",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "22",
       "Arroyito - Zapala",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "136,40",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Lte. con Río Negro - Emp. RN 231",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "68,46",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Emp. RN 231 - Lago Villarino",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "43,77",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Lago Villarino- San Martín de los Andes",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "43,16",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "San Martín de los Andes - Rinconada",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "66,01",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Rinconada - Catan Lil",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "35,45",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con extrema precaución. Calzada mojada. Lluvia. Sectores con erosiones por las precipitaciones. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Catan Lil - Zapala",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "120,32",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con extrema precaución. Calzada erosionada en sectores, con sedimentos. Lluvia. Animales sueltos.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Zapala - Las Lajas",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "49,01",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Las Lajas - Chos Malal",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "142,27",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con extrema precaución. Calzada mojada, sectores con sedimentos. Visibilidad reducida por niebla espesa. Lloviznas. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "40",
       "Chos Malal - Lte. con Mendoza",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "116,21",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con extrema precaución. Calzada mojada, sectores con sedimentos. Visibilidad reducida por niebla espesa. Lloviznas. Tránsitar a velocidad precautoria. Personal y equipos operando. Animales sueltos. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "231",
       "Emp. RN 40 - Aduana",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "14,94",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "231",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "16,53",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/42/Cardenal-Antonio-Samor%C3%A9\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
+      "Transitable con precaución para todo tipo de vehículos. Calzada despejada y mojada. Nublado. Pronóstico de lluvia. Mantener distancias de frenado, evitar maniobras de sobrepaso. Personal y equipos de Vialidad Nacional operando. Portación obligatoria de cadenas físicas.",
       "22/10/2026 20:00"
     ],
     [
       "Neuquén",
       "234",
       "Rinconada - Emp. RN 237",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "57,44",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia. Zona con animales sueltos. Posibles desprendimientos de rocas. Equipos operando. Portacion obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "237",
       "Arroyito - Piedra del Aguila",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "174,43",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaucion. Calzada mojada. Lluvia.  Zona con animales sueltos. Portación obligatoria de cadenas. Equipos operando.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "237",
       "Piedra del Aguila - Arroyo Limay Chico",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "118,79",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con extrema precaución. Calzada mojada, lluvia. Sectores con erosiones por las precipitaciones. Posible caída de piedras. Zona con animales sueltos. Equipos operando. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "237",
       "Arroyo Limay Chico - Emp. RN 40",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "67,36",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Lluvia Posible caída de piedras. Zona con animales sueltos. Personal y equipos operando en el despeje. Portación obligatoria de cadenas",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "242",
       "Las Lajas - Aduana",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "51,63",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Zona con animales sueltos. Portación obligatoria de cadenas.",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "242",
       "Aduana - Lte. con Chile",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "7,21",
       "<a href=\"https://www.argentina.gob.ar/seguridad/pasosinternacionales/detalle/ruta/37/Pino-Hachado\" title=\"Estado del paso internacional\" target=\"_blank\"><img src=\"https://back.argentina.gob.ar/sites/default/files/paso-bajo-nivel_2_mod-1933788867.svg\" style=\"height:1.3rem;margin-top: -8px\" alt=\"Estado del paso internacional\"></a>",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
+      "Transitable con precaución para todo tipo de vehículos. Calzada mojada. Zona con animales sueltos. Posible caída de rocas en el km 48. Portación obligatoria de cadenas físicas. Equipos operando.",
       "22/10/2026 20:00"
     ],
     [
       "Neuquén",
       "Vº RN 22",
       "Lte. Con Río Negro - Vinculación Autovía Norte",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "6,86",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Tránsito intenso",
+      "23/10/2026 06:20"
     ],
     [
       "Neuquén",
       "Vº RN 22",
       "Vinculación Autovía Norte - Emp. RN 22",
-      "<span class='label bg-tomate'>CORTE TOTAL</span>",
+      "<span class='label bg-verdin'>HABILITADA</span>",
       "PAVIMENTO",
       "23,67",
       "",
-      "Corte total de circulación desde las 20:00 a las 6:00 am en todas las rutas de la provincia",
-      "22/10/2026 20:00"
+      "Transitable con precaución. Calzada mojada. Tránsito intenso",
+      "23/10/2026 06:20"
     ],
     [
       "Río Negro",
@@ -4598,7 +4598,7 @@
       "185,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores. Desde Viedma hasta la Rotonda RN 250 tener presente que es una zona de chacras con varios caminos laterales donde ingresan y egresan vehículos de gran porte. Animales sueltos. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4609,7 +4609,7 @@
       "125,00",
       "",
       "Transitable con precaución.Calzada humeda por sectores. Circular respetando las velocidades máximas y los sectores de adelantamiento.  Tráfico vehicular moderado.  Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4620,7 +4620,7 @@
       "40,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores.Circular respetando las velocidades máximas y los sectores de adelantamiento. Sectores poceados.  Circular con cinturones de seguridad colocados y luces bajas encendidas.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4631,7 +4631,7 @@
       "193,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento. Circular a velocidad precautoria.  Tráfico vehicular moderado. Sectores con deformaciones de calzada en la zona de Río Colorado.  Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4642,7 +4642,7 @@
       "146,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento. Trafico vehicular alto. Calzada deformada. Circular a velocidad precautoria. Tráfico vehicular moderado/alto. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4653,7 +4653,7 @@
       "355,00",
       "",
       "Transitable con precaución. Prudencia al realizar maniobras de adelantamiento. Calzada en regular estado. Circular respetando las velocidades de circulación.  Tráfico vehicular alto. Precaucion en zonas de obra. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4664,7 +4664,7 @@
       "78,00",
       "",
       "Transitable con  Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias . Sectores con ondulaciones de calzada.  Circular con cinturones de seguridad colocados y luces bajas encendidas.  Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4675,7 +4675,7 @@
       "104,00",
       "",
       "Transitable con Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias.  Maxima atencion en la zona del corte Nahuel Niyeu. Atender las indicaciones del personal en el luga. Transitar respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4686,7 +4686,7 @@
       "89,00",
       "",
       "Transitable con Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias.  Transitar respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4697,7 +4697,7 @@
       "71,00",
       "",
       "Transitable con  Precaucion.Calzada humeda por sectores . Alerta amarilla por lluvias. Calzada en regular estado. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4708,7 +4708,7 @@
       "69,00",
       "",
       "Transitable con precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Calzada en regular estado. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4719,7 +4719,7 @@
       "47,00",
       "",
       "Transitable con precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Animales sueltos. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4730,7 +4730,7 @@
       "41,00",
       "",
       "Transitable con  Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Sectores con serruchos. Circular a baja velocidad. Tener presente que en tramo en obra con piedras sueltas. Precaución en las transiciones de asfalto a ripio. Sectores con curvas cerradas.  Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4741,7 +4741,7 @@
       "56,00",
       "",
       "Transitable con Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Tramo con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Piedras sueltas. Polvo en suspension. Sectores con curvas cerradas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4752,7 +4752,7 @@
       "64,00",
       "",
       "Transitable con Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias.  Sectores con barro . Desvíos por obras . Circular a baja velocidad. Piedras sueltas. Tramos con curvas cerradas. Precaución en las transiciones de asfalto a ripio. Sectores con serruchos. Circular con cinturones de seguridad colocados y luces bajas encendidas.Portacion obligatoria de cadenas. Se recomienda evitar circular en horaro nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4763,7 +4763,7 @@
       "90,00",
       "",
       "Transitable con precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Tramos en regular estado. Trayecto con curvas cerradas. Animales sueltos. Piedras en la calzada por derrumbes ocasionales. Respetar las distancias de frenado. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda evitar circular en horaro nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4774,7 +4774,7 @@
       "28,80",
       "",
       "Transitable con Precaucion. Calzada humeda por sectores . Alerta amarilla por lluvias. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas. Alerta amarilla por nevadas SMN.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4785,7 +4785,7 @@
       "25,00",
       "",
       "Transitable con Precaucion.Calzada humeda por sectores . Alerta amarilla por lluvias. Respetar los espacios de adelantamiento y las velocidades de circulación. Tráfico vehicular moderado / alto.Circular con cinturones de seguridad colocados y luces bajas encendidas.Se recomienda evitar circular en horario nocturno. Portacion obligatoria de cadenas fisicas.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4796,7 +4796,7 @@
       "147,00",
       "",
       "Transitable con precaución por presencia de tramos con calzada deteriorada. Calzada con ondulaciones y desniveles .Tráfico vehicular intenso. Circular a baja velocidad. Calzada humeda por lluvias. Baja visibilidad. Precaución al realizar maniobras de adelantamiento. Tramos con ahuellamiento de calzada. Sectores irregulares con descalce de banquinas. Circular con cinturones de seguridad colocados y luces bajas encendidas. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4807,7 +4807,7 @@
       "40,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores. Baja visibilidad. Animales sueltos. Sectores irregulares con descalce de banquinas. Respetar las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4818,7 +4818,7 @@
       "112,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores.Respetar velocidades máximas y los espacios de adelantamiento. Animales sueltos. Zona de Animales salvajes. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4829,7 +4829,7 @@
       "145,00",
       "",
       "Transitable con precaución. Calzada humeda por tramos. Circular respetando las velocidades máximas y mínimas. Animales sueltos. Zona de animales salvajes. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4840,7 +4840,7 @@
       "28,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores. Circular respetando las velocidades máximas y los espacios de adelantamiento. Animales sueltos. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno.Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4851,7 +4851,7 @@
       "119,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores.Respetar velocidades máximas y los espacios de adelantamiento. Precaución. Llevar luces bajas encendidas y cinturón de seguridad correctamente colocado. Respetar los espacios de adelantamiento. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4862,7 +4862,7 @@
       "84,00",
       "",
       "Transitable con precaución. Calzada humeda por sectores.Circular respetando las velocidades máximas y mínimas. Respetar los espacios de adelantamiento. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Condiciones normales de transitabilidad en gran parte del recorrido.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4873,7 +4873,7 @@
       "80,00",
       "",
       "Transitable con Precaucion . Recorrido sin banquinas. Tramos poceados con piedras sueltas. Recorrido con curvas cerradas y calzada angosta. Sectores irregulares.  Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. Portacion obligatoria de cadenas.",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4884,7 +4884,7 @@
       "149,00",
       "",
       "Sectores con con banquinas inestables. Calzada angosta con curvas cerradas. Circular a baja velocidad. Tramos con serruchos y piedras sueltas de Ñorquinco hacia el sur. Circular a baja velocidad. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4895,7 +4895,7 @@
       "28,00",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Circular respetando las velocidades máximas . Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Río Negro",
@@ -4906,7 +4906,7 @@
       "8,70",
       "",
       "Transitable con precaución. Calzada humeda por lluvias. Circular respetando las velocidades máximas. Circular con cinturones de seguridad colocados y luces bajas encendidas. Se recomienda no circular en horario nocturno. ",
-      "22/10/2026 07:00"
+      "23/10/2026 07:00"
     ],
     [
       "Salta",
